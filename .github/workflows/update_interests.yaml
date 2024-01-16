@@ -1,11 +1,11 @@
-name: Update repositories
+name: Update interests
 
 on:
   push:
     branches:
       - main
     paths:
-      - "**/repository.json"
+      - "**/interests.json"
   workflow_dispatch:
 
 jobs:
@@ -28,11 +28,11 @@ jobs:
 
       - name: Execute updater and commit changes
         run: |
-          python repository_parser.py
+          python update_interests.py
 
           git config --local user.email "updater@github.com"
           git config --local user.name "Updater"
 
           git add .
-          git commit -m "chore: add new repository"
+          git commit -m "chore: update interests"
           git push
