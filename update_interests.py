@@ -17,4 +17,4 @@ existing_yaml_data['body'][2]['attributes']['options'] = value_list
 
 # Write the updated YAML data back to the file
 with open('.github/ISSUE_TEMPLATE/NEW_PROJECT.yaml', 'w') as updated_yaml_file:
-    yaml.dump(existing_yaml_data, updated_yaml_file, default_flow_style=False)
+    yaml.dump(existing_yaml_data, updated_yaml_file)
