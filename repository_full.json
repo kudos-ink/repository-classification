@@ -1253,23 +1253,10 @@
         "data"
       ],
       "project": "opentensor/bittensor",
-      "topics": [
-        "ai",
-        "blockchain",
-        "cryptocurrency",
-        "deep-learning",
-        "machine-learning",
-        "neural-networks",
-        "p2p",
-        "p2p-network",
-        "polkadot",
-        "pytorch",
-        "substrate",
-        "torch"
-      ],
-      "about": "Internet-scale Neural Networks",
-      "languages": "Python",
-      "icon": "https://avatars.githubusercontent.com/u/61063461?v=4"
+      "topics": [],
+      "about": null,
+      "languages": null,
+      "icon": null
     }
   ]
 }
