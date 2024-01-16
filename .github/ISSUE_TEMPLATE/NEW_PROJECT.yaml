@@ -1,58 +1,59 @@
-name: New Project
-description: Add a new project
-title: "[Add]: "
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Thanks for taking the time to add a new project
-  - type: input
-    id: name
-    validations:
-      required: true
-    attributes:
-      label: Name
-      description: The name of the project
-      placeholder: ex. Polkadot SDK
-  - type: dropdown
-    id: interests
-    validations:
-      required: true
-    attributes:
-      label: Interests
-      description: What interests are related to the project?
-      multiple: true
-      options:
-        - polkadot
-        - kusama
-        - substrate
-        - evm
-        - defi
-        - smart contracts
-        - ink!
-        - bridge
-        - dex
-        - dao
-        - social
-        - zero-knowledge
-        - iot
-        - xcm
-        - wallet
-        - ai
-        - dapp
-        - data
-        - oracles
-        - gaming
-        - nft
-        - staking
-        - utilities
-        - rwa
-        - marketplace
-  - type: input
-    id: url
-    validations:
-      required: true
-    attributes:
-      label: Repository URL
-      description: The URL of the project
-      placeholder: ex. https://github.com/paritytech/polkadot-sdk
+- attributes:
+    value: 'Thanks for taking the time to add a new project
+
+      '
+  type: markdown
+- attributes:
+    description: The name of the project
+    label: Name
+    placeholder: ex. Polkadot SDK
+  id: name
+  type: input
+  validations:
+    required: true
+- attributes:
+    description: What interests are related to the project?
+    label: Interests
+    multiple: true
+    options:
+    - polkadot
+    - kusama
+    - substrate
+    - evm
+    - defi
+    - smart contracts
+    - ink!
+    - bridge
+    - dex
+    - dao
+    - social
+    - zero-knowledge
+    - iot
+    - xcm
+    - wallet
+    - ai
+    - dapp
+    - data
+    - oracles
+    - gaming
+    - nft
+    - staking
+    - utilities
+    - rwa
+    - marketplace
+  id: interests
+  type: dropdown
+  validations:
+    required: true
+- attributes:
+    description: The URL of the project
+    label: Repository URL
+    placeholder: ex. https://github.com/paritytech/polkadot-sdk
+  id: url
+  type: input
+  validations:
+    required: true
+description: Add a new project
+name: New Project
+title: '[Add]: '
