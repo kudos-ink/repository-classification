@@ -5,11 +5,11 @@
   },
   {
     "name": "ajuna_network",
-    "repository": ""
+    "repository": "https://github.com/ajuna-network/Ajuna"
   },
   {
     "name": "artzero",
-    "repository": ""
+    "repository": "https://github.com/ArtZero-io/frontend-react"
   },
   {
     "name": "arthswap",
@@ -21,7 +21,7 @@
   },
   {
     "name": "acala",
-    "repository": ""
+    "repository": "https://github.com/AcalaNetwork/Acala"
   },
   {
     "name": "beamswap",
@@ -37,7 +37,7 @@
   },
   {
     "name": "centrifuge",
-    "repository": ""
+    "repository": "https://github.com/centrifuge/centrifuge-chain"
   },
   {
     "name": "evrloot",
@@ -49,15 +49,15 @@
   },
   {
     "name": "hydraDX",
-    "repository": ""
+    "repository": "https://github.com/galacticcouncil/HydraDX-node"
   },
   {
     "name": "interlay",
-    "repository": ""
+    "repository": "https://github.com/interlay/interbtc"
   },
   {
     "name": "equilibrium",
-    "repository": ""
+    "repository": "https://github.com/equilibrium-eosdt/equilibrium-substrate-chain"
   },
   {
     "name": "heal3",
@@ -65,15 +65,15 @@
   },
   {
     "name": "kodaDOT",
-    "repository": ""
+    "repository": "https://github.com/kodadot/nft-gallery"
   },
   {
     "name": "moonwell",
-    "repository": ""
+    "repository": "https://github.com/moonwell-fi/moonwell-contracts-v2"
   },
   {
     "name": "polkadex",
-    "repository": ""
+    "repository": "https://github.com/Polkadex-Substrate/Polkadex"
   },
   {
     "name": "parallel",
@@ -81,7 +81,7 @@
   },
   {
     "name": "grillchat",
-    "repository": ""
+    "repository": "https://github.com/dappforce/grillchat"
   },
   {
     "name": "public_pressure",
@@ -93,11 +93,11 @@
   },
   {
     "name": "starlay",
-    "repository": ""
+    "repository": "https://github.com/starlay-finance/starlay-ui"
   },
   {
     "name": "unique_network",
-    "repository": ""
+    "repository": "https://github.com/UniqueNetwork/unique-new-wallet"
   },
   {
     "name": "taiga",
@@ -105,18 +105,14 @@
   },
   {
     "name": "zenlink",
-    "repository": ""
+    "repository": "https://github.com/zenlinkpro/zenlink-interface"
   },
   {
     "name": "zeitgeist",
-    "repository": ""
+    "repository": "https://github.com/zeitgeistpm/zeitgeist"
   },
   {
     "name": "skybreach",
-    "repository": ""
-  },
-  {
-    "name": "dapps_og_image",
     "repository": ""
   },
   {
@@ -128,16 +124,12 @@
     "repository": ""
   },
   {
-    "name": "dapps-hero",
-    "repository": ""
-  },
-  {
     "name": "bifrost",
-    "repository": ""
+    "repository": "https://github.com/bifrost-finance/bifrost"
   },
   {
     "name": "bit_country",
-    "repository": ""
+    "repository": "https://github.com/bit-country/Metaverse-Network"
   },
   {
     "name": "the_great_escape",
