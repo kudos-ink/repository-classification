@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - "**/repository.json"
+  workflow_dispatch:
 
 jobs:
   run_python_script:
