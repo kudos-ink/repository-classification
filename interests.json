@@ -1,0 +1,29 @@
+{
+  "interests": [
+    { "name": "Polkadot", "value": "polkadot", "emoji": "🌐" },
+    { "name": "Kusama", "value": "kusama", "emoji": "🔴" },
+    { "name": "Substrate", "value": "substrate", "emoji": "🎨" },
+    { "name": "EVM", "value": "evm", "emoji": "🔧" },
+    { "name": "DeFi", "value": "defi", "emoji": "💸" },
+    { "name": "Smart Contracts", "value": "smart contracts", "emoji": "📄" },
+    { "name": "Ink!", "value": "ink!", "emoji": "🖋️" },
+    { "name": "Bridge", "value": "bridge", "emoji": "🌉" },
+    { "name": "DEX", "value": "dex", "emoji": "💱" },
+    { "name": "DAO", "value": "dao", "emoji": "🗳️" },
+    { "name": "Social", "value": "social", "emoji": "👥" },
+    { "name": "Zero-Knowledge", "value": "zero-knowledge", "emoji": "🔐" },
+    { "name": "IoT", "value": "iot", "emoji": "🌐" },
+    { "name": "XCM", "value": "xcm", "emoji": "🚀" },
+    { "name": "Wallet", "value": "wallet", "emoji": "💼" },
+    { "name": "AI", "value": "ai", "emoji": "🤖" },
+    { "name": "DApp", "value": "dapp", "emoji": "📱" },
+    { "name": "Data", "value": "data", "emoji": "📊" },
+    { "name": "Oracles", "value": "oracles", "emoji": "🔮" },
+    { "name": "Gaming", "value": "gaming", "emoji": "🎮" },
+    { "name": "NFT", "value": "nft", "emoji": "🖼️" },
+    { "name": "Staking", "value": "staking", "emoji": "🌱" },
+    { "name": "Utilities", "value": "utilities", "emoji": "🔧" },
+    { "name": "RWA", "value": "rwa", "emoji": "🏦" },
+    { "name": "Marketplace", "value": "marketplace", "emoji": "🛒" }
+  ]
+}
