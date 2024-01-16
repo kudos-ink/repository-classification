@@ -26,14 +26,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Execute uppdater
+      - name: Execute updater and commit changes
         run: |
           python repository_parser.py
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      - name: Commit Changes
-        run: |
           git config --local user.email "updater@github.com"
           git config --local user.name "Updater"
 
