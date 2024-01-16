@@ -1,0 +1,25 @@
+polkadot
+kusama
+substrate
+evm
+defi
+smart contracts
+ink!
+bridge
+dex
+dao
+social
+zero-knowledge
+iot
+xcm
+wallet
+ai
+dapp
+data
+oracles
+gaming
+NFT
+staking
+utilities
+RWA
+marketplace

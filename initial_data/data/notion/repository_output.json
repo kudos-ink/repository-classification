@@ -27,12 +27,7 @@
   {
     "repository": "paritytech/polkadot-sdk",
     "about": "The Parity Polkadot Blockchain SDK",
-    "topics": [
-      "blockchain",
-      "cumulus",
-      "polkadot",
-      "substrate"
-    ],
+    "topics": ["blockchain", "cumulus", "polkadot", "substrate"],
     "languages": {
       "Rust": 35553934,
       "WebAssembly": 237178,
@@ -104,12 +99,7 @@
   {
     "repository": "virto-network/virto-node",
     "about": "Virto Network blockchain node.",
-    "topics": [
-      "blockchain",
-      "crypto-currency",
-      "substrate",
-      "web3"
-    ],
+    "topics": ["blockchain", "crypto-currency", "substrate", "web3"],
     "languages": {
       "Rust": 486173,
       "Handlebars": 9556,
@@ -120,11 +110,7 @@
   {
     "repository": "galacticcouncil/HydraDX-node",
     "about": "HydraDX node - cross-chain liquidity protocol built on Substrate",
-    "topics": [
-      "blockchain",
-      "rust",
-      "substrate"
-    ],
+    "topics": ["blockchain", "rust", "substrate"],
     "languages": {
       "Rust": 4979196,
       "JavaScript": 46239,
@@ -138,13 +124,7 @@
   {
     "repository": "InvArch/InvArch-Frames",
     "about": "InvArch FRAME Pallet Library - NFT, DAO, & IP Ownership Infrastructure for Substrate",
-    "topics": [
-      "blockchain",
-      "daos",
-      "git",
-      "intellectual-property",
-      "nfts"
-    ],
+    "topics": ["blockchain", "daos", "git", "intellectual-property", "nfts"],
     "languages": {
       "Rust": 398643
     }
@@ -173,11 +153,7 @@
   {
     "repository": "hashed-io/hashed-substrate",
     "about": "Hashed Network - Substrate Implementation of Parachain and Solochain",
-    "topics": [
-      "polkadot",
-      "substrate",
-      "substrate-node"
-    ],
+    "topics": ["polkadot", "substrate", "substrate-node"],
     "languages": {
       "Rust": 1510187,
       "Handlebars": 4026,
@@ -189,13 +165,7 @@
   {
     "repository": "LibertyDSNP/frequency",
     "about": "Frequency: A Polkadot Parachain",
-    "topics": [
-      "blockchain",
-      "parachain",
-      "polkadot",
-      "rust",
-      "substrate"
-    ],
+    "topics": ["blockchain", "parachain", "polkadot", "rust", "substrate"],
     "languages": {
       "Rust": 1437859,
       "TypeScript": 257279,
@@ -384,12 +354,7 @@
   {
     "repository": "gear-tech/gear",
     "about": "Web3 Ultimate Execution Engine",
-    "topics": [
-      "blockchain",
-      "node",
-      "rust",
-      "smart-contracts"
-    ],
+    "topics": ["blockchain", "node", "rust", "smart-contracts"],
     "languages": {
       "Rust": 4978482,
       "Shell": 212555,
@@ -473,12 +438,7 @@
   {
     "repository": "capsule-corp-ternoa/ternoa-node",
     "about": "Ternoa's Node Implementation",
-    "topics": [
-      "blockchain",
-      "node",
-      "rust",
-      "sgx"
-    ],
+    "topics": ["blockchain", "node", "rust", "sgx"],
     "languages": {
       "Rust": 526202,
       "Dockerfile": 7051,
@@ -567,10 +527,7 @@
   {
     "repository": "bitgreen/bitgreen-node",
     "about": "The blockchain node for BitGreen Network. Based on Substrate framework from Parity Technology",
-    "topics": [
-      "blockchain",
-      "rust"
-    ],
+    "topics": ["blockchain", "rust"],
     "languages": {
       "Rust": 773907,
       "JavaScript": 111756,
@@ -700,13 +657,7 @@
   {
     "repository": "airalab/robonomics",
     "about": "Robonomics node implementation for Polkadot ecosystem. Kusama Parachain slot '2048' since January'2022.",
-    "topics": [
-      "iot",
-      "polkadot",
-      "robotics",
-      "rust",
-      "substrate"
-    ],
+    "topics": ["iot", "polkadot", "robotics", "rust", "substrate"],
     "languages": {
       "Rust": 512454,
       "Shell": 6220,
@@ -718,11 +669,7 @@
   {
     "repository": "pendulum-chain/pendulum",
     "about": null,
-    "topics": [
-      "polkadot",
-      "substrate",
-      "wasm"
-    ],
+    "topics": ["polkadot", "substrate", "wasm"],
     "languages": {
       "Rust": 1034256,
       "Handlebars": 5344,
@@ -756,12 +703,7 @@
   {
     "repository": "bit-country/Metaverse-Network",
     "about": "Metaverse.Network is a blockchain for metaverses & dapps.  We support WASM and Ethereum-compatible smart contracts for developers to build dApps and games to run on our network.",
-    "topics": [
-      "blockchain",
-      "polkadot",
-      "rust",
-      "substrate"
-    ],
+    "topics": ["blockchain", "polkadot", "rust", "substrate"],
     "languages": {
       "Rust": 2064093,
       "Solidity": 10571,
@@ -774,12 +716,7 @@
   {
     "repository": "grindytech/gafi",
     "about": "The Network of Game Finance",
-    "topics": [
-      "blockchain",
-      "polkadot",
-      "rust",
-      "substrate"
-    ],
+    "topics": ["blockchain", "polkadot", "rust", "substrate"],
     "languages": {
       "Rust": 838731,
       "JavaScript": 47383,
@@ -900,12 +837,7 @@
   {
     "repository": "OAK-Foundation/xcm-demo",
     "about": "Javascript usage of OAK\u2019s XCM automation with parachains including Moonbeam, Astar and Mangata.",
-    "topics": [
-      "blockchain",
-      "polkadot",
-      "substrate",
-      "xcm"
-    ],
+    "topics": ["blockchain", "polkadot", "substrate", "xcm"],
     "languages": {
       "JavaScript": 96397,
       "Solidity": 778
@@ -963,12 +895,7 @@
   {
     "repository": "OAK-Foundation/oak.js",
     "about": "Javascript dev-utils library to access OAK Network APIs, leveraging typing decoration of polkadot.js library.",
-    "topics": [
-      "blockchain",
-      "devutils",
-      "polkadot",
-      "substrate"
-    ],
+    "topics": ["blockchain", "devutils", "polkadot", "substrate"],
     "languages": {
       "TypeScript": 963136,
       "JavaScript": 2471,
@@ -1025,13 +952,7 @@
   {
     "repository": "TalismanSociety/talisman",
     "about": "Unlock the Paraverse. The Talisman wallet monorepo.",
-    "topics": [
-      "blockchain",
-      "ethereum",
-      "monorepo",
-      "polkadot",
-      "wallet"
-    ],
+    "topics": ["blockchain", "ethereum", "monorepo", "polkadot", "wallet"],
     "languages": {
       "TypeScript": 9416810,
       "JavaScript": 42436,
