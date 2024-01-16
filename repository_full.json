@@ -1083,10 +1083,18 @@
         "zero-knowledge"
       ],
       "project": "webb-tools/tangle",
-      "topics": [],
-      "about": null,
-      "languages": null,
-      "icon": null
+      "topics": [
+        "blockchain",
+        "mpc",
+        "rust",
+        "substrate",
+        "threshold-signatures",
+        "tss",
+        "zero-knowledge"
+      ],
+      "about": "An MPC as a service restaking network.",
+      "languages": "TypeScript",
+      "icon": "https://avatars.githubusercontent.com/u/76852793?v=4"
     },
     {
       "name": "Talisman",
@@ -1098,10 +1106,16 @@
         "dapp"
       ],
       "project": "TalismanSociety/talisman",
-      "topics": [],
-      "about": null,
-      "languages": null,
-      "icon": null
+      "topics": [
+        "blockchain",
+        "ethereum",
+        "monorepo",
+        "polkadot",
+        "wallet"
+      ],
+      "about": "Unlock the Paraverse. The Talisman wallet monorepo.",
+      "languages": "TypeScript",
+      "icon": "https://avatars.githubusercontent.com/u/86999118?v=4"
     },
     {
       "name": "Bittensor",
