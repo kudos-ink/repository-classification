@@ -1,297 +1,92 @@
 [
   {
-    "repository": "ajuna-network/Ajuna",
-    "about": "The Ajuna Node for Kusama and Polkadot",
-    "topics": [
-      "blockchain",
-      "gaming",
-      "kusama",
-      "parachain",
-      "polkadot",
-      "rust",
-      "substrate",
-      "web3"
-    ],
-    "languages": {
-      "Rust": 1610939,
-      "Handlebars": 5311,
-      "Shell": 1888,
-      "Dockerfile": 792
-    }
+    "name": "Ajuna",
+    "repository_url": "https://github.com/ajuna-network/Ajuna",
+    "interests": ["gaming", "kusama", "parachain", "dapp"],
+    "emoji": ""
   },
   {
-    "repository": "ArtZero-io/frontend-react",
-    "about": "FrontEnd ReactJS code of ArtZero.io platform",
-    "topics": [],
-    "languages": {
-      "JavaScript": 4130585,
-      "CSS": 61897,
-      "HTML": 3884
-    }
+    "name": "ArtZero",
+    "repository_url": "https://github.com/ArtZero-io/frontend-react",
+    "interests": ["dapp"],
+    "emoji": ""
   },
   {
-    "repository": "AcalaNetwork/Acala",
-    "about": "Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama.",
-    "topics": [
-      "acala",
-      "defi",
-      "kusama",
-      "polkadot",
-      "rust",
-      "stablecoin",
-      "substrate"
-    ],
-    "languages": {
-      "Rust": 4224940,
-      "TypeScript": 94095,
-      "Handlebars": 13872,
-      "Makefile": 11564,
-      "Solidity": 8354,
-      "Shell": 6295,
-      "Dockerfile": 3071
-    }
+    "name": "Centrifuge dapp",
+    "repository_url": "https://github.com/centrifuge/apps",
+    "interests": ["dapp"],
+    "emoji": ""
   },
   {
-    "repository": "centrifuge/centrifuge-chain",
-    "about": "Centrifuge Chain: the layer-1 blockchain for real-world assets, built on Substrate.",
-    "topics": [],
-    "languages": {
-      "Rust": 5989441,
-      "Shell": 22555,
-      "JavaScript": 17386,
-      "Python": 7162,
-      "Nix": 5407,
-      "Dockerfile": 2262
-    }
+    "name": "HydraDX",
+    "repository_url": "https://github.com/galacticcouncil/HydraDX-ui",
+    "interests": ["dapp"],
+    "emoji": ""
   },
   {
-    "repository": "galacticcouncil/HydraDX-node",
-    "about": "HydraDX node - cross-chain liquidity protocol built on Substrate",
-    "topics": [
-      "blockchain",
-      "rust",
-      "substrate"
-    ],
-    "languages": {
-      "Rust": 4981629,
-      "JavaScript": 46239,
-      "Shell": 17847,
-      "Handlebars": 8125,
-      "Makefile": 1799,
-      "HCL": 1144,
-      "Dockerfile": 720
-    }
+    "name": "Interbtc",
+    "repository_url": "https://github.com/interlay/interbtc-ui",
+    "interests": ["dapp"],
+    "emoji": ""
   },
   {
-    "repository": "interlay/interbtc",
-    "about": "interBTC: Bitcoin Anywhere",
-    "topics": [
-      "bitcoin",
-      "blockchain",
-      "bridge",
-      "defi",
-      "interbtc",
-      "kusama",
-      "polkadot",
-      "rust",
-      "substrate"
-    ],
-    "languages": {
-      "Rust": 4976999,
-      "Python": 15872,
-      "Handlebars": 8609,
-      "Shell": 3742,
-      "Dockerfile": 1296
-    }
+    "name": "Equilibrium Curve AMM",
+    "repository_url": "https://github.com/equilibrium-eosdt/equilibrium-curve-amm",
+    "interests": ["dapp"],
+    "emoji": ""
   },
   {
-    "repository": "equilibrium-eosdt/equilibrium-substrate-chain",
-    "about": "Equilibrium substrate chain",
-    "topics": [],
-    "languages": {
-      "Rust": 342281,
-      "Shell": 225
-    }
+    "name": "Kodadot NFT Gallery",
+    "repository_url": "https://github.com/kodadot/nft-gallery",
+    "interests": ["dapp", "nft"],
+    "emoji": ""
   },
   {
-    "repository": "kodadot/nft-gallery",
-    "about": "Polkadot NFT marketplace",
-    "topics": [
-      "arbitrum",
-      "assethub",
-      "buildonbase",
-      "community-driven",
-      "ethereum",
-      "immutable-x",
-      "kusama",
-      "kusama-network",
-      "nft",
-      "nft-gallery",
-      "nft-marketplace",
-      "onchain-nft",
-      "optimism",
-      "polkadot",
-      "polkadot-network",
-      "rmrk",
-      "solana",
-      "starknet",
-      "zksync"
-    ],
-    "languages": {
-      "Vue": 1297365,
-      "TypeScript": 1033441,
-      "SCSS": 93595,
-      "JavaScript": 13795,
-      "Just": 317,
-      "Dockerfile": 253,
-      "Shell": 72
-    }
+    "name": "Polkadex",
+    "repository_url": "https://github.com/Polkadex-Substrate/Polkadex",
+    "interests": ["dex", "dapp"],
+    "emoji": ""
   },
   {
-    "repository": "moonwell-fi/moonwell-contracts-v2",
-    "about": null,
-    "topics": [],
-    "languages": {
-      "Solidity": 1061255,
-      "JavaScript": 34186,
-      "TypeScript": 4899,
-      "Makefile": 1528,
-      "Shell": 1058
-    }
+    "name": "Grillchat",
+    "repository_url": "https://github.com/dappforce/grillchat",
+    "interests": ["dapp"],
+    "emoji": ""
   },
   {
-    "repository": "Polkadex-Substrate/Polkadex",
-    "about": "An Orderbook-based Decentralized Exchange using the Substrate Blockchain Framework. ",
-    "topics": [
-      "decentralized-exchanges",
-      "frequency-trading",
-      "interoperability",
-      "liquidity",
-      "market",
-      "substrate",
-      "substrate-blockchain-framework",
-      "traders",
-      "trading-features"
-    ],
-    "languages": {
-      "Rust": 2062328,
-      "Shell": 24235,
-      "Dockerfile": 1335,
-      "JavaScript": 1044
-    }
+    "name": "Starlay",
+    "repository_url": "https://github.com/starlay-finance/starlay-ui",
+    "interests": ["dapp"],
+    "emoji": ""
   },
   {
-    "repository": "dappforce/grillchat",
-    "about": "Chat anonymously on-chain without wallets utilizing our censorship-resistant blockchain and app with anonymous logins. Powered by Subsocial Network.",
-    "topics": [],
-    "languages": {
-      "TypeScript": 1586728,
-      "JavaScript": 23227,
-      "Dockerfile": 6427,
-      "CSS": 2991,
-      "HTML": 2885,
-      "Shell": 68
-    }
+    "name": "Unique",
+    "repository_url": "https://github.com/UniqueNetwork/unique-new-wallet",
+    "interests": ["dapp", "wallet"],
+    "emoji": ""
   },
   {
-    "repository": "starlay-finance/starlay-ui",
-    "about": null,
-    "topics": [],
-    "languages": {
-      "TypeScript": 677522,
-      "JavaScript": 13237,
-      "CSS": 12568,
-      "Shell": 204,
-      "HTML": 152
-    }
+    "name": "Zenlink",
+    "repository_url": "https://github.com/zenlinkpro/zenlink-interface",
+    "interests": ["dapp"],
+    "emoji": ""
   },
   {
-    "repository": "UniqueNetwork/unique-new-wallet",
-    "about": null,
-    "topics": [],
-    "languages": {
-      "TypeScript": 946901,
-      "SCSS": 64611,
-      "JavaScript": 8243,
-      "HTML": 4185,
-      "Dockerfile": 676,
-      "Shell": 630,
-      "CSS": 9
-    }
+    "name": "Zeitgeist",
+    "repository_url": "https://github.com/zeitgeistpm/ui",
+    "interests": ["dapp"],
+    "emoji": ""
   },
   {
-    "repository": "zenlinkpro/zenlink-interface",
-    "about": "An open source interface for the Zenlink protocol",
-    "topics": [
-      "monorepo",
-      "polkadot",
-      "zenlink"
-    ],
-    "languages": {
-      "TypeScript": 2307503,
-      "JavaScript": 18642,
-      "CSS": 3474
-    }
+    "name": "Bifrost",
+    "repository_url": "https://github.com/bifrost-finance/bifrost.js",
+    "interests": ["dapp"],
+    "emoji": ""
   },
   {
-    "repository": "zeitgeistpm/zeitgeist",
-    "about": "An evolving blockchain for prediction markets and futarchy.",
-    "topics": [
-      "blockchain",
-      "futarchy",
-      "governance",
-      "prediction-markets",
-      "substrate"
-    ],
-    "languages": {
-      "Rust": 3002438,
-      "Shell": 36707,
-      "Python": 16557,
-      "TeX": 14876,
-      "Handlebars": 9704,
-      "Makefile": 1798,
-      "Dockerfile": 1428,
-      "TypeScript": 495
-    }
-  },
-  {
-    "repository": "bifrost-finance/bifrost",
-    "about": "A parachain focused on building bridges of chains based on PoS consensus.",
-    "topics": [
-      "bifrost",
-      "blockchain",
-      "cross-chain",
-      "defi",
-      "derivatives",
-      "polkadot",
-      "substrate",
-      "wasm"
-    ],
-    "languages": {
-      "Rust": 4770258,
-      "Handlebars": 8003,
-      "Makefile": 7564,
-      "JavaScript": 6779,
-      "Shell": 4081,
-      "Dockerfile": 1957
-    }
-  },
-  {
-    "repository": "bit-country/Metaverse-Network",
-    "about": "Metaverse.Network is a blockchain for metaverses & dapps.  We support WASM and Ethereum-compatible smart contracts for developers to build dApps and games to run on our network.",
-    "topics": [
-      "blockchain",
-      "polkadot",
-      "rust",
-      "substrate"
-    ],
-    "languages": {
-      "Rust": 2064093,
-      "Solidity": 10571,
-      "Handlebars": 5089,
-      "Makefile": 2272,
-      "JavaScript": 1976,
-      "Shell": 1642
-    }
+    "name": "Bit Country",
+    "repository_url": "https://github.com/bit-country/bit.country-website",
+    "interests": ["dapp"],
+    "emoji": ""
   }
 ]

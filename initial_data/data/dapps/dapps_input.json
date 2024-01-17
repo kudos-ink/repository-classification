@@ -21,7 +21,7 @@
   },
   {
     "name": "acala",
-    "repository": "https://github.com/AcalaNetwork/Acala"
+    "repository": ""
   },
   {
     "name": "beamswap",
@@ -37,7 +37,7 @@
   },
   {
     "name": "centrifuge",
-    "repository": "https://github.com/centrifuge/centrifuge-chain"
+    "repository": "https://github.com/centrifuge/apps"
   },
   {
     "name": "evrloot",
@@ -49,15 +49,15 @@
   },
   {
     "name": "hydraDX",
-    "repository": "https://github.com/galacticcouncil/HydraDX-node"
+    "repository": "https://github.com/galacticcouncil/HydraDX-ui"
   },
   {
     "name": "interlay",
-    "repository": "https://github.com/interlay/interbtc"
+    "repository": "https://github.com/interlay/interbtc-ui"
   },
   {
     "name": "equilibrium",
-    "repository": "https://github.com/equilibrium-eosdt/equilibrium-substrate-chain"
+    "repository": "https://github.com/equilibrium-eosdt/equilibrium-curve-amm"
   },
   {
     "name": "heal3",
@@ -69,7 +69,7 @@
   },
   {
     "name": "moonwell",
-    "repository": "https://github.com/moonwell-fi/moonwell-contracts-v2"
+    "repository": ""
   },
   {
     "name": "polkadex",
@@ -109,7 +109,7 @@
   },
   {
     "name": "zeitgeist",
-    "repository": "https://github.com/zeitgeistpm/zeitgeist"
+    "repository": "https://github.com/zeitgeistpm/ui"
   },
   {
     "name": "skybreach",
@@ -125,11 +125,11 @@
   },
   {
     "name": "bifrost",
-    "repository": "https://github.com/bifrost-finance/bifrost"
+    "repository": "https://github.com/bifrost-finance/bifrost.js"
   },
   {
     "name": "bit_country",
-    "repository": "https://github.com/bit-country/Metaverse-Network"
+    "repository": "https://github.com/bit-country/bit.country-website"
   },
   {
     "name": "the_great_escape",

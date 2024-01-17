@@ -32,10 +32,10 @@ for url in urls:
         repo_data = response.json()
         languages = requests.get(repo_data["languages_url"], headers=headers).json()
         repo_info_list.append({
-            "repository": repo,
-            "about": repo_data.get("description", ""),
-            "topics": repo_data.get("topics"),
-            "languages": languages
+            "name": repo.split("/")[1],
+            "repository_url": url,
+            "interests": repo_data.get("topics"),
+            "emoji": ""
         })
     else:
         print(f"Failed to fetch data for {repo}. Status code: {response.status_code}")
