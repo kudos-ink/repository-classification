@@ -1130,6 +1130,207 @@
       "about": null,
       "languages": null,
       "icon": null
+    },
+    {
+      "name": "Ajuna",
+      "repository_url": "https://github.com/ajuna-network/Ajuna",
+      "interests": [
+        "gaming",
+        "kusama",
+        "parachain",
+        "dapp"
+      ],
+      "emoji": "🎮",
+      "project": "ajuna-network/Ajuna",
+      "topics": [],
+      "about": null,
+      "languages": null,
+      "icon": null
+    },
+    {
+      "name": "ArtZero",
+      "repository_url": "https://github.com/ArtZero-io/frontend-react",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "🎨",
+      "project": "ArtZero-io/frontend-react",
+      "topics": [],
+      "about": null,
+      "languages": null,
+      "icon": null
+    },
+    {
+      "name": "Centrifuge dapp",
+      "repository_url": "https://github.com/centrifuge/apps",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "🌀",
+      "project": "centrifuge/apps",
+      "topics": [],
+      "about": null,
+      "languages": null,
+      "icon": null
+    },
+    {
+      "name": "HydraDX",
+      "repository_url": "https://github.com/galacticcouncil/HydraDX-ui",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "🌊",
+      "project": "galacticcouncil/HydraDX-ui",
+      "topics": [],
+      "about": null,
+      "languages": null,
+      "icon": null
+    },
+    {
+      "name": "Interbtc",
+      "repository_url": "https://github.com/interlay/interbtc-ui",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "⚡",
+      "project": "interlay/interbtc-ui",
+      "topics": [],
+      "about": null,
+      "languages": null,
+      "icon": null
+    },
+    {
+      "name": "Equilibrium Curve AMM",
+      "repository_url": "https://github.com/equilibrium-eosdt/equilibrium-curve-amm",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "📈",
+      "project": "equilibrium-eosdt/equilibrium-curve-amm",
+      "topics": [],
+      "about": null,
+      "languages": null,
+      "icon": null
+    },
+    {
+      "name": "Kodadot NFT Gallery",
+      "repository_url": "https://github.com/kodadot/nft-gallery",
+      "interests": [
+        "dapp",
+        "nft"
+      ],
+      "emoji": "🖼️",
+      "project": "kodadot/nft-gallery",
+      "topics": [],
+      "about": null,
+      "languages": null,
+      "icon": null
+    },
+    {
+      "name": "Polkadex",
+      "repository_url": "https://github.com/Polkadex-Substrate/Polkadex",
+      "interests": [
+        "dex",
+        "dapp"
+      ],
+      "emoji": "💱",
+      "project": "Polkadex-Substrate/Polkadex",
+      "topics": [],
+      "about": null,
+      "languages": null,
+      "icon": null
+    },
+    {
+      "name": "Grillchat",
+      "repository_url": "https://github.com/dappforce/grillchat",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "🔥",
+      "project": "dappforce/grillchat",
+      "topics": [],
+      "about": null,
+      "languages": null,
+      "icon": null
+    },
+    {
+      "name": "Starlay",
+      "repository_url": "https://github.com/starlay-finance/starlay-ui",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "⭐",
+      "project": "starlay-finance/starlay-ui",
+      "topics": [],
+      "about": null,
+      "languages": null,
+      "icon": null
+    },
+    {
+      "name": "Unique",
+      "repository_url": "https://github.com/UniqueNetwork/unique-new-wallet",
+      "interests": [
+        "dapp",
+        "wallet"
+      ],
+      "emoji": "🌐💼",
+      "project": "UniqueNetwork/unique-new-wallet",
+      "topics": [],
+      "about": null,
+      "languages": null,
+      "icon": null
+    },
+    {
+      "name": "Zenlink",
+      "repository_url": "https://github.com/zenlinkpro/zenlink-interface",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "🔗",
+      "project": "zenlinkpro/zenlink-interface",
+      "topics": [],
+      "about": null,
+      "languages": null,
+      "icon": null
+    },
+    {
+      "name": "Zeitgeist",
+      "repository_url": "https://github.com/zeitgeistpm/ui",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "⌛",
+      "project": "zeitgeistpm/ui",
+      "topics": [],
+      "about": null,
+      "languages": null,
+      "icon": null
+    },
+    {
+      "name": "Bifrost",
+      "repository_url": "https://github.com/bifrost-finance/bifrost.js",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "🌈",
+      "project": "bifrost-finance/bifrost.js",
+      "topics": [],
+      "about": null,
+      "languages": null,
+      "icon": null
+    },
+    {
+      "name": "Bit Country",
+      "repository_url": "https://github.com/bit-country/bit.country-website",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "🌍",
+      "project": "bit-country/bit.country-website",
+      "topics": [],
+      "about": null,
+      "languages": null,
+      "icon": null
     }
   ]
 }
