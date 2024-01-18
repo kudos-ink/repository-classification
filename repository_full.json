@@ -1038,10 +1038,15 @@
         "utilities"
       ],
       "project": "OAK-Foundation/oak.js",
-      "topics": [],
-      "about": null,
-      "languages": null,
-      "icon": null
+      "topics": [
+        "blockchain",
+        "devutils",
+        "polkadot",
+        "substrate"
+      ],
+      "about": "Javascript dev-utils library to access OAK Network APIs, leveraging typing decoration of polkadot.js library.",
+      "languages": "TypeScript",
+      "icon": "https://avatars.githubusercontent.com/u/42079491?v=4"
     },
     {
       "name": "Moonbeam",
@@ -1053,10 +1058,20 @@
         "defi"
       ],
       "project": "moonbeam-foundation/moonbeam",
-      "topics": [],
-      "about": null,
-      "languages": null,
-      "icon": null
+      "topics": [
+        "blockchain",
+        "cumulus",
+        "ethereum",
+        "frontier",
+        "moonbeam",
+        "moonriver",
+        "parachain",
+        "polkadot",
+        "substrate"
+      ],
+      "about": "An Ethereum-compatible smart contract parachain on Polkadot",
+      "languages": "TypeScript",
+      "icon": "https://avatars.githubusercontent.com/u/84856768?v=4"
     },
     {
       "name": "Tangle",
@@ -1068,10 +1083,18 @@
         "zero-knowledge"
       ],
       "project": "webb-tools/tangle",
-      "topics": [],
-      "about": null,
-      "languages": null,
-      "icon": null
+      "topics": [
+        "blockchain",
+        "mpc",
+        "rust",
+        "substrate",
+        "threshold-signatures",
+        "tss",
+        "zero-knowledge"
+      ],
+      "about": "An MPC as a service restaking network.",
+      "languages": "TypeScript",
+      "icon": "https://avatars.githubusercontent.com/u/76852793?v=4"
     },
     {
       "name": "Talisman",
@@ -1083,10 +1106,16 @@
         "dapp"
       ],
       "project": "TalismanSociety/talisman",
-      "topics": [],
-      "about": null,
-      "languages": null,
-      "icon": null
+      "topics": [
+        "blockchain",
+        "ethereum",
+        "monorepo",
+        "polkadot",
+        "wallet"
+      ],
+      "about": "Unlock the Paraverse. The Talisman wallet monorepo.",
+      "languages": "TypeScript",
+      "icon": "https://avatars.githubusercontent.com/u/86999118?v=4"
     },
     {
       "name": "Bittensor",
