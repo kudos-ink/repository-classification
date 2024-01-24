@@ -16,7 +16,7 @@ with open('repository.json', 'r', encoding='utf-8') as file:
 # Add "project", "icon", "topics", "about", and "languages" properties to each object
 for item in data["repositories"]:
     repository_url = item['repository_url']
-    item['project'] = repository_url.split('/')[-2] + '/' + repository_url.split('/')[-1]
+    item['value'] = repository_url.split('/')[-2] + '/' + repository_url.split('/')[-1]
 
     # Fetch the repository details to get additional information
     try:
