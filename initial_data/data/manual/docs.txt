@@ -1,0 +1,14 @@
+https://github.com/w3f/polkadot-spec
+https://github.com/polkadot-fellows/RFCs
+https://github.com/w3f/research
+https://github.com/w3f/polkadot-wiki
+https://github.com/w3f/PSPs
+https://github.com/Snowfork/snowbridge
+https://github.com/LasticXYZ/docs
+https://github.com/paritytech/ink
+https://github.com/paritytech/ink-examples
+https://github.com/paritytech/xcm-format
+https://github.com/paritytech/ink-docs
+https://github.com/paritytech/xcm-docs
+https://github.com/paritytech/polkadot-sdk-docs
+https://github.com/w3f/polkadot-docs

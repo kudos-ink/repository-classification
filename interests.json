@@ -24,6 +24,7 @@
     { "name": "Staking", "value": "staking", "emoji": "🌱" },
     { "name": "Utilities", "value": "utilities", "emoji": "🔧" },
     { "name": "RWA", "value": "rwa", "emoji": "🏦" },
+    { "name": "Docs", "value": "docs", "emoji": "📖" },
     { "name": "Marketplace", "value": "marketplace", "emoji": "🛒" }
   ]
 }

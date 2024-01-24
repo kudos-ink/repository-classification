@@ -5,8 +5,10 @@ from urllib.parse import urlparse
 
 
 token = os.getenv("GH_TOKEN")
+repo_in = os.getenv("REPO_IN", "repository_input.txt")
+repo_out = os.getenv("REPO_OUT", "repository_output.txt")
 
-with open("repository_input.txt", "r") as file:
+with open(repo_in, "r") as file:
     urls = [line.strip() for line in file]
 
 headers = {
@@ -32,7 +34,9 @@ for url in urls:
         repo_data = response.json()
         languages = requests.get(repo_data["languages_url"], headers=headers).json()
         repo_info_list.append({
-            "repository": repo,
+            "repository_url": url,
+            "emoji": "",
+            "name": "",
             "about": repo_data.get("description", ""),
             "topics": repo_data.get("topics"),
             "languages": languages
@@ -41,5 +45,5 @@ for url in urls:
         print(f"Failed to fetch data for {repo}. Status code: {response.status_code}")
 
 # Save the data to a JSON file
-with open("repository_output.json", "w", encoding="utf-8") as json_file:
+with open(repo_out, "w", encoding="utf-8") as json_file:
     json.dump(repo_info_list, json_file, indent=2)

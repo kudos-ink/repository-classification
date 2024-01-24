@@ -1,0 +1,86 @@
+[
+  {
+    "repository_url": "https://api.github.com/repos/w3f/polkadot-spec",
+    "emoji": "🔍",
+    "name": "Polkadot Protocol",
+    "interests": ["polkadot", "docs"]
+  },
+  {
+    "repository_url": "https://api.github.com/repos/polkadot-fellows/RFCs",
+    "emoji": "📜",
+    "interests": ["polkadot", "docs"],
+    "name": "Polkadot RFCs"
+  },
+  {
+    "repository_url": "https://api.github.com/repos/w3f/research",
+    "emoji": "🔬",
+    "interests": ["polkadot", "docs"],
+    "name": "W3F research"
+  },
+  {
+    "repository_url": "https://api.github.com/repos/w3f/polkadot-wiki",
+    "emoji": "📚",
+    "interests": ["polkadot", "docs"],
+    "name": "Polkadot wiki"
+  },
+  {
+    "repository_url": "https://api.github.com/repos/w3f/PSPs",
+    "emoji": "💡",
+    "interests": ["polkadot", "docs"],
+    "name": "Polkadot PSPs"
+  },
+  {
+    "repository_url": "https://api.github.com/repos/Snowfork/snowbridge",
+    "emoji": "❄️",
+    "interests": ["polkadot", "docs", "evm"],
+    "name": "Snowbridge"
+  },
+  {
+    "repository_url": "https://api.github.com/repos/LasticXYZ/docs",
+    "emoji": "📄",
+    "name": "Lastic",
+    "interests": ["polkadot", "docs"]
+  },
+  {
+    "repository_url": "https://api.github.com/repos/paritytech/ink",
+    "emoji": "🖋️",
+    "name": "Ink!",
+    "interests": ["ink!", "docs"]
+  },
+  {
+    "repository_url": "https://api.github.com/repos/paritytech/ink-examples",
+    "emoji": "🚀",
+    "interests": ["ink!", "docs"],
+    "name": "Ink! examples"
+  },
+  {
+    "repository_url": "https://api.github.com/repos/paritytech/xcm-format",
+    "emoji": "📤",
+    "interests": ["polkadot", "docs"],
+    "name": "XCM format"
+  },
+  {
+    "repository_url": "https://api.github.com/repos/paritytech/ink-docs",
+    "emoji": "📖",
+    "name": "Ink! docs",
+    "interests": ["ink!", "docs"]
+  },
+  {
+    "repository_url": "https://api.github.com/repos/paritytech/xcm-docs",
+    "emoji": "📘",
+    "name": "XCM docs",
+    "interests": ["polkadot", "docs"]
+  },
+  {
+    "repository_url": "https://api.github.com/repos/paritytech/polkadot-sdk-docs",
+    "emoji": "👩‍💻",
+    "name": "Polkadot SDK tutorial",
+    "interests": ["polkadot", "docs"]
+  },
+  {
+    "repository_url": "https://api.github.com/repos/w3f/polkadot-docs",
+    "emoji": "🌐",
+    "name": "Polkadot docs",
+    "interests": ["polkadot", "docs"]
+  }
+]

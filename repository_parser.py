@@ -23,11 +23,12 @@ for item in data["repositories"]:
         repo_details = requests.get(f'https://api.github.com/repos/{item["project"]}', headers=headers if token else {})
         repo_details.raise_for_status()  # Raise an error for bad responses
         repo_data = repo_details.json()
-
+        languages = requests.get(repo_data["languages_url"], headers=headers).json()
+        languages_names = [l.lower() for l in languages.keys()]
         # Extracting topics, about, and languages
         item['topics'] = repo_data['topics']
         item['about'] = repo_data['description']
-        item['languages'] = repo_data['language']
+        item['languages'] = languages_names
         
         # Fetching the icon URL
         item['icon'] = repo_data['owner']['avatar_url']
