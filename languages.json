@@ -1,0 +1,82 @@
+[
+  {
+    "value": "Rust",
+    "label": "Rust",
+    "emoji": "🦀"
+  },
+  {
+    "value": "Ink",
+    "label": "Ink!",
+    "emoji": "🐙"
+  },
+  {
+    "value": "JavaScript",
+    "label": "JavaScript",
+    "emoji": "🚀"
+  },
+  {
+    "value": "TypeScript",
+    "label": "TypeScript",
+    "emoji": "📜"
+  },
+  {
+    "value": "React",
+    "label": "React",
+    "emoji": "⚛️"
+  },
+  {
+    "value": "Vue",
+    "label": "Vue",
+    "emoji": "🖖"
+  },
+  {
+    "value": "Solidity",
+    "label": "Solidity",
+    "emoji": "💸"
+  },
+  {
+    "value": "Python",
+    "label": "Python",
+    "emoji": "🐍"
+  },
+  {
+    "value": "Shell",
+    "label": "Shell",
+    "emoji": "🐚"
+  },
+  {
+    "value": "C",
+    "label": "C",
+    "emoji": "🐉"
+  },
+  {
+    "value": "C++",
+    "label": "C++",
+    "emoji": "🚀"
+  },
+  {
+    "value": "CSS",
+    "label": "CSS",
+    "emoji": "🎨"
+  },
+  {
+    "value": "Go",
+    "label": "Go",
+    "emoji": "🏃‍♂️"
+  },
+  {
+    "value": "HTML",
+    "label": "HTML",
+    "emoji": "🌐"
+  },
+  {
+    "value": "Java",
+    "label": "Java",
+    "emoji": "☕"
+  },
+  {
+    "value": "Perl",
+    "label": "Perl",
+    "emoji": "🦀"
+  }
+]

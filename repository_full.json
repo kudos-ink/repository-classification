@@ -17,7 +17,21 @@
         "smart-contracts"
       ],
       "about": "Composable smart contract hosting with fail-safe interoperable execution",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "typescript",
+        "javascript",
+        "solidity",
+        "webassembly",
+        "shell",
+        "makefile",
+        "smarty",
+        "dockerfile",
+        "handlebars",
+        "python",
+        "nix",
+        "mustache"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/65117420?v=4"
     },
     {
@@ -36,7 +50,20 @@
         "substrate"
       ],
       "about": "The Parity Polkadot Blockchain SDK",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "webassembly",
+        "shell",
+        "javascript",
+        "dockerfile",
+        "handlebars",
+        "html",
+        "ruby",
+        "python",
+        "ejs",
+        "nix",
+        "css"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
     },
     {
@@ -50,7 +77,12 @@
       "project": "automata-network/automata",
       "topics": [],
       "about": "Web 3.0 Realized with Traceless Privacy and Seamless Compatibility",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "ocaml",
+        "shell",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/77826448?v=4"
     },
     {
@@ -74,7 +106,10 @@
         "web3"
       ],
       "about": "Subspace Network reference implementation",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "handlebars"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/38735363?v=4"
     },
     {
@@ -102,7 +137,13 @@
         "substrate"
       ],
       "about": "Mangata :heart: Substrate",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "javascript",
+        "shell",
+        "handlebars",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/75027423?v=4"
     },
     {
@@ -123,7 +164,12 @@
         "web3"
       ],
       "about": "Virto Network blockchain node.",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "handlebars",
+        "just",
+        "html"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/59609085?v=4"
     },
     {
@@ -143,7 +189,15 @@
         "substrate"
       ],
       "about": "HydraDX node - cross-chain liquidity protocol built on Substrate",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "javascript",
+        "shell",
+        "handlebars",
+        "makefile",
+        "hcl",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/57679211?v=4"
     },
     {
@@ -165,7 +219,9 @@
         "nfts"
       ],
       "about": "InvArch FRAME Pallet Library - NFT, DAO, & IP Ownership Infrastructure for Substrate",
-      "languages": "Rust",
+      "languages": [
+        "rust"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/89180205?v=4"
     },
     {
@@ -189,7 +245,14 @@
         "substrate"
       ],
       "about": "Darwinia chain, EVM+, Polkadot parachain and integrating with XCMP. | We are hiring, hello@darwinia.network",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "typescript",
+        "solidity",
+        "handlebars",
+        "dockerfile",
+        "shell"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/50859907?v=4"
     },
     {
@@ -208,7 +271,13 @@
         "substrate-node"
       ],
       "about": "Hashed Network - Substrate Implementation of Parachain and Solochain",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "handlebars",
+        "shell",
+        "nix",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/89164993?v=4"
     },
     {
@@ -229,7 +298,16 @@
         "substrate"
       ],
       "about": "Frequency: A Polkadot Parachain",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "typescript",
+        "shell",
+        "javascript",
+        "handlebars",
+        "makefile",
+        "dockerfile",
+        "python"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/78103996?v=4"
     },
     {
@@ -251,7 +329,14 @@
         "substrate"
       ],
       "about": "OAK(Onchain Autonomous Framework) is a unique blockchain built on Substrate framework with event-driven smart contract VM, autonomous transactions, and on-chain scheduler.",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "shell",
+        "dockerfile",
+        "handlebars",
+        "python",
+        "html"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/42079491?v=4"
     },
     {
@@ -267,7 +352,14 @@
       "project": "centrifuge/centrifuge-chain",
       "topics": [],
       "about": "Centrifuge Chain: the layer-1 blockchain for real-world assets, built on Substrate.",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "shell",
+        "javascript",
+        "python",
+        "nix",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/37558527?v=4"
     },
     {
@@ -293,7 +385,12 @@
         "web3-social"
       ],
       "about": "The Subsocial parachain, built with the Substrate framework, provides the blockspace and social primitives needed to build a decentralized social graph.",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "shell",
+        "handlebars",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/44074401?v=4"
     },
     {
@@ -308,7 +405,12 @@
       "project": "pendulum-chain/spacewalk",
       "topics": [],
       "about": null,
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "handlebars",
+        "shell",
+        "nix"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/85612911?v=4"
     },
     {
@@ -323,7 +425,12 @@
       "project": "Brushfam/openbrush-contracts",
       "topics": [],
       "about": null,
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "typescript",
+        "shell",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/115636722?v=4"
     },
     {
@@ -343,7 +450,13 @@
         "substrate"
       ],
       "about": "KILT blockchain node",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "python",
+        "handlebars",
+        "shell",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/42746727?v=4"
     },
     {
@@ -367,7 +480,15 @@
         "zero-knowledge-proofs"
       ],
       "about": "The main repo for manta blockchain nodes.",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "typescript",
+        "javascript",
+        "shell",
+        "ruby",
+        "dockerfile",
+        "html"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/74517090?v=4"
     },
     {
@@ -389,7 +510,13 @@
         "substrate"
       ],
       "about": "SORA is a new economic system aimed at creating a supranational, world economic system with built-in tools for decentralized finance (DeFi). The SORA network implements a new way of parachain architecture on Polkadot and Kusama network, with the capability to bridge external blockchains (like Ethereum) to the Polkadot ecosystem.",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "shell",
+        "handlebars",
+        "dockerfile",
+        "makefile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/50727844?v=4"
     },
     {
@@ -404,7 +531,15 @@
       "project": "moondance-labs/tanssi",
       "topics": [],
       "about": null,
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "typescript",
+        "solidity",
+        "shell",
+        "handlebars",
+        "dockerfile",
+        "javascript"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/126176994?v=4"
     },
     {
@@ -425,7 +560,17 @@
         "substrate"
       ],
       "about": "SORA is a new economic system aimed at creating a supranational, world economic system with built-in tools for decentralized finance (DeFi). The SORA network implements a new way of parachain architecture on Polkadot and Kusama network, with the capability to bridge external blockchains (like Ethereum) to the Polkadot ecosystem.",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "python",
+        "shell",
+        "handlebars",
+        "makefile",
+        "html",
+        "awk",
+        "nix",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/50727844?v=4"
     },
     {
@@ -446,7 +591,16 @@
         "smart-contracts"
       ],
       "about": "Web3 Ultimate Execution Engine",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "shell",
+        "handlebars",
+        "makefile",
+        "jinja",
+        "dockerfile",
+        "python",
+        "c"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/72395063?v=4"
     },
     {
@@ -466,7 +620,18 @@
         "typescript"
       ],
       "about": "Joystream Monorepo",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "typescript",
+        "jupyter notebook",
+        "shell",
+        "python",
+        "javascript",
+        "dockerfile",
+        "handlebars",
+        "jinja",
+        "batchfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/45568317?v=4"
     },
     {
@@ -481,7 +646,13 @@
       "project": "peaqnetwork/peaq-network-node",
       "topics": [],
       "about": null,
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "solidity",
+        "nix",
+        "dockerfile",
+        "shell"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/93540734?v=4"
     },
     {
@@ -502,7 +673,16 @@
         "substrate"
       ],
       "about": "An evolving blockchain for prediction markets and futarchy.",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "shell",
+        "python",
+        "tex",
+        "handlebars",
+        "makefile",
+        "dockerfile",
+        "typescript"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/71404578?v=4"
     },
     {
@@ -517,7 +697,13 @@
       "project": "docknetwork/dock-substrate",
       "topics": [],
       "about": "Substrate node for Dock blockchain",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "javascript",
+        "shell",
+        "handlebars",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/52467402?v=4"
     },
     {
@@ -537,7 +723,12 @@
         "sgx"
       ],
       "about": "Ternoa's Node Implementation",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "dockerfile",
+        "shell",
+        "handlebars"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/75503140?v=4"
     },
     {
@@ -552,7 +743,12 @@
       "project": "NodleCode/chain",
       "topics": [],
       "about": "A repo for the Nodle blockchain node ⛓",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "shell",
+        "handlebars",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/16143558?v=4"
     },
     {
@@ -577,7 +773,14 @@
         "wasm"
       ],
       "about": "A parachain focused on building bridges of chains based on PoS consensus.",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "handlebars",
+        "makefile",
+        "javascript",
+        "shell",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/52661663?v=4"
     },
     {
@@ -593,7 +796,13 @@
       "project": "ImbueNetwork/imbue",
       "topics": [],
       "about": null,
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "handlebars",
+        "javascript",
+        "shell",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/94470816?v=4"
     },
     {
@@ -606,7 +815,13 @@
       "project": "encointer/encointer-parachain",
       "topics": [],
       "about": "The common good parachain for Kusama",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "shell",
+        "dockerfile",
+        "python",
+        "ruby"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/45148266?v=4"
     },
     {
@@ -630,7 +845,14 @@
         "substrate"
       ],
       "about": "A decentralized lending & staking protocol built on top of the Polkadot ecosystem.",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "typescript",
+        "makefile",
+        "shell",
+        "solidity",
+        "handlebars"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/79623569?v=4"
     },
     {
@@ -647,7 +869,15 @@
         "rust"
       ],
       "about": "The blockchain node for BitGreen Network. Based on Substrate framework from Parity Technology",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "javascript",
+        "solidity",
+        "handlebars",
+        "shell",
+        "dockerfile",
+        "python"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/50483263?v=4"
     },
     {
@@ -662,7 +892,12 @@
       "project": "deeper-chain/deeper-chain",
       "topics": [],
       "about": "deeper chain is the blockchain layer for deeper network.",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "javascript",
+        "handlebars",
+        "solidity"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/70784002?v=4"
     },
     {
@@ -681,7 +916,18 @@
         "substrate"
       ],
       "about": "Official Rust implementation of the Crust protocol ",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "assembly",
+        "c",
+        "perl",
+        "go",
+        "python",
+        "shell",
+        "c++",
+        "batchfile",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/39723633?v=4"
     },
     {
@@ -703,7 +949,15 @@
         "substrate"
       ],
       "about": "Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama.",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "typescript",
+        "handlebars",
+        "makefile",
+        "solidity",
+        "shell",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/54881907?v=4"
     },
     {
@@ -718,7 +972,11 @@
       "project": "InvArch/InvArch-Node",
       "topics": [],
       "about": "Official Repository for the InvArch Network.",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "handlebars",
+        "makefile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/89180205?v=4"
     },
     {
@@ -733,7 +991,20 @@
       "project": "Phala-Network/phala-blockchain",
       "topics": [],
       "about": "The Phala Network Blockchain, pRuntime and the bridge.",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "javascript",
+        "typescript",
+        "shell",
+        "makefile",
+        "python",
+        "php",
+        "html",
+        "dockerfile",
+        "css",
+        "c",
+        "assembly"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/59632547?v=4"
     },
     {
@@ -747,7 +1018,14 @@
       "project": "encointer/encointer-node",
       "topics": [],
       "about": "encointer node and cli client",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "python",
+        "shell",
+        "handlebars",
+        "dockerfile",
+        "ruby"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/45148266?v=4"
     },
     {
@@ -760,7 +1038,17 @@
       "project": "encointer/personhood-oracle",
       "topics": [],
       "about": "A service which provides single-use unlinkable proofs of personhood reputation on the encointer network",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "c",
+        "shell",
+        "makefile",
+        "python",
+        "dockerfile",
+        "ruby",
+        "javascript",
+        "solidity"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/45148266?v=4"
     },
     {
@@ -780,7 +1068,13 @@
         "substrate"
       ],
       "about": "Robonomics node implementation for Polkadot ecosystem. Kusama Parachain slot '2048' since January'2022.",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "shell",
+        "nix",
+        "dockerfile",
+        "python"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/13998040?v=4"
     },
     {
@@ -799,7 +1093,11 @@
         "wasm"
       ],
       "about": null,
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "handlebars",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/85612911?v=4"
     },
     {
@@ -813,7 +1111,9 @@
       "project": "encointer/pallets",
       "topics": [],
       "about": "all application-specific pallets for encointer",
-      "languages": "Rust",
+      "languages": [
+        "rust"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/45148266?v=4"
     },
     {
@@ -826,7 +1126,17 @@
       "project": "integritee-network/worker",
       "topics": [],
       "about": "Integritee off-chain worker and sidechain validateer",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "c",
+        "shell",
+        "makefile",
+        "python",
+        "dockerfile",
+        "ruby",
+        "javascript",
+        "solidity"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/86358325?v=4"
     },
     {
@@ -846,7 +1156,14 @@
         "substrate"
       ],
       "about": "Metaverse.Network is a blockchain for metaverses & dapps.  We support WASM and Ethereum-compatible smart contracts for developers to build dApps and games to run on our network.",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "solidity",
+        "handlebars",
+        "makefile",
+        "javascript",
+        "shell"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/70461516?v=4"
     },
     {
@@ -866,7 +1183,16 @@
         "substrate"
       ],
       "about": "The Network of Game Finance",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "javascript",
+        "handlebars",
+        "makefile",
+        "nix",
+        "solidity",
+        "dockerfile",
+        "shell"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/109591734?v=4"
     },
     {
@@ -879,7 +1205,19 @@
       "project": "litentry/litentry-parachain",
       "topics": [],
       "about": "The Litentry parachain",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "typescript",
+        "shell",
+        "c",
+        "makefile",
+        "python",
+        "solidity",
+        "dockerfile",
+        "handlebars",
+        "ruby",
+        "javascript"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/51339301?v=4"
     },
     {
@@ -907,7 +1245,15 @@
         "web3"
       ],
       "about": "The dApp hub for blockchains of the future",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "solidity",
+        "javascript",
+        "shell",
+        "handlebars",
+        "typescript",
+        "makefile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/76546898?v=4"
     },
     {
@@ -930,7 +1276,13 @@
         "substrate"
       ],
       "about": "interBTC: Bitcoin Anywhere",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "python",
+        "handlebars",
+        "shell",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/57096748?v=4"
     },
     {
@@ -943,7 +1295,17 @@
       "project": "aleph-zero-foundation/aleph-node",
       "topics": [],
       "about": "Mirror of development repo: https://github.com/Cardinal-Cryptography/aleph-node",
-      "languages": "Rust",
+      "languages": [
+        "rust",
+        "shell",
+        "python",
+        "nix",
+        "jupyter notebook",
+        "handlebars",
+        "dockerfile",
+        "makefile",
+        "javascript"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/54438045?v=4"
     },
     {
@@ -957,7 +1319,12 @@
       "project": "opensquare-network/dotreasury",
       "topics": [],
       "about": "doTreasury | Empower kusama/polkadot treasury with credit building",
-      "languages": "JavaScript",
+      "languages": [
+        "javascript",
+        "html",
+        "css",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/67587196?v=4"
     },
     {
@@ -971,7 +1338,14 @@
       "project": "opensquare-network/subsquare",
       "topics": [],
       "about": null,
-      "languages": "JavaScript",
+      "languages": [
+        "javascript",
+        "scss",
+        "css",
+        "typescript",
+        "html",
+        "shell"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/67587196?v=4"
     },
     {
@@ -984,7 +1358,14 @@
       "project": "subquery/subql",
       "topics": [],
       "about": "SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.",
-      "languages": "TypeScript",
+      "languages": [
+        "typescript",
+        "javascript",
+        "ejs",
+        "dockerfile",
+        "shell",
+        "batchfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/77033664?v=4"
     },
     {
@@ -998,7 +1379,13 @@
       "project": "subsquid/squid-sdk",
       "topics": [],
       "about": "The main repo of the squid SDK",
-      "languages": "TypeScript",
+      "languages": [
+        "typescript",
+        "javascript",
+        "makefile",
+        "shell",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/85824389?v=4"
     },
     {
@@ -1012,7 +1399,13 @@
       "project": "pendulum-chain/portal",
       "topics": [],
       "about": "The Pendulum/Amplitude portal UI",
-      "languages": "TypeScript",
+      "languages": [
+        "typescript",
+        "css",
+        "javascript",
+        "sass",
+        "html"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/85612911?v=4"
     },
     {
@@ -1026,7 +1419,13 @@
       "project": "ImbueNetwork/imbue-frontend",
       "topics": [],
       "about": null,
-      "languages": "TypeScript",
+      "languages": [
+        "typescript",
+        "css",
+        "javascript",
+        "makefile",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/94470816?v=4"
     },
     {
@@ -1045,7 +1444,11 @@
         "substrate"
       ],
       "about": "Javascript dev-utils library to access OAK Network APIs, leveraging typing decoration of polkadot.js library.",
-      "languages": "TypeScript",
+      "languages": [
+        "typescript",
+        "javascript",
+        "shell"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/42079491?v=4"
     },
     {
@@ -1070,7 +1473,15 @@
         "substrate"
       ],
       "about": "An Ethereum-compatible smart contract parachain on Polkadot",
-      "languages": "TypeScript",
+      "languages": [
+        "typescript",
+        "rust",
+        "solidity",
+        "shell",
+        "dockerfile",
+        "handlebars",
+        "javascript"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/84856768?v=4"
     },
     {
@@ -1093,7 +1504,16 @@
         "zero-knowledge"
       ],
       "about": "An MPC as a service restaking network.",
-      "languages": "TypeScript",
+      "languages": [
+        "typescript",
+        "rust",
+        "solidity",
+        "handlebars",
+        "javascript",
+        "shell",
+        "nix",
+        "dockerfile"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/76852793?v=4"
     },
     {
@@ -1114,7 +1534,15 @@
         "wallet"
       ],
       "about": "Unlock the Paraverse. The Talisman wallet monorepo.",
-      "languages": "TypeScript",
+      "languages": [
+        "typescript",
+        "javascript",
+        "css",
+        "html",
+        "solidity",
+        "dockerfile",
+        "shell"
+      ],
       "icon": "https://avatars.githubusercontent.com/u/86999118?v=4"
     },
     {
@@ -1126,10 +1554,28 @@
         "data"
       ],
       "project": "opentensor/bittensor",
-      "topics": [],
-      "about": null,
-      "languages": null,
-      "icon": null
+      "topics": [
+        "ai",
+        "blockchain",
+        "cryptocurrency",
+        "deep-learning",
+        "machine-learning",
+        "neural-networks",
+        "p2p",
+        "p2p-network",
+        "polkadot",
+        "pytorch",
+        "substrate",
+        "torch"
+      ],
+      "about": "Internet-scale Neural Networks",
+      "languages": [
+        "python",
+        "shell",
+        "dockerfile",
+        "makefile"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/61063461?v=4"
     },
     {
       "name": "Ajuna",
@@ -1142,10 +1588,24 @@
       ],
       "emoji": "🎮",
       "project": "ajuna-network/Ajuna",
-      "topics": [],
-      "about": null,
-      "languages": null,
-      "icon": null
+      "topics": [
+        "blockchain",
+        "gaming",
+        "kusama",
+        "parachain",
+        "polkadot",
+        "rust",
+        "substrate",
+        "web3"
+      ],
+      "about": "The Ajuna Node for Kusama and Polkadot",
+      "languages": [
+        "rust",
+        "handlebars",
+        "shell",
+        "dockerfile"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/91025024?v=4"
     },
     {
       "name": "ArtZero",
@@ -1156,9 +1616,13 @@
       "emoji": "🎨",
       "project": "ArtZero-io/frontend-react",
       "topics": [],
-      "about": null,
-      "languages": null,
-      "icon": null
+      "about": "FrontEnd ReactJS code of ArtZero.io platform",
+      "languages": [
+        "javascript",
+        "css",
+        "html"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/99382202?v=4"
     },
     {
       "name": "Centrifuge dapp",
@@ -1169,9 +1633,13 @@
       "emoji": "🌀",
       "project": "centrifuge/apps",
       "topics": [],
-      "about": null,
-      "languages": null,
-      "icon": null
+      "about": "Monorepo for Centrifuge frontends, including Centrifuge App, onboarding api, and Fabric design system.",
+      "languages": [
+        "html",
+        "typescript",
+        "javascript"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/37558527?v=4"
     },
     {
       "name": "HydraDX",
@@ -1183,8 +1651,13 @@
       "project": "galacticcouncil/HydraDX-ui",
       "topics": [],
       "about": null,
-      "languages": null,
-      "icon": null
+      "languages": [
+        "typescript",
+        "mdx",
+        "html",
+        "javascript"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/57679211?v=4"
     },
     {
       "name": "Interbtc",
@@ -1194,10 +1667,25 @@
       ],
       "emoji": "⚡",
       "project": "interlay/interbtc-ui",
-      "topics": [],
-      "about": null,
-      "languages": null,
-      "icon": null
+      "topics": [
+        "bitcoin",
+        "blockchain",
+        "defi",
+        "kusama",
+        "polkadot",
+        "react",
+        "typescript"
+      ],
+      "about": "Kintsugi and Interlay App - BTC DeFi",
+      "languages": [
+        "typescript",
+        "javascript",
+        "css",
+        "html",
+        "shell",
+        "dockerfile"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/57096748?v=4"
     },
     {
       "name": "Equilibrium Curve AMM",
@@ -1209,8 +1697,13 @@
       "project": "equilibrium-eosdt/equilibrium-curve-amm",
       "topics": [],
       "about": null,
-      "languages": null,
-      "icon": null
+      "languages": [
+        "html",
+        "rust",
+        "javascript",
+        "shell"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/48287027?v=4"
     },
     {
       "name": "Kodadot NFT Gallery",
@@ -1221,10 +1714,38 @@
       ],
       "emoji": "🖼️",
       "project": "kodadot/nft-gallery",
-      "topics": [],
-      "about": null,
-      "languages": null,
-      "icon": null
+      "topics": [
+        "arbitrum",
+        "assethub",
+        "buildonbase",
+        "community-driven",
+        "ethereum",
+        "immutable-x",
+        "kusama",
+        "kusama-network",
+        "nft",
+        "nft-gallery",
+        "nft-marketplace",
+        "onchain-nft",
+        "optimism",
+        "polkadot",
+        "polkadot-network",
+        "rmrk",
+        "solana",
+        "starknet",
+        "zksync"
+      ],
+      "about": "Polkadot NFT marketplace",
+      "languages": [
+        "vue",
+        "typescript",
+        "scss",
+        "javascript",
+        "just",
+        "dockerfile",
+        "shell"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/64582545?v=4"
     },
     {
       "name": "Polkadex",
@@ -1235,10 +1756,25 @@
       ],
       "emoji": "💱",
       "project": "Polkadex-Substrate/Polkadex",
-      "topics": [],
-      "about": null,
-      "languages": null,
-      "icon": null
+      "topics": [
+        "decentralized-exchanges",
+        "frequency-trading",
+        "interoperability",
+        "liquidity",
+        "market",
+        "substrate",
+        "substrate-blockchain-framework",
+        "traders",
+        "trading-features"
+      ],
+      "about": "An Orderbook-based Decentralized Exchange using the Substrate Blockchain Framework. ",
+      "languages": [
+        "rust",
+        "shell",
+        "dockerfile",
+        "javascript"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/71210205?v=4"
     },
     {
       "name": "Grillchat",
@@ -1249,9 +1785,16 @@
       "emoji": "🔥",
       "project": "dappforce/grillchat",
       "topics": [],
-      "about": null,
-      "languages": null,
-      "icon": null
+      "about": "Chat anonymously on-chain without wallets utilizing our censorship-resistant blockchain and app with anonymous logins. Powered by Subsocial Network.",
+      "languages": [
+        "typescript",
+        "javascript",
+        "dockerfile",
+        "css",
+        "html",
+        "shell"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/44074401?v=4"
     },
     {
       "name": "Starlay",
@@ -1263,8 +1806,14 @@
       "project": "starlay-finance/starlay-ui",
       "topics": [],
       "about": null,
-      "languages": null,
-      "icon": null
+      "languages": [
+        "typescript",
+        "javascript",
+        "css",
+        "shell",
+        "html"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/98660807?v=4"
     },
     {
       "name": "Unique",
@@ -1277,8 +1826,16 @@
       "project": "UniqueNetwork/unique-new-wallet",
       "topics": [],
       "about": null,
-      "languages": null,
-      "icon": null
+      "languages": [
+        "typescript",
+        "scss",
+        "javascript",
+        "html",
+        "dockerfile",
+        "shell",
+        "css"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/87804347?v=4"
     },
     {
       "name": "Zenlink",
@@ -1288,10 +1845,18 @@
       ],
       "emoji": "🔗",
       "project": "zenlinkpro/zenlink-interface",
-      "topics": [],
-      "about": null,
-      "languages": null,
-      "icon": null
+      "topics": [
+        "monorepo",
+        "polkadot",
+        "zenlink"
+      ],
+      "about": "An open source interface for the Zenlink protocol",
+      "languages": [
+        "typescript",
+        "javascript",
+        "css"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/69228823?v=4"
     },
     {
       "name": "Zeitgeist",
@@ -1302,9 +1867,14 @@
       "emoji": "⌛",
       "project": "zeitgeistpm/ui",
       "topics": [],
-      "about": null,
-      "languages": null,
-      "icon": null
+      "about": "Zeitgeist general prediction markets application.",
+      "languages": [
+        "typescript",
+        "css",
+        "javascript",
+        "dockerfile"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/71404578?v=4"
     },
     {
       "name": "Bifrost",
@@ -1316,8 +1886,11 @@
       "project": "bifrost-finance/bifrost.js",
       "topics": [],
       "about": null,
-      "languages": null,
-      "icon": null
+      "languages": [
+        "typescript",
+        "javascript"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/52661663?v=4"
     },
     {
       "name": "Bit Country",
@@ -1328,9 +1901,287 @@
       "emoji": "🌍",
       "project": "bit-country/bit.country-website",
       "topics": [],
-      "about": null,
-      "languages": null,
-      "icon": null
+      "about": "https://bit.country official website",
+      "languages": [
+        "html",
+        "css"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/70461516?v=4"
+    },
+    {
+      "repository_url": "https://api.github.com/repos/w3f/polkadot-spec",
+      "emoji": "🔍",
+      "name": "Polkadot Protocol",
+      "interests": [
+        "polkadot",
+        "docs"
+      ],
+      "project": "w3f/polkadot-spec",
+      "topics": [
+        "kusama",
+        "polkadot"
+      ],
+      "about": "The Polkadot Protocol Specification",
+      "languages": [
+        "tex",
+        "kaitai struct"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/30405397?v=4"
+    },
+    {
+      "repository_url": "https://api.github.com/repos/polkadot-fellows/RFCs",
+      "emoji": "📜",
+      "interests": [
+        "polkadot",
+        "docs"
+      ],
+      "name": "Polkadot RFCs",
+      "project": "polkadot-fellows/RFCs",
+      "topics": [],
+      "about": "Proposals for change to standards administered by the Fellowship.",
+      "languages": [
+        "handlebars",
+        "css"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/113617705?v=4"
+    },
+    {
+      "repository_url": "https://api.github.com/repos/w3f/research",
+      "emoji": "🔬",
+      "interests": [
+        "polkadot",
+        "docs"
+      ],
+      "name": "W3F research",
+      "project": "w3f/research",
+      "topics": [],
+      "about": "Overview of W3F research initatives",
+      "languages": [
+        "javascript",
+        "css",
+        "typescript"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/30405397?v=4"
+    },
+    {
+      "repository_url": "https://api.github.com/repos/w3f/polkadot-wiki",
+      "emoji": "📚",
+      "interests": [
+        "polkadot",
+        "docs"
+      ],
+      "name": "Polkadot wiki",
+      "project": "w3f/polkadot-wiki",
+      "topics": [
+        "blockchain",
+        "documentation",
+        "kusama",
+        "polkadot",
+        "web3",
+        "wiki"
+      ],
+      "about": "The source of truth for Polkadot.",
+      "languages": [
+        "javascript",
+        "css",
+        "python",
+        "shell"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/30405397?v=4"
+    },
+    {
+      "repository_url": "https://api.github.com/repos/w3f/PSPs",
+      "emoji": "💡",
+      "interests": [
+        "polkadot",
+        "docs"
+      ],
+      "name": "Polkadot PSPs",
+      "project": "w3f/PSPs",
+      "topics": [],
+      "about": "Polkadot Smart Contract Proposals",
+      "languages": [],
+      "icon": "https://avatars.githubusercontent.com/u/30405397?v=4"
+    },
+    {
+      "repository_url": "https://api.github.com/repos/Snowfork/snowbridge",
+      "emoji": "❄️",
+      "interests": [
+        "polkadot",
+        "docs",
+        "evm"
+      ],
+      "name": "Snowbridge",
+      "project": "Snowfork/snowbridge",
+      "topics": [
+        "ethereum",
+        "polkadot"
+      ],
+      "about": "A trustless bridge between Polkadot and Ethereum",
+      "languages": [
+        "rust",
+        "go",
+        "solidity",
+        "shell",
+        "typescript",
+        "javascript",
+        "mustache",
+        "nix",
+        "handlebars",
+        "python",
+        "dockerfile"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/63675353?v=4"
+    },
+    {
+      "repository_url": "https://api.github.com/repos/LasticXYZ/docs",
+      "emoji": "📄",
+      "name": "Lastic",
+      "interests": [
+        "polkadot",
+        "docs"
+      ],
+      "project": "LasticXYZ/docs",
+      "topics": [],
+      "about": "Docs website for Lastic",
+      "languages": [],
+      "icon": "https://avatars.githubusercontent.com/u/143817738?v=4"
+    },
+    {
+      "repository_url": "https://api.github.com/repos/paritytech/ink",
+      "emoji": "🖋️",
+      "name": "Ink!",
+      "interests": [
+        "ink!",
+        "docs"
+      ],
+      "project": "paritytech/ink",
+      "topics": [
+        "blockchain",
+        "domain-specific-language",
+        "kusama",
+        "polkadot",
+        "rust",
+        "smart-contracts",
+        "substrate",
+        "wasm",
+        "webassembly"
+      ],
+      "about": "Parity's ink! to write smart contracts.",
+      "languages": [
+        "rust",
+        "shell"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
+    },
+    {
+      "repository_url": "https://api.github.com/repos/paritytech/ink-examples",
+      "emoji": "🚀",
+      "interests": [
+        "ink!",
+        "docs"
+      ],
+      "name": "Ink! examples",
+      "project": "paritytech/ink-examples",
+      "topics": [
+        "blockchain",
+        "examples",
+        "kusama",
+        "polkadot",
+        "rust",
+        "smart-contracts",
+        "substrate",
+        "wasm"
+      ],
+      "about": "A set of examples for ink! smart contract language. Happy hacking!",
+      "languages": [
+        "rust",
+        "typescript",
+        "javascript",
+        "html",
+        "css",
+        "shell"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
+    },
+    {
+      "repository_url": "https://api.github.com/repos/paritytech/xcm-format",
+      "emoji": "📤",
+      "interests": [
+        "polkadot",
+        "docs"
+      ],
+      "name": "XCM format",
+      "project": "paritytech/xcm-format",
+      "topics": [],
+      "about": "Polkadot Cross Consensus-system Message format.",
+      "languages": [],
+      "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
+    },
+    {
+      "repository_url": "https://api.github.com/repos/paritytech/ink-docs",
+      "emoji": "📖",
+      "name": "Ink! docs",
+      "interests": [
+        "ink!",
+        "docs"
+      ],
+      "project": "paritytech/ink-docs",
+      "topics": [],
+      "about": "Documentation portal for the ink! smart contract language.",
+      "languages": [
+        "typescript",
+        "mdx",
+        "javascript",
+        "css",
+        "html"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
+    },
+    {
+      "repository_url": "https://api.github.com/repos/paritytech/xcm-docs",
+      "emoji": "📘",
+      "name": "XCM docs",
+      "interests": [
+        "polkadot",
+        "docs"
+      ],
+      "project": "paritytech/xcm-docs",
+      "topics": [],
+      "about": "Documentation for XCM",
+      "languages": [],
+      "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
+    },
+    {
+      "repository_url": "https://api.github.com/repos/paritytech/polkadot-sdk-docs",
+      "emoji": "👩‍💻",
+      "name": "Polkadot SDK tutorial",
+      "interests": [
+        "polkadot",
+        "docs"
+      ],
+      "project": "paritytech/polkadot-sdk-docs",
+      "topics": [],
+      "about": "_THE_ Polkadot SDK Tutorial",
+      "languages": [
+        "rust",
+        "shell"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
+    },
+    {
+      "repository_url": "https://api.github.com/repos/w3f/polkadot-docs",
+      "emoji": "🌐",
+      "name": "Polkadot docs",
+      "interests": [
+        "polkadot",
+        "docs"
+      ],
+      "project": "w3f/polkadot-docs",
+      "topics": [],
+      "about": "Translation management",
+      "languages": [],
+      "icon": "https://avatars.githubusercontent.com/u/30405397?v=4"
     }
   ]
 }
