@@ -2,77 +2,77 @@
   "languages": [
     {
       "value": "Rust",
-      "label": "Rust",
+      "name": "Rust",
       "emoji": "🦀"
     },
     {
       "value": "JavaScript",
-      "label": "JavaScript",
+      "name": "JavaScript",
       "emoji": "🚀"
     },
     {
       "value": "TypeScript",
-      "label": "TypeScript",
+      "name": "TypeScript",
       "emoji": "📜"
     },
     {
       "value": "React",
-      "label": "React",
+      "name": "React",
       "emoji": "⚛️"
     },
     {
       "value": "Vue",
-      "label": "Vue",
+      "name": "Vue",
       "emoji": "🖖"
     },
     {
       "value": "Solidity",
-      "label": "Solidity",
+      "name": "Solidity",
       "emoji": "💸"
     },
     {
       "value": "Python",
-      "label": "Python",
+      "name": "Python",
       "emoji": "🐍"
     },
     {
       "value": "Shell",
-      "label": "Shell",
+      "name": "Shell",
       "emoji": "🐚"
     },
     {
       "value": "C",
-      "label": "C",
+      "name": "C",
       "emoji": "🐉"
     },
     {
       "value": "C++",
-      "label": "C++",
+      "name": "C++",
       "emoji": "🚀"
     },
     {
       "value": "CSS",
-      "label": "CSS",
+      "name": "CSS",
       "emoji": "🎨"
     },
     {
       "value": "Go",
-      "label": "Go",
+      "name": "Go",
       "emoji": "🏃‍♂️"
     },
     {
       "value": "HTML",
-      "label": "HTML",
+      "name": "HTML",
       "emoji": "🌐"
     },
     {
       "value": "Java",
-      "label": "Java",
+      "name": "Java",
       "emoji": "☕"
     },
     {
       "value": "Perl",
-      "label": "Perl",
+      "name": "Perl",
       "emoji": "🦀"
     }
   ]
