@@ -32,6 +32,8 @@ for item in data["repositories"]:
         
         # Fetching the icon URL
         item['icon'] = repo_data['owner']['avatar_url']
+        # Needs to be manually completeted from our notion table
+        item['id'] = "" 
     except requests.exceptions.RequestException as e:
         print(f"Error fetching repository details for {item['project']}: {e}")
         item['topics'] = []
