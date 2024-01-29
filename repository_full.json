@@ -33,7 +33,7 @@
         "mustache"
       ],
       "icon": "https://avatars.githubusercontent.com/u/65117420?v=4",
-      "id": "af89c412-b69f-4437-a6a0-cdf80070a4a9"
+      "id": ""
     },
     {
       "name": "Polkadot SDK",
@@ -66,7 +66,7 @@
         "css"
       ],
       "icon": "https://avatars.githubusercontent.com/u/14176906?v=4",
-      "id": "f149aef9-2669-4f93-97cc-848da31be521"
+      "id": ""
     },
     {
       "name": "Automata",
@@ -86,7 +86,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/77826448?v=4",
-      "id": "094fe93b-27b7-4547-b604-98a700c905e5"
+      "id": ""
     },
     {
       "name": "Subspace",
@@ -114,7 +114,7 @@
         "handlebars"
       ],
       "icon": "https://avatars.githubusercontent.com/u/38735363?v=4",
-      "id": "0d16a11f-c7e2-4aa9-ae75-d46fe715e26a"
+      "id": ""
     },
     {
       "name": "Mangata Node",
@@ -149,7 +149,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/75027423?v=4",
-      "id": "104823c7-9380-4672-94ee-0accd5772d02"
+      "id": ""
     },
     {
       "name": "Virto Node",
@@ -176,7 +176,7 @@
         "html"
       ],
       "icon": "https://avatars.githubusercontent.com/u/59609085?v=4",
-      "id": "179afa85-2631-419a-b2d0-c0db9bfc0750"
+      "id": ""
     },
     {
       "name": "HydraDX Node",
@@ -205,7 +205,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/57679211?v=4",
-      "id": "247abce9-3946-4e12-803b-255e2d03158a"
+      "id": ""
     },
     {
       "name": "InvArch FRAME Pallet Library",
@@ -230,7 +230,7 @@
         "rust"
       ],
       "icon": "https://avatars.githubusercontent.com/u/89180205?v=4",
-      "id": "256086e7-3943-4662-a560-a14d023ca565"
+      "id": ""
     },
     {
       "name": "Darwinia Node",
@@ -262,7 +262,7 @@
         "shell"
       ],
       "icon": "https://avatars.githubusercontent.com/u/50859907?v=4",
-      "id": "26412c33-0827-4c50-ab34-cb5e4aa31feb"
+      "id": ""
     },
     {
       "name": "Hashed",
@@ -288,7 +288,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/89164993?v=4",
-      "id": "267341d3-765c-4520-a9a9-784776d02da6"
+      "id": ""
     },
     {
       "name": "Frequency",
@@ -319,7 +319,7 @@
         "python"
       ],
       "icon": "https://avatars.githubusercontent.com/u/78103996?v=4",
-      "id": "2f813d2a-6546-448e-b749-6cb10c8b4684"
+      "id": ""
     },
     {
       "name": "OAK blockchain",
@@ -349,7 +349,7 @@
         "html"
       ],
       "icon": "https://avatars.githubusercontent.com/u/42079491?v=4",
-      "id": "3913379f-49cb-48bc-ae7c-d73bf6c13f77"
+      "id": ""
     },
     {
       "name": "Centrifuge Chain",
@@ -373,7 +373,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/37558527?v=4",
-      "id": "3d8f376a-f6c3-4644-912d-4aec6adb827b"
+      "id": ""
     },
     {
       "name": "Subsocial Node",
@@ -405,7 +405,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/44074401?v=4",
-      "id": "4be6f937-5d13-4b07-a159-521aa96599fd"
+      "id": ""
     },
     {
       "name": "Spacewalk",
@@ -426,7 +426,7 @@
         "nix"
       ],
       "icon": "https://avatars.githubusercontent.com/u/85612911?v=4",
-      "id": "63ee19c8-2439-422a-b4e0-4d27cd0daaad"
+      "id": ""
     },
     {
       "name": "Openbrush Contracts",
@@ -447,7 +447,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/115636722?v=4",
-      "id": "70bf41c5-f7f9-48be-b6f1-1cbd10f79b1e"
+      "id": ""
     },
     {
       "name": "KILT node",
@@ -474,7 +474,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/42746727?v=4",
-      "id": "71e6763d-5bd0-4eed-8bc9-368b4c0148f3"
+      "id": ""
     },
     {
       "name": "Manta Node",
@@ -507,7 +507,7 @@
         "html"
       ],
       "icon": "https://avatars.githubusercontent.com/u/74517090?v=4",
-      "id": "794a40b3-7eb6-41b0-b46f-ab84d8fcc5ff"
+      "id": ""
     },
     {
       "name": "Sora2 Parachain",
@@ -536,7 +536,7 @@
         "makefile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/50727844?v=4",
-      "id": "7d0a5a1e-15a0-469b-b11e-10cd00226b00"
+      "id": ""
     },
     {
       "name": "Tanssi",
@@ -560,7 +560,7 @@
         "javascript"
       ],
       "icon": "https://avatars.githubusercontent.com/u/126176994?v=4",
-      "id": "7d89bfac-aae2-4306-a922-5d9c0ed4707f"
+      "id": ""
     },
     {
       "name": "Sora2 Network",
@@ -592,7 +592,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/50727844?v=4",
-      "id": "7f447eeb-c416-4dcc-b7fc-4f41394ed09d"
+      "id": ""
     },
     {
       "name": "Gear",
@@ -623,7 +623,7 @@
         "c"
       ],
       "icon": "https://avatars.githubusercontent.com/u/72395063?v=4",
-      "id": "84528f03-b3ff-412d-8af6-97468433e5a7"
+      "id": ""
     },
     {
       "name": "Joystream",
@@ -655,7 +655,7 @@
         "batchfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/45568317?v=4",
-      "id": "8c34d6f5-eb40-4d05-a333-075ad9d9df46"
+      "id": ""
     },
     {
       "name": "Peaq Network Node",
@@ -677,7 +677,7 @@
         "shell"
       ],
       "icon": "https://avatars.githubusercontent.com/u/93540734?v=4",
-      "id": "8ecb0e53-74a5-44a2-ac79-251bf1c8923c"
+      "id": ""
     },
     {
       "name": "Zeitgeist",
@@ -708,7 +708,7 @@
         "typescript"
       ],
       "icon": "https://avatars.githubusercontent.com/u/71404578?v=4",
-      "id": "927dab5a-c64d-4225-b1b2-ff46146458f0"
+      "id": ""
     },
     {
       "name": "Dock substrate",
@@ -730,7 +730,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/52467402?v=4",
-      "id": "943ecd57-04b6-4a41-b313-a7f50380870f"
+      "id": ""
     },
     {
       "name": "Ternoa node",
@@ -756,7 +756,7 @@
         "handlebars"
       ],
       "icon": "https://avatars.githubusercontent.com/u/75503140?v=4",
-      "id": "98d18e95-74df-4535-a1a4-be648b72a41e"
+      "id": ""
     },
     {
       "name": "Nodle Chain",
@@ -777,7 +777,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/16143558?v=4",
-      "id": "992c9a36-65dd-4b5b-8d1c-8d16b1a85b51"
+      "id": ""
     },
     {
       "name": "Bifrost",
@@ -810,7 +810,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/52661663?v=4",
-      "id": "9a1c18ea-be2e-49f0-886d-912a2f983170"
+      "id": ""
     },
     {
       "name": "Imbue Network",
@@ -833,7 +833,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/94470816?v=4",
-      "id": "9a329a5b-f0df-43bc-aefd-d2491313aab9"
+      "id": ""
     },
     {
       "name": "Encointer Parachain",
@@ -853,7 +853,7 @@
         "ruby"
       ],
       "icon": "https://avatars.githubusercontent.com/u/45148266?v=4",
-      "id": "a0706249-3918-44d4-838e-68b742cedb89"
+      "id": ""
     },
     {
       "name": "Parallel",
@@ -885,7 +885,7 @@
         "handlebars"
       ],
       "icon": "https://avatars.githubusercontent.com/u/79623569?v=4",
-      "id": "a2f2fdbf-9903-4676-9d4b-14beb4d79ca4"
+      "id": ""
     },
     {
       "name": "Bitgreen Node",
@@ -911,7 +911,7 @@
         "python"
       ],
       "icon": "https://avatars.githubusercontent.com/u/50483263?v=4",
-      "id": "a85f6556-99c6-47d9-ad21-6950fa9dc57c"
+      "id": ""
     },
     {
       "name": "Deeper Chain",
@@ -932,7 +932,7 @@
         "solidity"
       ],
       "icon": "https://avatars.githubusercontent.com/u/70784002?v=4",
-      "id": "af4b75c9-6a4f-452d-979c-3b954683a17d"
+      "id": ""
     },
     {
       "name": "Crust",
@@ -963,7 +963,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/39723633?v=4",
-      "id": "b7d9b901-1529-4d44-b2bc-fe9ad1481f61"
+      "id": ""
     },
     {
       "name": "Acala",
@@ -994,7 +994,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/54881907?v=4",
-      "id": "bdb953d9-c4a3-4340-b62f-d79c35dfb36a"
+      "id": ""
     },
     {
       "name": "InvArch Node",
@@ -1014,7 +1014,7 @@
         "makefile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/89180205?v=4",
-      "id": "c1d08eca-419a-41d0-9e13-4ff77c3daa84"
+      "id": ""
     },
     {
       "name": "Phala blockchain",
@@ -1043,7 +1043,7 @@
         "assembly"
       ],
       "icon": "https://avatars.githubusercontent.com/u/59632547?v=4",
-      "id": "c2121346-154a-46d5-8aab-b3ca09d0ba96"
+      "id": ""
     },
     {
       "name": "Encointer Node",
@@ -1065,7 +1065,7 @@
         "ruby"
       ],
       "icon": "https://avatars.githubusercontent.com/u/45148266?v=4",
-      "id": "ca0085d5-2c38-4fda-84c2-6294e1415414"
+      "id": ""
     },
     {
       "name": "Personhood oracle",
@@ -1089,7 +1089,7 @@
         "solidity"
       ],
       "icon": "https://avatars.githubusercontent.com/u/45148266?v=4",
-      "id": "cf75d097-40d2-4f89-a5d1-f57b5fc721f2"
+      "id": ""
     },
     {
       "name": "Robonomics",
@@ -1116,7 +1116,7 @@
         "python"
       ],
       "icon": "https://avatars.githubusercontent.com/u/13998040?v=4",
-      "id": "d215802e-377c-467a-90db-9144cc5368c7"
+      "id": ""
     },
     {
       "name": "Pendulum",
@@ -1140,7 +1140,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/85612911?v=4",
-      "id": "d3ca21a3-cabc-4dde-a63c-be1a5ab5687b"
+      "id": ""
     },
     {
       "name": "Pallets",
@@ -1157,7 +1157,7 @@
         "rust"
       ],
       "icon": "https://avatars.githubusercontent.com/u/45148266?v=4",
-      "id": "da578f24-d13e-4294-b8b7-b752adfaac22"
+      "id": ""
     },
     {
       "name": "Integritee worker",
@@ -1181,7 +1181,7 @@
         "solidity"
       ],
       "icon": "https://avatars.githubusercontent.com/u/86358325?v=4",
-      "id": "dd2da285-139a-4d39-bbef-89188acae91e"
+      "id": ""
     },
     {
       "name": "MNET",
@@ -1209,7 +1209,7 @@
         "shell"
       ],
       "icon": "https://avatars.githubusercontent.com/u/70461516?v=4",
-      "id": "e6d8a01c-5f41-4b3a-99ac-2e8ae274f476"
+      "id": ""
     },
     {
       "name": "Gafi",
@@ -1239,7 +1239,7 @@
         "shell"
       ],
       "icon": "https://avatars.githubusercontent.com/u/109591734?v=4",
-      "id": "ecc13454-c074-4b81-9d98-c3cb15d48d8a"
+      "id": ""
     },
     {
       "name": "Litentry Parachain",
@@ -1265,7 +1265,7 @@
         "javascript"
       ],
       "icon": "https://avatars.githubusercontent.com/u/51339301?v=4",
-      "id": "f4684d74-d632-4301-b76f-2da40798d71b"
+      "id": ""
     },
     {
       "name": "Astar",
@@ -1302,7 +1302,7 @@
         "makefile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/76546898?v=4",
-      "id": "f7e6066b-2424-4a46-b720-b82b62553b09"
+      "id": ""
     },
     {
       "name": "Interbtc",
@@ -1332,7 +1332,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/57096748?v=4",
-      "id": "f92c9d2d-58c0-4fcf-9ca4-fb637da54ecb"
+      "id": ""
     },
     {
       "name": "Aleph Node",
@@ -1346,8 +1346,8 @@
       "about": "Mirror of development repo: https://github.com/Cardinal-Cryptography/aleph-node",
       "languages": [
         "rust",
-        "shell",
         "python",
+        "shell",
         "nix",
         "jupyter notebook",
         "handlebars",
@@ -1356,7 +1356,7 @@
         "javascript"
       ],
       "icon": "https://avatars.githubusercontent.com/u/54438045?v=4",
-      "id": "fc87cecc-505c-40cb-bf10-9235830b4a33"
+      "id": ""
     },
     {
       "name": "Dotreasury",
@@ -1376,7 +1376,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/67587196?v=4",
-      "id": "1b8ae28f-a0f5-44d6-8046-d348f791c804"
+      "id": ""
     },
     {
       "name": "Subsquare",
@@ -1398,7 +1398,7 @@
         "shell"
       ],
       "icon": "https://avatars.githubusercontent.com/u/67587196?v=4",
-      "id": "ce541040-c2a1-40e1-ab90-193e5f3d0ae0"
+      "id": ""
     },
     {
       "name": "Subql",
@@ -1419,7 +1419,7 @@
         "batchfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/77033664?v=4",
-      "id": "252a454a-56e0-4744-965a-fbe00692b0e5"
+      "id": ""
     },
     {
       "name": "Squid SDK",
@@ -1440,7 +1440,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/85824389?v=4",
-      "id": "2640eb41-4d1c-4d91-9217-10b6da10c5cf"
+      "id": ""
     },
     {
       "name": "Pendulum Portal",
@@ -1461,7 +1461,7 @@
         "html"
       ],
       "icon": "https://avatars.githubusercontent.com/u/85612911?v=4",
-      "id": "2f3ee721-14fe-4f54-9a4b-fd93e9439c58"
+      "id": ""
     },
     {
       "name": "Imbue",
@@ -1482,7 +1482,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/94470816?v=4",
-      "id": "601f4e3f-33ef-42f4-843e-bd6dfdc7ad1d"
+      "id": ""
     },
     {
       "name": "OAK SDK",
@@ -1506,7 +1506,7 @@
         "shell"
       ],
       "icon": "https://avatars.githubusercontent.com/u/42079491?v=4",
-      "id": "7dd9de32-1f6e-4bd0-bae5-79d77cb131ca"
+      "id": ""
     },
     {
       "name": "Moonbeam",
@@ -1540,7 +1540,7 @@
         "javascript"
       ],
       "icon": "https://avatars.githubusercontent.com/u/84856768?v=4",
-      "id": "8ddff70d-b906-4660-ab48-8c3563fe1e49"
+      "id": ""
     },
     {
       "name": "Tangle",
@@ -1573,7 +1573,7 @@
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/76852793?v=4",
-      "id": "8e76ee24-cbbb-4e89-94fb-4f6cdadb8988"
+      "id": ""
     },
     {
       "name": "Talisman",
@@ -1603,7 +1603,7 @@
         "shell"
       ],
       "icon": "https://avatars.githubusercontent.com/u/86999118?v=4",
-      "id": "9e63c326-3e9d-4d41-a7d1-5b36a986f746"
+      "id": ""
     },
     {
       "name": "Bittensor",
@@ -1636,7 +1636,7 @@
         "makefile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/61063461?v=4",
-      "id": "ae3161b1-6ec7-4a7e-9f4b-026be1ed0282"
+      "id": ""
     },
     {
       "name": "Ajuna",
@@ -1985,7 +1985,7 @@
       "id": ""
     },
     {
-      "repository_url": "https://api.github.com/repos/w3f/polkadot-spec",
+      "repository_url": "https://github.com/w3f/polkadot-spec",
       "emoji": "🔍",
       "name": "Polkadot Protocol",
       "interests": [
@@ -2006,7 +2006,7 @@
       "id": ""
     },
     {
-      "repository_url": "https://api.github.com/repos/polkadot-fellows/RFCs",
+      "repository_url": "https://github.com/polkadot-fellows/RFCs",
       "emoji": "📜",
       "interests": [
         "polkadot",
@@ -2024,7 +2024,7 @@
       "id": ""
     },
     {
-      "repository_url": "https://api.github.com/repos/w3f/research",
+      "repository_url": "https://github.com/w3f/research",
       "emoji": "🔬",
       "interests": [
         "polkadot",
@@ -2043,7 +2043,7 @@
       "id": ""
     },
     {
-      "repository_url": "https://api.github.com/repos/w3f/polkadot-wiki",
+      "repository_url": "https://github.com/w3f/polkadot-wiki",
       "emoji": "📚",
       "interests": [
         "polkadot",
@@ -2070,7 +2070,7 @@
       "id": ""
     },
     {
-      "repository_url": "https://api.github.com/repos/w3f/PSPs",
+      "repository_url": "https://github.com/w3f/PSPs",
       "emoji": "💡",
       "interests": [
         "polkadot",
@@ -2085,7 +2085,7 @@
       "id": ""
     },
     {
-      "repository_url": "https://api.github.com/repos/Snowfork/snowbridge",
+      "repository_url": "https://github.com/Snowfork/snowbridge",
       "emoji": "❄️",
       "interests": [
         "polkadot",
@@ -2105,8 +2105,8 @@
         "solidity",
         "shell",
         "typescript",
-        "javascript",
         "mustache",
+        "javascript",
         "nix",
         "handlebars",
         "python",
@@ -2116,7 +2116,7 @@
       "id": ""
     },
     {
-      "repository_url": "https://api.github.com/repos/LasticXYZ/docs",
+      "repository_url": "https://github.com/LasticXYZ/docs",
       "emoji": "📄",
       "name": "Lastic",
       "interests": [
@@ -2131,7 +2131,7 @@
       "id": ""
     },
     {
-      "repository_url": "https://api.github.com/repos/paritytech/ink",
+      "repository_url": "https://github.com/paritytech/ink",
       "emoji": "🖋️",
       "name": "Ink!",
       "interests": [
@@ -2159,7 +2159,7 @@
       "id": ""
     },
     {
-      "repository_url": "https://api.github.com/repos/paritytech/ink-examples",
+      "repository_url": "https://github.com/paritytech/ink-examples",
       "emoji": "🚀",
       "interests": [
         "ink!",
@@ -2190,7 +2190,7 @@
       "id": ""
     },
     {
-      "repository_url": "https://api.github.com/repos/paritytech/xcm-format",
+      "repository_url": "https://github.com/paritytech/xcm-format",
       "emoji": "📤",
       "interests": [
         "polkadot",
@@ -2205,7 +2205,7 @@
       "id": ""
     },
     {
-      "repository_url": "https://api.github.com/repos/paritytech/ink-docs",
+      "repository_url": "https://github.com/paritytech/ink-docs",
       "emoji": "📖",
       "name": "Ink! docs",
       "interests": [
@@ -2226,7 +2226,7 @@
       "id": ""
     },
     {
-      "repository_url": "https://api.github.com/repos/paritytech/xcm-docs",
+      "repository_url": "https://github.com/paritytech/xcm-docs",
       "emoji": "📘",
       "name": "XCM docs",
       "interests": [
@@ -2241,7 +2241,7 @@
       "id": ""
     },
     {
-      "repository_url": "https://api.github.com/repos/paritytech/polkadot-sdk-docs",
+      "repository_url": "https://github.com/paritytech/polkadot-sdk-docs",
       "emoji": "👩‍💻",
       "name": "Polkadot SDK tutorial",
       "interests": [
@@ -2259,7 +2259,7 @@
       "id": ""
     },
     {
-      "repository_url": "https://api.github.com/repos/w3f/polkadot-docs",
+      "repository_url": "https://github.com/w3f/polkadot-docs",
       "emoji": "🌐",
       "name": "Polkadot docs",
       "interests": [
