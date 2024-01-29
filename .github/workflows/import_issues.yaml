@@ -1,0 +1,26 @@
+name: Manually Triggered Import Workflow
+
+on:
+  workflow_dispatch:
+    inputs:
+      projectName:
+        description: "The project name that will be visible on Kudos"
+        required: true
+      repoUrl:
+        description: "The repository URL from which to import the issues"
+        required: true
+
+jobs:
+  run-import-action:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run Custom Import Issues Action
+        id: import_issues
+        uses: kudos-ink/import-issues@c7ba8a1c4c65ff2ab17072b9761eab2abdb4a22d
+        with:
+          project-name: ${{ github.event.inputs.projectName }}
+          repo-url: ${{ github.event.inputs.repoUrl }}
+          issues-db-id: ${{ vars.ISSUES_DB_ID }}
+          repo-list-db-id: ${{ vars.REPO_LIST_DB_ID }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          notion-api-key: ${{ secrets.NOTION_API_KEY }}
