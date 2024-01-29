@@ -14,6 +14,11 @@ jobs:
   run-import-action:
     runs-on: ubuntu-latest
     steps:
+      - name: Print input
+        bash: |
+          echo ${{ github.event.inputs.projectName }}
+          echo ${{ github.event.inputs.repoUrl }}
+
       - name: Run Custom Import Issues Action
         id: import_issues
         uses: kudos-ink/import-issues@v0.0.0
@@ -24,3 +29,7 @@ jobs:
           repo-list-db-id: ${{ vars.REPO_LIST_DB_ID }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
           notion-api-key: ${{ secrets.NOTION_API_KEY }}
+
+      - name: Print output
+        bash: |
+          echo ${{ steps.import_issues.outputs.test }}
