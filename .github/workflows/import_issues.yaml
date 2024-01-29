@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print input
-        bash: |
+        run: |
           echo ${{ github.event.inputs.projectName }}
           echo ${{ github.event.inputs.repoUrl }}
 
@@ -31,5 +31,5 @@ jobs:
           notion-api-key: ${{ secrets.NOTION_API_KEY }}
 
       - name: Print output
-        bash: |
+        run: |
           echo ${{ steps.import_issues.outputs.failed_import_links }}
