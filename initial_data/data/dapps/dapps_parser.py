@@ -4,7 +4,7 @@ import os
 from urllib.parse import urlparse
 
 
-token = os.getenv("GH_TOKEN")
+token = os.getenv("GITHUB_TOKEN")
 
 with open("dapps_input.json", "r") as file:
     urls = [line["repository"].strip() for line in json.load(file)]
@@ -12,7 +12,7 @@ with open("dapps_input.json", "r") as file:
 headers = {
     "Authorization": f"Bearer {token}",
     "X-GitHub-Api-Version": "2022-11-28",
-    "Accept": "application/vnd.github+json"
+    "Accept": "application/vnd.github+json",
 }
 
 repo_info_list = []
@@ -31,12 +31,14 @@ for url in urls:
     if response.status_code == 200:
         repo_data = response.json()
         languages = requests.get(repo_data["languages_url"], headers=headers).json()
-        repo_info_list.append({
-            "name": repo.split("/")[1],
-            "repository_url": url,
-            "interests": repo_data.get("topics"),
-            "emoji": ""
-        })
+        repo_info_list.append(
+            {
+                "name": repo.split("/")[1],
+                "repository_url": url,
+                "interests": repo_data.get("topics"),
+                "emoji": "",
+            }
+        )
     else:
         print(f"Failed to fetch data for {repo}. Status code: {response.status_code}")
 
