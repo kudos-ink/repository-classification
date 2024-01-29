@@ -32,4 +32,4 @@ jobs:
 
       - name: Print output
         bash: |
-          echo ${{ steps.import_issues.outputs.test }}
+          echo ${{ steps.import_issues.outputs.failed_import_links }}
