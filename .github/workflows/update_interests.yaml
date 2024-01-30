@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - "**/interests.json"
+      - "**/data/interests.json"
   workflow_dispatch:
 
 jobs:

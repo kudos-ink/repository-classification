@@ -3,13 +3,13 @@ import json
 # Read existing languages.json file if it exists
 existing_languages = []
 try:
-    with open('languages.json', 'r', encoding='utf-8') as existing_file:
+    with open('data/languages.json', 'r', encoding='utf-8') as existing_file:
         existing_languages = json.load(existing_file)
 except FileNotFoundError:
     pass
 
 # Read the JSON file
-with open('repository_full.json', 'r') as file:
+with open('data/repository_full.json', 'r') as file:
     data = json.load(file)
 
 # Extract languages from the data
@@ -25,7 +25,7 @@ new_languages_info = [{'value': lang.lower(), 'label': lang.title(), 'emoji': 'ð
 # Append new languages to existing_languages
 updated_languages = existing_languages + new_languages_info
 # Save the updated structure to languages.json
-with open('languages.json', 'w') as output_file:
+with open('data/languages.json', 'w') as output_file:
     json.dump(updated_languages, output_file, ensure_ascii=False, indent=2)
 
 print("Languages information updated and saved to 'languages.json'")

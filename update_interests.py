@@ -2,7 +2,7 @@ import json
 import yaml
 
 # Load the JSON data from the file
-with open('interests.json', 'r') as json_file:
+with open('data/interests.json', 'r') as json_file:
     data = json.load(json_file)
 
 # Extract the "value" list from the JSON data

@@ -45,7 +45,7 @@ for item in data["repositories"]:
         item["icon"] = None
 
 # Save the modified data to a new JSON file
-with open("repository_full.json", "w", encoding="utf-8") as file:
+with open("data/repository_full.json", "w", encoding="utf-8") as file:
     json.dump(data, file, ensure_ascii=False, indent=2)
 
 print("Script executed successfully.")

@@ -6,9 +6,7 @@ on:
   push:
     branches: ["main"]
     paths:
-      - "**/interests.json"
-      - "**/repository_full.json"
-      - "**/languages.json"
+      - "**/data/**"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -35,23 +33,12 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
-      - name: Build languages with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./languages.json
-          destination: ./_site
-
       - name: Build interests with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
-          source: ./interests.json
+          source: ./data
           destination: ./_site
 
-      - name: Build repositories with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./repositories_full.json
-          destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
