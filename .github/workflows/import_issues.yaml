@@ -32,10 +32,10 @@ jobs:
 
       - name: Print output
         run: |
-          echo "The repository id is ${{ steps.import_issues.outputs.repository_id }}"
+          echo "The repository id is \'${{ steps.import_issues.outputs.repository_id }}\'"
 
       - name: Error importing the issues
-        if: ${{ steps.import_issues.outputs.failed_import_links }} != ""
+        if: ${{ steps.import_issues.outputs.failed_import_links != "" }}
         run: |
           echo "There were some errors in the import action: ${{ steps.import_issues.outputs.failed_import_links }}"
           exit 1
