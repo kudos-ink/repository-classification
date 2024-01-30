@@ -3,6 +3,8 @@ import requests
 import os
 
 token = os.getenv("GITHUB_TOKEN")
+repo_file = os.environ.get("REPOSITORY_JSON", "data/repository.json")
+repo_full_file = os.environ.get("REPOSITORY_FULL_JSON", "data/repository_full.json")
 
 headers = {
     "Authorization": f"Bearer {token}",
@@ -10,7 +12,7 @@ headers = {
     "Accept": "application/vnd.github+json",
 }
 # Read the JSON file
-with open("repository.json", "r", encoding="utf-8") as file:
+with open(repo_file, "r", encoding="utf-8") as file:
     data = json.load(file)
 
 # Add "project", "icon", "topics", "about", and "languages" properties to each object
@@ -45,7 +47,7 @@ for item in data["repositories"]:
         item["icon"] = None
 
 # Save the modified data to a new JSON file
-with open("data/repository_full.json", "w", encoding="utf-8") as file:
+with open(repo_full_file, "w", encoding="utf-8") as file:
     json.dump(data, file, ensure_ascii=False, indent=2)
 
 print("Script executed successfully.")
