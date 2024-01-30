@@ -21,7 +21,7 @@ jobs:
 
       - name: Run Custom Import Issues Action
         id: import_issues
-        uses: kudos-ink/import-issues@v0.0.0
+        uses: kudos-ink/import-issues@v0.0.1
         with:
           project-name: ${{ github.event.inputs.projectName }}
           repo-url: ${{ github.event.inputs.repoUrl }}
@@ -32,4 +32,10 @@ jobs:
 
       - name: Print output
         run: |
-          echo ${{ steps.import_issues.outputs.failed_import_links }}
+          echo "The repository id is ${{ steps.import_issues.outputs.repository_id }}"
+
+      - name: Error importing the issues
+        if: ${{ steps.import_issues.outputs.failed_import_links }} != ""
+        run: |
+          echo "There were some errors in the import action: ${{ steps.import_issues.outputs.failed_import_links }}"
+          exit 1
