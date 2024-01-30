@@ -16,64 +16,9 @@
       "emoji": "📜"
     },
     {
-      "value": "React",
-      "name": "React",
-      "emoji": "⚛️"
-    },
-    {
-      "value": "Vue",
-      "name": "Vue",
-      "emoji": "🖖"
-    },
-    {
-      "value": "Solidity",
-      "name": "Solidity",
-      "emoji": "💸"
-    },
-    {
       "value": "Python",
       "name": "Python",
       "emoji": "🐍"
-    },
-    {
-      "value": "Shell",
-      "name": "Shell",
-      "emoji": "🐚"
-    },
-    {
-      "value": "C",
-      "name": "C",
-      "emoji": "🐉"
-    },
-    {
-      "value": "C++",
-      "name": "C++",
-      "emoji": "🚀"
-    },
-    {
-      "value": "CSS",
-      "name": "CSS",
-      "emoji": "🎨"
-    },
-    {
-      "value": "Go",
-      "name": "Go",
-      "emoji": "🏃‍♂️"
-    },
-    {
-      "value": "HTML",
-      "name": "HTML",
-      "emoji": "🌐"
-    },
-    {
-      "value": "Java",
-      "name": "Java",
-      "emoji": "☕"
-    },
-    {
-      "value": "Perl",
-      "name": "Perl",
-      "emoji": "🦀"
     }
   ]
 }
