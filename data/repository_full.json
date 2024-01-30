@@ -8,6 +8,7 @@
         "polkadot",
         "substrate"
       ],
+      "id": "",
       "value": "paritytech/polkadot-sdk",
       "topics": [
         "blockchain",
@@ -30,8 +31,7 @@
         "nix",
         "css"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/14176906?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
     },
     {
       "name": "Acala",
@@ -41,6 +41,7 @@
         "defi",
         "smart contracts"
       ],
+      "id": "",
       "value": "AcalaNetwork/Acala",
       "topics": [
         "acala",
@@ -61,8 +62,7 @@
         "shell",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/54881907?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/54881907?v=4"
     },
     {
       "name": "Ajuna",
@@ -102,6 +102,7 @@
       "interests": [
         "substrate"
       ],
+      "id": "",
       "value": "aleph-zero-foundation/aleph-node",
       "topics": [],
       "about": "Mirror of development repo: https://github.com/Cardinal-Cryptography/aleph-node",
@@ -116,8 +117,7 @@
         "makefile",
         "javascript"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/54438045?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/54438045?v=4"
     },
     {
       "name": "ArtZero",
@@ -147,6 +147,7 @@
         "defi",
         "substrate"
       ],
+      "id": "",
       "value": "AstarNetwork/Astar",
       "topics": [
         "astar-network",
@@ -171,8 +172,7 @@
         "typescript",
         "makefile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/76546898?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/76546898?v=4"
     },
     {
       "name": "Automata",
@@ -182,6 +182,7 @@
         "smart contracts",
         "data"
       ],
+      "id": "",
       "value": "automata-network/automata",
       "topics": [],
       "about": "Web 3.0 Realized with Traceless Privacy and Seamless Compatibility",
@@ -191,8 +192,7 @@
         "shell",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/77826448?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/77826448?v=4"
     },
     {
       "name": "Bifrost",
@@ -204,6 +204,7 @@
         "bridge",
         "substrate"
       ],
+      "id": "",
       "value": "bifrost-finance/bifrost",
       "topics": [
         "bifrost",
@@ -224,8 +225,7 @@
         "shell",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/52661663?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/52661663?v=4"
     },
     {
       "name": "Bifrost",
@@ -269,6 +269,7 @@
         "substrate",
         "defi"
       ],
+      "id": "",
       "value": "bitgreen/bitgreen-node",
       "topics": [
         "blockchain",
@@ -284,8 +285,7 @@
         "dockerfile",
         "python"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/50483263?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/50483263?v=4"
     },
     {
       "name": "Bittensor",
@@ -295,6 +295,7 @@
         "ai",
         "data"
       ],
+      "id": "",
       "value": "opentensor/bittensor",
       "topics": [
         "ai",
@@ -317,8 +318,7 @@
         "dockerfile",
         "makefile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/61063461?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/61063461?v=4"
     },
     {
       "name": "Centrifuge Chain",
@@ -330,6 +330,7 @@
         "oracles",
         "rwa"
       ],
+      "id": "",
       "value": "centrifuge/centrifuge-chain",
       "topics": [],
       "about": "Centrifuge Chain: the layer-1 blockchain for real-world assets, built on Substrate.",
@@ -341,8 +342,7 @@
         "nix",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/37558527?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/37558527?v=4"
     },
     {
       "name": "Centrifuge dapp",
@@ -367,6 +367,7 @@
       "emoji": "🌐",
       "repository_url": "https://github.com/crustio/crust",
       "interests": [],
+      "id": "",
       "value": "crustio/crust",
       "topics": [
         "crust",
@@ -390,8 +391,7 @@
         "batchfile",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/39723633?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/39723633?v=4"
     },
     {
       "name": "Darwinia Node",
@@ -403,6 +403,7 @@
         "dex",
         "substrate"
       ],
+      "id": "",
       "value": "darwinia-network/darwinia",
       "topics": [
         "blockchain",
@@ -422,8 +423,7 @@
         "dockerfile",
         "shell"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/50859907?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/50859907?v=4"
     },
     {
       "name": "Deeper Chain",
@@ -434,6 +434,7 @@
         "bridge",
         "substrate"
       ],
+      "id": "",
       "value": "deeper-chain/deeper-chain",
       "topics": [],
       "about": "deeper chain is the blockchain layer for deeper network.",
@@ -443,8 +444,7 @@
         "handlebars",
         "solidity"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/70784002?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/70784002?v=4"
     },
     {
       "name": "Dock substrate",
@@ -455,6 +455,7 @@
         "substrate",
         "utilities"
       ],
+      "id": "",
       "value": "docknetwork/dock-substrate",
       "topics": [],
       "about": "Substrate node for Dock blockchain",
@@ -465,8 +466,7 @@
         "handlebars",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/52467402?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/52467402?v=4"
     },
     {
       "name": "Dotreasury",
@@ -476,6 +476,7 @@
         "defi",
         "dao"
       ],
+      "id": "",
       "value": "opensquare-network/dotreasury",
       "topics": [],
       "about": "doTreasury | Empower kusama/polkadot treasury with credit building",
@@ -485,8 +486,7 @@
         "css",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/67587196?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/67587196?v=4"
     },
     {
       "name": "Encointer Node",
@@ -496,6 +496,7 @@
         "defi",
         "substrate"
       ],
+      "id": "",
       "value": "encointer/encointer-node",
       "topics": [],
       "about": "encointer node and cli client",
@@ -507,8 +508,7 @@
         "dockerfile",
         "ruby"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/45148266?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/45148266?v=4"
     },
     {
       "name": "Encointer Parachain",
@@ -517,6 +517,7 @@
       "interests": [
         "staking"
       ],
+      "id": "",
       "value": "encointer/encointer-parachain",
       "topics": [],
       "about": "The common good parachain for Kusama",
@@ -527,8 +528,7 @@
         "python",
         "ruby"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/45148266?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/45148266?v=4"
     },
     {
       "name": "Equilibrium Curve AMM",
@@ -558,6 +558,7 @@
         "substrate",
         "oracles"
       ],
+      "id": "",
       "value": "LibertyDSNP/frequency",
       "topics": [
         "blockchain",
@@ -577,8 +578,7 @@
         "dockerfile",
         "python"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/78103996?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/78103996?v=4"
     },
     {
       "name": "Gafi",
@@ -589,6 +589,7 @@
         "smart contracts",
         "substrate"
       ],
+      "id": "",
       "value": "grindytech/gafi",
       "topics": [
         "blockchain",
@@ -607,8 +608,7 @@
         "dockerfile",
         "shell"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/109591734?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/109591734?v=4"
     },
     {
       "name": "Gear",
@@ -620,6 +620,7 @@
         "data",
         "substrate"
       ],
+      "id": "",
       "value": "gear-tech/gear",
       "topics": [
         "blockchain",
@@ -638,8 +639,7 @@
         "python",
         "c"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/72395063?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/72395063?v=4"
     },
     {
       "name": "Grillchat",
@@ -671,6 +671,7 @@
         "defi",
         "smart contracts"
       ],
+      "id": "",
       "value": "hashed-io/hashed-substrate",
       "topics": [
         "polkadot",
@@ -685,8 +686,7 @@
         "nix",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/89164993?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/89164993?v=4"
     },
     {
       "name": "HydraDX",
@@ -717,6 +717,7 @@
         "staking",
         "substrate"
       ],
+      "id": "",
       "value": "galacticcouncil/HydraDX-node",
       "topics": [
         "blockchain",
@@ -733,8 +734,7 @@
         "hcl",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/57679211?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/57679211?v=4"
     },
     {
       "name": "Imbue",
@@ -744,6 +744,7 @@
         "dapp",
         "dao"
       ],
+      "id": "",
       "value": "ImbueNetwork/imbue-frontend",
       "topics": [],
       "about": null,
@@ -754,8 +755,7 @@
         "makefile",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/94470816?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/94470816?v=4"
     },
     {
       "name": "Imbue Network",
@@ -867,6 +867,7 @@
       "interests": [
         "defi"
       ],
+      "id": "",
       "value": "integritee-network/worker",
       "topics": [],
       "about": "Integritee off-chain worker and sidechain validateer",
@@ -881,8 +882,7 @@
         "javascript",
         "solidity"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/86358325?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/86358325?v=4"
     },
     {
       "name": "Interbtc",
@@ -891,6 +891,7 @@
       "interests": [
         "defi"
       ],
+      "id": "",
       "value": "interlay/interbtc",
       "topics": [
         "bitcoin",
@@ -911,8 +912,7 @@
         "shell",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/57096748?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/57096748?v=4"
     },
     {
       "name": "Interbtc",
@@ -953,6 +953,7 @@
         "iot",
         "substrate"
       ],
+      "id": "",
       "value": "InvArch/InvArch-Frames",
       "topics": [
         "blockchain",
@@ -965,8 +966,7 @@
       "languages": [
         "rust"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/89180205?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/89180205?v=4"
     },
     {
       "name": "InvArch Node",
@@ -977,6 +977,7 @@
         "data",
         "substrate"
       ],
+      "id": "",
       "value": "InvArch/InvArch-Node",
       "topics": [],
       "about": "Official Repository for the InvArch Network.",
@@ -985,8 +986,7 @@
         "handlebars",
         "makefile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/89180205?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/89180205?v=4"
     },
     {
       "name": "Joystream",
@@ -995,6 +995,7 @@
       "interests": [
         "substrate"
       ],
+      "id": "",
       "value": "Joystream/joystream",
       "topics": [
         "blockchain",
@@ -1017,8 +1018,7 @@
         "jinja",
         "batchfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/45568317?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/45568317?v=4"
     },
     {
       "name": "KILT node",
@@ -1029,6 +1029,7 @@
         "substrate",
         "defi"
       ],
+      "id": "",
       "value": "KILTprotocol/kilt-node",
       "topics": [
         "blockchain",
@@ -1044,8 +1045,7 @@
         "shell",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/42746727?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/42746727?v=4"
     },
     {
       "name": "Kodadot NFT Gallery",
@@ -1112,6 +1112,7 @@
       "interests": [
         "substrate"
       ],
+      "id": "",
       "value": "litentry/litentry-parachain",
       "topics": [],
       "about": "The Litentry parachain",
@@ -1128,8 +1129,7 @@
         "handlebars",
         "javascript"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/51339301?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/51339301?v=4"
     },
     {
       "name": "MNET",
@@ -1140,6 +1140,7 @@
         "NFT",
         "substrate"
       ],
+      "id": "",
       "value": "bit-country/Metaverse-Network",
       "topics": [
         "blockchain",
@@ -1156,8 +1157,7 @@
         "javascript",
         "shell"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/70461516?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/70461516?v=4"
     },
     {
       "name": "Mangata Node",
@@ -1169,6 +1169,7 @@
         "utilities",
         "substrate"
       ],
+      "id": "",
       "value": "mangata-finance/mangata-node",
       "topics": [
         "decentralized-exchange",
@@ -1191,8 +1192,7 @@
         "handlebars",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/75027423?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/75027423?v=4"
     },
     {
       "name": "Manta Node",
@@ -1203,6 +1203,7 @@
         "data",
         "substrate"
       ],
+      "id": "",
       "value": "Manta-Network/Manta",
       "topics": [
         "blockchain",
@@ -1224,8 +1225,7 @@
         "dockerfile",
         "html"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/74517090?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/74517090?v=4"
     },
     {
       "name": "Moonbeam",
@@ -1236,6 +1236,7 @@
         "smart contracts",
         "defi"
       ],
+      "id": "",
       "value": "moonbeam-foundation/moonbeam",
       "topics": [
         "blockchain",
@@ -1258,8 +1259,7 @@
         "handlebars",
         "javascript"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/84856768?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/84856768?v=4"
     },
     {
       "name": "Nodle Chain",
@@ -1270,6 +1270,7 @@
         "data",
         "substrate"
       ],
+      "id": "",
       "value": "NodleCode/chain",
       "topics": [],
       "about": "A repo for the Nodle blockchain node ⛓",
@@ -1279,8 +1280,7 @@
         "handlebars",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/16143558?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/16143558?v=4"
     },
     {
       "name": "OAK SDK",
@@ -1290,6 +1290,7 @@
         "dapp",
         "utilities"
       ],
+      "id": "",
       "value": "OAK-Foundation/oak.js",
       "topics": [
         "blockchain",
@@ -1303,8 +1304,7 @@
         "javascript",
         "shell"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/42079491?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/42079491?v=4"
     },
     {
       "name": "OAK blockchain",
@@ -1315,6 +1315,7 @@
         "bridge",
         "defi"
       ],
+      "id": "",
       "value": "OAK-Foundation/OAK-blockchain",
       "topics": [
         "blockchain",
@@ -1333,8 +1334,7 @@
         "python",
         "html"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/42079491?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/42079491?v=4"
     },
     {
       "name": "Openbrush Contracts",
@@ -1345,6 +1345,7 @@
         "smart contracts",
         "defi"
       ],
+      "id": "",
       "value": "Brushfam/openbrush-contracts",
       "topics": [],
       "about": null,
@@ -1354,8 +1355,7 @@
         "shell",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/115636722?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/115636722?v=4"
     },
     {
       "name": "Pallets",
@@ -1365,14 +1365,14 @@
         "smart contracts",
         "polkadot"
       ],
+      "id": "",
       "value": "encointer/pallets",
       "topics": [],
       "about": "all application-specific pallets for encointer",
       "languages": [
         "rust"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/45148266?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/45148266?v=4"
     },
     {
       "name": "Parallel",
@@ -1384,6 +1384,7 @@
         "smart contracts",
         "substrate"
       ],
+      "id": "",
       "value": "parallel-finance/parallel",
       "topics": [
         "cumulus",
@@ -1403,8 +1404,7 @@
         "solidity",
         "handlebars"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/79623569?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/79623569?v=4"
     },
     {
       "name": "Peaq Network Node",
@@ -1415,6 +1415,7 @@
         "bridge",
         "substrate"
       ],
+      "id": "",
       "value": "peaqnetwork/peaq-network-node",
       "topics": [],
       "about": null,
@@ -1425,8 +1426,7 @@
         "dockerfile",
         "shell"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/93540734?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/93540734?v=4"
     },
     {
       "name": "Pendulum",
@@ -1437,6 +1437,7 @@
         "bridge",
         "substrate"
       ],
+      "id": "",
       "value": "pendulum-chain/pendulum",
       "topics": [
         "polkadot",
@@ -1449,8 +1450,7 @@
         "handlebars",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/85612911?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/85612911?v=4"
     },
     {
       "name": "Pendulum Portal",
@@ -1460,6 +1460,7 @@
         "defi",
         "dapp"
       ],
+      "id": "",
       "value": "pendulum-chain/portal",
       "topics": [],
       "about": "The Pendulum/Amplitude portal UI",
@@ -1470,8 +1471,7 @@
         "sass",
         "html"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/85612911?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/85612911?v=4"
     },
     {
       "name": "Personhood oracle",
@@ -1480,6 +1480,7 @@
       "interests": [
         "oracles"
       ],
+      "id": "",
       "value": "encointer/personhood-oracle",
       "topics": [],
       "about": "A service which provides single-use unlinkable proofs of personhood reputation on the encointer network",
@@ -1494,8 +1495,7 @@
         "javascript",
         "solidity"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/45148266?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/45148266?v=4"
     },
     {
       "name": "Phala blockchain",
@@ -1506,6 +1506,7 @@
         "oracles",
         "substrate"
       ],
+      "id": "",
       "value": "Phala-Network/phala-blockchain",
       "topics": [],
       "about": "The Phala Network Blockchain, pRuntime and the bridge.",
@@ -1523,8 +1524,7 @@
         "c",
         "assembly"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/59632547?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/59632547?v=4"
     },
     {
       "name": "Polkadex",
@@ -1678,6 +1678,7 @@
         "iot",
         "smart contracts"
       ],
+      "id": "",
       "value": "airalab/robonomics",
       "topics": [
         "iot",
@@ -1694,8 +1695,7 @@
         "dockerfile",
         "python"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/13998040?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/13998040?v=4"
     },
     {
       "repository_url": "https://github.com/Snowfork/snowbridge",
@@ -1736,6 +1736,7 @@
         "defi",
         "bridge"
       ],
+      "id": "",
       "value": "sora-xor/sora2-network",
       "topics": [
         "defi",
@@ -1757,8 +1758,7 @@
         "nix",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/50727844?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/50727844?v=4"
     },
     {
       "name": "Sora2 Parachain",
@@ -1769,6 +1769,7 @@
         "bridge",
         "substrate"
       ],
+      "id": "",
       "value": "sora-xor/sora2-parachain",
       "topics": [
         "kusama",
@@ -1786,8 +1787,7 @@
         "dockerfile",
         "makefile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/50727844?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/50727844?v=4"
     },
     {
       "name": "Spacewalk",
@@ -1798,6 +1798,7 @@
         "defi",
         "bridge"
       ],
+      "id": "",
       "value": "pendulum-chain/spacewalk",
       "topics": [],
       "about": null,
@@ -1807,8 +1808,7 @@
         "shell",
         "nix"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/85612911?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/85612911?v=4"
     },
     {
       "name": "Squid SDK",
@@ -1818,6 +1818,7 @@
         "defi",
         "data"
       ],
+      "id": "",
       "value": "subsquid/squid-sdk",
       "topics": [],
       "about": "The main repo of the squid SDK",
@@ -1828,8 +1829,7 @@
         "shell",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/85824389?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/85824389?v=4"
     },
     {
       "name": "Starlay",
@@ -1858,6 +1858,7 @@
       "interests": [
         "data"
       ],
+      "id": "",
       "value": "subquery/subql",
       "topics": [],
       "about": "SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.",
@@ -1869,8 +1870,7 @@
         "shell",
         "batchfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/77033664?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/77033664?v=4"
     },
     {
       "name": "Subsocial Node",
@@ -1880,6 +1880,7 @@
         "social",
         "substrate"
       ],
+      "id": "",
       "value": "dappforce/subsocial-parachain",
       "topics": [
         "blockchain",
@@ -1901,8 +1902,7 @@
         "handlebars",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/44074401?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/44074401?v=4"
     },
     {
       "name": "Subspace",
@@ -1913,6 +1913,7 @@
         "data",
         "zero-knowledge"
       ],
+      "id": "",
       "value": "subspace/subspace",
       "topics": [
         "blockchain",
@@ -1929,8 +1930,7 @@
         "rust",
         "handlebars"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/38735363?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/38735363?v=4"
     },
     {
       "name": "Subsquare",
@@ -1940,6 +1940,7 @@
         "substrate",
         "social"
       ],
+      "id": "",
       "value": "opensquare-network/subsquare",
       "topics": [],
       "about": null,
@@ -1951,8 +1952,7 @@
         "html",
         "shell"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/67587196?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/67587196?v=4"
     },
     {
       "name": "Talisman",
@@ -1963,6 +1963,7 @@
         "NFT",
         "dapp"
       ],
+      "id": "",
       "value": "TalismanSociety/talisman",
       "topics": [
         "blockchain",
@@ -1981,8 +1982,7 @@
         "dockerfile",
         "shell"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/86999118?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/86999118?v=4"
     },
     {
       "name": "Tangle",
@@ -1993,6 +1993,7 @@
         "staking",
         "zero-knowledge"
       ],
+      "id": "",
       "value": "webb-tools/tangle",
       "topics": [
         "blockchain",
@@ -2014,8 +2015,7 @@
         "nix",
         "dockerfile"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/76852793?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/76852793?v=4"
     },
     {
       "name": "Tanssi",
@@ -2026,6 +2026,7 @@
         "NFT",
         "data"
       ],
+      "id": "",
       "value": "moondance-labs/tanssi",
       "topics": [],
       "about": null,
@@ -2038,8 +2039,7 @@
         "dockerfile",
         "javascript"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/126176994?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/126176994?v=4"
     },
     {
       "name": "Ternoa node",
@@ -2050,6 +2050,7 @@
         "data",
         "substrate"
       ],
+      "id": "",
       "value": "capsule-corp-ternoa/ternoa-node",
       "topics": [
         "blockchain",
@@ -2064,8 +2065,7 @@
         "shell",
         "handlebars"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/75503140?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/75503140?v=4"
     },
     {
       "name": "Unique",
@@ -2100,6 +2100,7 @@
         "data",
         "substrate"
       ],
+      "id": "",
       "value": "virto-network/virto-node",
       "topics": [
         "blockchain",
@@ -2114,8 +2115,7 @@
         "just",
         "html"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/59609085?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/59609085?v=4"
     },
     {
       "repository_url": "https://github.com/w3f/research",
@@ -2175,6 +2175,7 @@
         "smart contracts",
         "substrate"
       ],
+      "id": "",
       "value": "zeitgeistpm/zeitgeist",
       "topics": [
         "blockchain",
@@ -2194,8 +2195,7 @@
         "dockerfile",
         "typescript"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/71404578?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/71404578?v=4"
     },
     {
       "name": "Zeitgeist",
@@ -2247,6 +2247,7 @@
         "defi",
         "bridge"
       ],
+      "id": "",
       "value": "t3rn/t3rn",
       "topics": [
         "blockchain",
@@ -2270,8 +2271,7 @@
         "nix",
         "mustache"
       ],
-      "icon": "https://avatars.githubusercontent.com/u/65117420?v=4",
-      "id": ""
+      "icon": "https://avatars.githubusercontent.com/u/65117420?v=4"
     }
   ]
 }
