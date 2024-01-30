@@ -1,0 +1,24 @@
+{
+  "languages": [
+    {
+      "value": "JavaScript",
+      "name": "JavaScript",
+      "emoji": "🚀"
+    },
+    {
+      "value": "Python",
+      "name": "Python",
+      "emoji": "🐍"
+    },
+    {
+      "value": "Rust",
+      "name": "Rust",
+      "emoji": "🦀"
+    },
+    {
+      "value": "TypeScript",
+      "name": "TypeScript",
+      "emoji": "📜"
+    }
+  ]
+}

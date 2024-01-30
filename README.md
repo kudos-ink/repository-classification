@@ -6,9 +6,9 @@ This repository serves a collection of JSON files intended for use by the Kudos 
 
 ![Kudos portal's filters](images/kudos-filters.png)
 
-- [interests.json](interests.json) will be used in "Interests"
-- [languages.json](languages.json) will be used in "Languages"
-- [repository_full.json](repository_full.json) will be used in "Projects"
+- [interests.json](data/interests.json) will be used in "Interests"
+- [languages.json](data/languages.json) will be used in "Languages"
+- [repository_full.json](data/repository_full.json) will be used in "Projects"
 
 ## Issues
 

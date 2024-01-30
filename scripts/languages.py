@@ -1,15 +1,16 @@
 import json
+import os
+
+lang_file = os.environ.get("LANGUAGES_JSON", "data/languages.json")
+repo_full_file = os.environ.get("REPOSITORY_FULL_JSON", "data/repository_full.json")
 
 # Read existing languages.json file if it exists
 existing_languages = []
-try:
-    with open('languages.json', 'r', encoding='utf-8') as existing_file:
-        existing_languages = json.load(existing_file)
-except FileNotFoundError:
-    pass
+with open(lang_file, 'r', encoding='utf-8') as existing_file:
+    existing_languages = json.load(existing_file)["languages"]
 
 # Read the JSON file
-with open('repository_full.json', 'r') as file:
+with open(repo_full_file, 'r') as file:
     data = json.load(file)
 
 # Extract languages from the data
@@ -23,9 +24,10 @@ new_languages_set = set(new_languages) - set(lang['value'] for lang in existing_
 new_languages_info = [{'value': lang.lower(), 'label': lang.title(), 'emoji': '🦀'} for lang in new_languages_set]
 
 # Append new languages to existing_languages
-updated_languages = existing_languages + new_languages_info
+updated_languages = dict(languages=existing_languages + new_languages_info)
+
 # Save the updated structure to languages.json
-with open('languages.json', 'w') as output_file:
+with open(lang_file, 'w') as output_file:
     json.dump(updated_languages, output_file, ensure_ascii=False, indent=2)
 
-print("Languages information updated and saved to 'languages.json'")
+print(f"Languages information updated and saved to '{lang_file}'")

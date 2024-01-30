@@ -1,0 +1,902 @@
+{
+  "repositories": [
+    {
+      "name": "Polkadot SDK",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/paritytech/polkadot-sdk",
+      "interests": [
+        "polkadot",
+        "substrate"
+      ],
+      "id": "f149aef9-2669-4f93-97cc-848da31be521"
+    },
+    {
+      "name": "Acala",
+      "emoji": "💧",
+      "repository_url": "https://github.com/AcalaNetwork/Acala",
+      "interests": [
+        "defi",
+        "smart contracts"
+      ],
+      "id": "bdb953d9-c4a3-4340-b62f-d79c35dfb36a"
+    },
+    {
+      "name": "Ajuna",
+      "repository_url": "https://github.com/ajuna-network/Ajuna",
+      "interests": [
+        "gaming",
+        "kusama",
+        "parachain",
+        "dapp"
+      ],
+      "emoji": "🎮"
+    },
+    {
+      "name": "Aleph Node",
+      "emoji": "∞",
+      "repository_url": "https://github.com/aleph-zero-foundation/aleph-node",
+      "interests": [
+        "substrate"
+      ],
+      "id": "fc87cecc-505c-40cb-bf10-9235830b4a33"
+    },
+    {
+      "name": "ArtZero",
+      "repository_url": "https://github.com/ArtZero-io/frontend-react",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "🎨"
+    },
+    {
+      "name": "Astar",
+      "emoji": "⭐",
+      "repository_url": "https://github.com/AstarNetwork/Astar",
+      "interests": [
+        "evm",
+        "smart contracts",
+        "defi",
+        "substrate"
+      ],
+      "id": "f7e6066b-2424-4a46-b720-b82b62553b09"
+    },
+    {
+      "name": "Automata",
+      "emoji": "🤖",
+      "repository_url": "https://github.com/automata-network/automata",
+      "interests": [
+        "smart contracts",
+        "data"
+      ],
+      "id": "094fe93b-27b7-4547-b604-98a700c905e5"
+    },
+    {
+      "name": "Bifrost",
+      "emoji": "🌈",
+      "repository_url": "https://github.com/bifrost-finance/bifrost",
+      "interests": [
+        "defi",
+        "staking",
+        "bridge",
+        "substrate"
+      ],
+      "id": "9a1c18ea-be2e-49f0-886d-912a2f983170"
+    },
+    {
+      "name": "Bifrost",
+      "repository_url": "https://github.com/bifrost-finance/bifrost.js",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "🌈"
+    },
+    {
+      "name": "Bit Country",
+      "repository_url": "https://github.com/bit-country/bit.country-website",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "🌍"
+    },
+    {
+      "name": "Bitgreen Node",
+      "emoji": "🌱",
+      "repository_url": "https://github.com/bitgreen/bitgreen-node",
+      "interests": [
+        "substrate",
+        "defi"
+      ],
+      "id": "a85f6556-99c6-47d9-ad21-6950fa9dc57c"
+    },
+    {
+      "name": "Bittensor",
+      "emoji": "🧠",
+      "repository_url": "https://github.com/opentensor/bittensor",
+      "interests": [
+        "ai",
+        "data"
+      ],
+      "id": "ae3161b1-6ec7-4a7e-9f4b-026be1ed0282"
+    },
+    {
+      "name": "Centrifuge Chain",
+      "emoji": "🔄",
+      "repository_url": "https://github.com/centrifuge/centrifuge-chain",
+      "interests": [
+        "defi",
+        "data",
+        "oracles",
+        "rwa"
+      ],
+      "id": "3d8f376a-f6c3-4644-912d-4aec6adb827b"
+    },
+    {
+      "name": "Centrifuge dapp",
+      "repository_url": "https://github.com/centrifuge/apps",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "🌀"
+    },
+    {
+      "name": "Crust",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/crustio/crust",
+      "interests": [],
+      "id": "b7d9b901-1529-4d44-b2bc-fe9ad1481f61"
+    },
+    {
+      "name": "Darwinia Node",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/darwinia-network/darwinia",
+      "interests": [
+        "bridge",
+        "marketplace",
+        "dex",
+        "substrate"
+      ],
+      "id": "26412c33-0827-4c50-ab34-cb5e4aa31feb"
+    },
+    {
+      "name": "Deeper Chain",
+      "emoji": "🔄",
+      "repository_url": "https://github.com/deeper-chain/deeper-chain",
+      "interests": [
+        "defi",
+        "bridge",
+        "substrate"
+      ],
+      "id": "af4b75c9-6a4f-452d-979c-3b954683a17d"
+    },
+    {
+      "name": "Dock substrate",
+      "emoji": "🚢",
+      "repository_url": "https://github.com/docknetwork/dock-substrate",
+      "interests": [
+        "substrate",
+        "substrate",
+        "utilities"
+      ],
+      "id": "943ecd57-04b6-4a41-b313-a7f50380870f"
+    },
+    {
+      "name": "Dotreasury",
+      "emoji": "💸",
+      "repository_url": "https://github.com/opensquare-network/dotreasury",
+      "interests": [
+        "defi",
+        "dao"
+      ],
+      "id": "1b8ae28f-a0f5-44d6-8046-d348f791c804"
+    },
+    {
+      "name": "Encointer Node",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/encointer/encointer-node",
+      "interests": [
+        "defi",
+        "substrate"
+      ],
+      "id": "ca0085d5-2c38-4fda-84c2-6294e1415414"
+    },
+    {
+      "name": "Encointer Parachain",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/encointer/encointer-parachain",
+      "interests": [
+        "staking"
+      ],
+      "id": "a0706249-3918-44d4-838e-68b742cedb89"
+    },
+    {
+      "name": "Equilibrium Curve AMM",
+      "repository_url": "https://github.com/equilibrium-eosdt/equilibrium-curve-amm",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "📈"
+    },
+    {
+      "name": "Frequency",
+      "emoji": "📈",
+      "repository_url": "https://github.com/LibertyDSNP/frequency",
+      "interests": [
+        "data",
+        "substrate",
+        "oracles"
+      ],
+      "id": "2f813d2a-6546-448e-b749-6cb10c8b4684"
+    },
+    {
+      "name": "Gafi",
+      "emoji": "💡",
+      "repository_url": "https://github.com/grindytech/gafi",
+      "interests": [
+        "defi",
+        "smart contracts",
+        "substrate"
+      ],
+      "id": "ecc13454-c074-4b81-9d98-c3cb15d48d8a"
+    },
+    {
+      "name": "Gear",
+      "emoji": "⚙️",
+      "repository_url": "https://github.com/gear-tech/gear",
+      "interests": [
+        "iot",
+        "utilities",
+        "data",
+        "substrate"
+      ],
+      "id": "84528f03-b3ff-412d-8af6-97468433e5a7"
+    },
+    {
+      "name": "Grillchat",
+      "repository_url": "https://github.com/dappforce/grillchat",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "🔥"
+    },
+    {
+      "name": "Hashed",
+      "emoji": "🔐",
+      "repository_url": "https://github.com/hashed-io/hashed-substrate",
+      "interests": [
+        "substrate",
+        "defi",
+        "smart contracts"
+      ],
+      "id": "267341d3-765c-4520-a9a9-784776d02da6"
+    },
+    {
+      "name": "HydraDX",
+      "repository_url": "https://github.com/galacticcouncil/HydraDX-ui",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "🌊"
+    },
+    {
+      "name": "HydraDX Node",
+      "emoji": "🌊",
+      "repository_url": "https://github.com/galacticcouncil/HydraDX-node",
+      "interests": [
+        "dex",
+        "defi",
+        "staking",
+        "substrate"
+      ],
+      "id": "247abce9-3946-4e12-803b-255e2d03158a"
+    },
+    {
+      "name": "Imbue",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/ImbueNetwork/imbue-frontend",
+      "interests": [
+        "dapp",
+        "dao"
+      ],
+      "id": "9a329a5b-f0df-43bc-aefd-d2491313aab9"
+    },
+    {
+      "name": "Imbue Network",
+      "emoji": "🌱",
+      "repository_url": "https://github.com/ImbueNetwork/imbue",
+      "interests": [
+        "gaming",
+        "NFT",
+        "defi",
+        "substrate"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/paritytech/ink",
+      "emoji": "🖋️",
+      "name": "Ink!",
+      "interests": [
+        "ink!",
+        "docs"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/paritytech/ink-docs",
+      "emoji": "📖",
+      "name": "Ink! docs",
+      "interests": [
+        "ink!",
+        "docs"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/paritytech/ink-examples",
+      "emoji": "🚀",
+      "interests": [
+        "ink!",
+        "docs"
+      ],
+      "name": "Ink! examples"
+    },
+    {
+      "name": "Integritee worker",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/integritee-network/worker",
+      "interests": [
+        "defi"
+      ],
+      "id": "dd2da285-139a-4d39-bbef-89188acae91e"
+    },
+    {
+      "name": "Interbtc",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/interlay/interbtc",
+      "interests": [
+        "defi"
+      ],
+      "id": "f92c9d2d-58c0-4fcf-9ca4-fb637da54ecb"
+    },
+    {
+      "name": "Interbtc",
+      "repository_url": "https://github.com/interlay/interbtc-ui",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "⚡"
+    },
+    {
+      "name": "InvArch FRAME Pallet Library",
+      "emoji": "🖼️",
+      "repository_url": "https://github.com/InvArch/InvArch-Frames",
+      "interests": [
+        "data",
+        "oracles",
+        "iot",
+        "substrate"
+      ],
+      "id": "256086e7-3943-4662-a560-a14d023ca565"
+    },
+    {
+      "name": "InvArch Node",
+      "emoji": "🌌",
+      "repository_url": "https://github.com/InvArch/InvArch-Node",
+      "interests": [
+        "iot",
+        "data",
+        "substrate"
+      ],
+      "id": "c1d08eca-419a-41d0-9e13-4ff77c3daa84"
+    },
+    {
+      "name": "Joystream",
+      "emoji": "🕹️",
+      "repository_url": "https://github.com/Joystream/joystream",
+      "interests": [
+        "substrate"
+      ],
+      "id": "8c34d6f5-eb40-4d05-a333-075ad9d9df46"
+    },
+    {
+      "name": "KILT node",
+      "emoji": "🔗",
+      "repository_url": "https://github.com/KILTprotocol/kilt-node",
+      "interests": [
+        "polkadot",
+        "substrate",
+        "defi"
+      ],
+      "id": "71e6763d-5bd0-4eed-8bc9-368b4c0148f3"
+    },
+    {
+      "name": "Kodadot NFT Gallery",
+      "repository_url": "https://github.com/kodadot/nft-gallery",
+      "interests": [
+        "dapp",
+        "nft"
+      ],
+      "emoji": "🖼️"
+    },
+    {
+      "repository_url": "https://github.com/LasticXYZ/docs",
+      "emoji": "📄",
+      "name": "Lastic",
+      "interests": [
+        "polkadot",
+        "docs"
+      ]
+    },
+    {
+      "name": "Litentry Parachain",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/litentry/litentry-parachain",
+      "interests": [
+        "substrate"
+      ],
+      "id": "f4684d74-d632-4301-b76f-2da40798d71b"
+    },
+    {
+      "name": "MNET",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/bit-country/Metaverse-Network",
+      "interests": [
+        "gaming",
+        "NFT",
+        "substrate"
+      ],
+      "id": "e6d8a01c-5f41-4b3a-99ac-2e8ae274f476"
+    },
+    {
+      "name": "Mangata Node",
+      "emoji": "💰",
+      "repository_url": "https://github.com/mangata-finance/mangata-node",
+      "interests": [
+        "defi",
+        "staking",
+        "utilities",
+        "substrate"
+      ],
+      "id": "104823c7-9380-4672-94ee-0accd5772d02"
+    },
+    {
+      "name": "Manta Node",
+      "emoji": "🌊",
+      "repository_url": "https://github.com/Manta-Network/Manta",
+      "interests": [
+        "gaming",
+        "data",
+        "substrate"
+      ],
+      "id": "794a40b3-7eb6-41b0-b46f-ab84d8fcc5ff"
+    },
+    {
+      "name": "Moonbeam",
+      "emoji": "🌙",
+      "repository_url": "https://github.com/moonbeam-foundation/moonbeam",
+      "interests": [
+        "evm",
+        "smart contracts",
+        "defi"
+      ],
+      "id": "8ddff70d-b906-4660-ab48-8c3563fe1e49"
+    },
+    {
+      "name": "Nodle Chain",
+      "emoji": "🔗",
+      "repository_url": "https://github.com/NodleCode/chain",
+      "interests": [
+        "iot",
+        "data",
+        "substrate"
+      ],
+      "id": "992c9a36-65dd-4b5b-8d1c-8d16b1a85b51"
+    },
+    {
+      "name": "OAK SDK",
+      "emoji": "🌳",
+      "repository_url": "https://github.com/OAK-Foundation/oak.js",
+      "interests": [
+        "dapp",
+        "utilities"
+      ],
+      "id": "7dd9de32-1f6e-4bd0-bae5-79d77cb131ca"
+    },
+    {
+      "name": "OAK blockchain",
+      "emoji": "🌳",
+      "repository_url": "https://github.com/OAK-Foundation/OAK-blockchain",
+      "interests": [
+        "substrate",
+        "bridge",
+        "defi"
+      ],
+      "id": "3913379f-49cb-48bc-ae7c-d73bf6c13f77"
+    },
+    {
+      "name": "Openbrush Contracts",
+      "emoji": "🎨",
+      "repository_url": "https://github.com/Brushfam/openbrush-contracts",
+      "interests": [
+        "ink!",
+        "smart contracts",
+        "defi"
+      ],
+      "id": "70bf41c5-f7f9-48be-b6f1-1cbd10f79b1e"
+    },
+    {
+      "name": "Pallets",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/encointer/pallets",
+      "interests": [
+        "smart contracts",
+        "polkadot"
+      ],
+      "id": "da578f24-d13e-4294-b8b7-b752adfaac22"
+    },
+    {
+      "name": "Parallel",
+      "emoji": "🔄",
+      "repository_url": "https://github.com/parallel-finance/parallel",
+      "interests": [
+        "defi",
+        "xcm",
+        "smart contracts",
+        "substrate"
+      ],
+      "id": "a2f2fdbf-9903-4676-9d4b-14beb4d79ca4"
+    },
+    {
+      "name": "Peaq Network Node",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/peaqnetwork/peaq-network-node",
+      "interests": [
+        "defi",
+        "bridge",
+        "substrate"
+      ],
+      "id": "8ecb0e53-74a5-44a2-ac79-251bf1c8923c"
+    },
+    {
+      "name": "Pendulum",
+      "emoji": "⏳",
+      "repository_url": "https://github.com/pendulum-chain/pendulum",
+      "interests": [
+        "defi",
+        "bridge",
+        "substrate"
+      ],
+      "id": "d3ca21a3-cabc-4dde-a63c-be1a5ab5687b"
+    },
+    {
+      "name": "Pendulum Portal",
+      "emoji": "🚪",
+      "repository_url": "https://github.com/pendulum-chain/portal",
+      "interests": [
+        "defi",
+        "dapp"
+      ],
+      "id": "2f3ee721-14fe-4f54-9a4b-fd93e9439c58"
+    },
+    {
+      "name": "Personhood oracle",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/encointer/personhood-oracle",
+      "interests": [
+        "oracles"
+      ],
+      "id": "cf75d097-40d2-4f89-a5d1-f57b5fc721f2"
+    },
+    {
+      "name": "Phala blockchain",
+      "emoji": "🔒",
+      "repository_url": "https://github.com/Phala-Network/phala-blockchain",
+      "interests": [
+        "smart contracts",
+        "oracles",
+        "substrate"
+      ],
+      "id": "c2121346-154a-46d5-8aab-b3ca09d0ba96"
+    },
+    {
+      "name": "Polkadex",
+      "repository_url": "https://github.com/Polkadex-Substrate/Polkadex",
+      "interests": [
+        "dex",
+        "dapp"
+      ],
+      "emoji": "💱"
+    },
+    {
+      "repository_url": "https://github.com/w3f/PSPs",
+      "emoji": "💡",
+      "interests": [
+        "polkadot",
+        "docs"
+      ],
+      "name": "Polkadot PSPs"
+    },
+    {
+      "repository_url": "https://github.com/w3f/polkadot-spec",
+      "emoji": "🔍",
+      "name": "Polkadot Protocol",
+      "interests": [
+        "polkadot",
+        "docs"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/polkadot-fellows/RFCs",
+      "emoji": "📜",
+      "interests": [
+        "polkadot",
+        "docs"
+      ],
+      "name": "Polkadot RFCs"
+    },
+    {
+      "repository_url": "https://github.com/paritytech/polkadot-sdk-docs",
+      "emoji": "👩‍💻",
+      "name": "Polkadot SDK tutorial",
+      "interests": [
+        "polkadot",
+        "docs"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/w3f/polkadot-docs",
+      "emoji": "🌐",
+      "name": "Polkadot docs",
+      "interests": [
+        "polkadot",
+        "docs"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/w3f/polkadot-wiki",
+      "emoji": "📚",
+      "interests": [
+        "polkadot",
+        "docs"
+      ],
+      "name": "Polkadot wiki"
+    },
+    {
+      "name": "Robonomics",
+      "emoji": "🤖",
+      "repository_url": "https://github.com/airalab/robonomics",
+      "interests": [
+        "iot",
+        "smart contracts"
+      ],
+      "id": "d215802e-377c-467a-90db-9144cc5368c7"
+    },
+    {
+      "repository_url": "https://github.com/Snowfork/snowbridge",
+      "emoji": "❄️",
+      "interests": [
+        "polkadot",
+        "docs",
+        "evm"
+      ],
+      "name": "Snowbridge"
+    },
+    {
+      "name": "Sora2 Network",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/sora-xor/sora2-network",
+      "interests": [
+        "defi",
+        "bridge"
+      ],
+      "id": "7f447eeb-c416-4dcc-b7fc-4f41394ed09d"
+    },
+    {
+      "name": "Sora2 Parachain",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/sora-xor/sora2-parachain",
+      "interests": [
+        "defi",
+        "bridge",
+        "substrate"
+      ],
+      "id": "7d0a5a1e-15a0-469b-b11e-10cd00226b00"
+    },
+    {
+      "name": "Spacewalk",
+      "emoji": "🚀",
+      "repository_url": "https://github.com/pendulum-chain/spacewalk",
+      "interests": [
+        "xcm",
+        "defi",
+        "bridge"
+      ],
+      "id": "63ee19c8-2439-422a-b4e0-4d27cd0daaad"
+    },
+    {
+      "name": "Squid SDK",
+      "emoji": "🦑",
+      "repository_url": "https://github.com/subsquid/squid-sdk",
+      "interests": [
+        "defi",
+        "data"
+      ],
+      "id": "2640eb41-4d1c-4d91-9217-10b6da10c5cf"
+    },
+    {
+      "name": "Starlay",
+      "repository_url": "https://github.com/starlay-finance/starlay-ui",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "⭐"
+    },
+    {
+      "name": "Subql",
+      "emoji": "📊",
+      "repository_url": "https://github.com/subquery/subql",
+      "interests": [
+        "data"
+      ],
+      "id": "252a454a-56e0-4744-965a-fbe00692b0e5"
+    },
+    {
+      "name": "Subsocial Node",
+      "emoji": "🤝",
+      "repository_url": "https://github.com/dappforce/subsocial-parachain",
+      "interests": [
+        "social",
+        "substrate"
+      ],
+      "id": "4be6f937-5d13-4b07-a159-521aa96599fd"
+    },
+    {
+      "name": "Subspace",
+      "emoji": "🌌",
+      "repository_url": "https://github.com/subspace/subspace",
+      "interests": [
+        "iot",
+        "data",
+        "zero-knowledge"
+      ],
+      "id": "0d16a11f-c7e2-4aa9-ae75-d46fe715e26a"
+    },
+    {
+      "name": "Subsquare",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/opensquare-network/subsquare",
+      "interests": [
+        "substrate",
+        "social"
+      ],
+      "id": "ce541040-c2a1-40e1-ab90-193e5f3d0ae0"
+    },
+    {
+      "name": "Talisman",
+      "emoji": "🔮",
+      "repository_url": "https://github.com/TalismanSociety/talisman",
+      "interests": [
+        "wallet",
+        "NFT",
+        "dapp"
+      ],
+      "id": "9e63c326-3e9d-4d41-a7d1-5b36a986f746"
+    },
+    {
+      "name": "Tangle",
+      "emoji": "🕸️",
+      "repository_url": "https://github.com/webb-tools/tangle",
+      "interests": [
+        "data",
+        "staking",
+        "zero-knowledge"
+      ],
+      "id": "8e76ee24-cbbb-4e89-94fb-4f6cdadb8988"
+    },
+    {
+      "name": "Tanssi",
+      "emoji": "💃",
+      "repository_url": "https://github.com/moondance-labs/tanssi",
+      "interests": [
+        "gaming",
+        "NFT",
+        "data"
+      ],
+      "id": "7d89bfac-aae2-4306-a922-5d9c0ed4707f"
+    },
+    {
+      "name": "Ternoa node",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/capsule-corp-ternoa/ternoa-node",
+      "interests": [
+        "ternoa",
+        "data",
+        "substrate"
+      ],
+      "id": "98d18e95-74df-4535-a1a4-be648b72a41e"
+    },
+    {
+      "name": "Unique",
+      "repository_url": "https://github.com/UniqueNetwork/unique-new-wallet",
+      "interests": [
+        "dapp",
+        "wallet"
+      ],
+      "emoji": "🌐💼"
+    },
+    {
+      "name": "Virto Node",
+      "emoji": "🌐",
+      "repository_url": "https://github.com/virto-network/virto-node",
+      "interests": [
+        "substrate",
+        "marketplace",
+        "data",
+        "substrate"
+      ],
+      "id": "179afa85-2631-419a-b2d0-c0db9bfc0750"
+    },
+    {
+      "repository_url": "https://github.com/w3f/research",
+      "emoji": "🔬",
+      "interests": [
+        "polkadot",
+        "docs"
+      ],
+      "name": "W3F research"
+    },
+    {
+      "repository_url": "https://github.com/paritytech/xcm-docs",
+      "emoji": "📘",
+      "name": "XCM docs",
+      "interests": [
+        "polkadot",
+        "docs"
+      ]
+    },
+    {
+      "repository_url": "https://github.com/paritytech/xcm-format",
+      "emoji": "📤",
+      "interests": [
+        "polkadot",
+        "docs"
+      ],
+      "name": "XCM format"
+    },
+    {
+      "name": "Zeitgeist",
+      "emoji": "⏳",
+      "repository_url": "https://github.com/zeitgeistpm/zeitgeist",
+      "interests": [
+        "oracles",
+        "smart contracts",
+        "substrate"
+      ],
+      "id": "927dab5a-c64d-4225-b1b2-ff46146458f0"
+    },
+    {
+      "name": "Zeitgeist",
+      "repository_url": "https://github.com/zeitgeistpm/ui",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "⌛"
+    },
+    {
+      "name": "Zenlink",
+      "repository_url": "https://github.com/zenlinkpro/zenlink-interface",
+      "interests": [
+        "dapp"
+      ],
+      "emoji": "🔗"
+    },
+    {
+      "name": "t3rn",
+      "emoji": "🚀",
+      "repository_url": "https://github.com/t3rn/t3rn",
+      "interests": [
+        "xcm",
+        "defi",
+        "bridge"
+      ],
+      "id": "af89c412-b69f-4437-a6a0-cdf80070a4a9"
+    }
+  ]
+}

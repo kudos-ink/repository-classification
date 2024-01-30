@@ -15,32 +15,30 @@ body:
     label: Interests
     multiple: true
     options:
-    - polkadot
-    - kusama
-    - substrate
-    - evm
-    - defi
-    - smart contracts
-    - ink!
-    - bridge
-    - dex
-    - dao
-    - social
-    - zero-knowledge
-    - iot
-    - xcm
-    - wallet
     - ai
+    - bridge
+    - dao
     - dapp
     - data
-    - oracles
-    - gaming
-    - nft
-    - staking
-    - utilities
-    - rwa
+    - defi
     - docs
+    - evm
+    - gaming
+    - ink!
+    - iot
+    - kusama
     - marketplace
+    - nft
+    - oracles
+    - polkadot
+    - rwa
+    - smart contracts
+    - social
+    - staking
+    - substrate
+    - utilities
+    - wallet
+    - xcm
   id: interests
   type: dropdown
   validations:

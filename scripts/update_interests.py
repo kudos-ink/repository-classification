@@ -1,8 +1,10 @@
 import json
 import yaml
+import os
 
+interests_file = os.environ.get("INTERESTS_JSON", "data/interests.json")
 # Load the JSON data from the file
-with open('interests.json', 'r') as json_file:
+with open(interests_file, 'r') as json_file:
     data = json.load(json_file)
 
 # Extract the "value" list from the JSON data
