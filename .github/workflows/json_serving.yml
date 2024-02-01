@@ -3,7 +3,8 @@ name: Deploy new JSON's serving
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["main"]
+    branches:
+      - main
     paths:
       - "**/data/interests.json"
       - "**/data/languages.json"
