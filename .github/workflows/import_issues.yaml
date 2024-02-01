@@ -1,4 +1,4 @@
-name: Manually Triggered Import Workflow
+name: Register repository and load issues
 
 on:
   workflow_dispatch:
