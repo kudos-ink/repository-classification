@@ -29,7 +29,8 @@
         "parachain",
         "dapp"
       ],
-      "emoji": "🎮"
+      "emoji": "🎮",
+      "id": "4f02f0ad-eb78-432f-b81c-a1b4bd01439b"
     },
     {
       "name": "Aleph Node",
@@ -46,7 +47,8 @@
       "interests": [
         "dapp"
       ],
-      "emoji": "🎨"
+      "emoji": "🎨",
+      "id": "35876274-3a12-46e9-b511-fcad5a60e3e1"
     },
     {
       "name": "Astar",
@@ -88,7 +90,8 @@
       "interests": [
         "dapp"
       ],
-      "emoji": "🌈"
+      "emoji": "🌈",
+      "id": "b9ab7f64-ccab-405f-9ce5-5ffaa116493d"
     },
     {
       "name": "Bit Country",
@@ -96,7 +99,8 @@
       "interests": [
         "dapp"
       ],
-      "emoji": "🌍"
+      "emoji": "🌍",
+      "id": "abbe415f-855d-4e47-b3a4-5f548b53152d"
     },
     {
       "name": "Bitgreen Node",
@@ -136,7 +140,8 @@
       "interests": [
         "dapp"
       ],
-      "emoji": "🌀"
+      "emoji": "🌀",
+      "id": "19c6d001-d1de-4c8c-8d2e-6cc3fd4bc0d5"
     },
     {
       "name": "Crust",
@@ -214,7 +219,8 @@
       "interests": [
         "dapp"
       ],
-      "emoji": "📈"
+      "emoji": "📈",
+      "id": "04707db1-1c5a-4dab-939f-c3224c6731c1"
     },
     {
       "name": "Frequency",
@@ -256,7 +262,8 @@
       "interests": [
         "dapp"
       ],
-      "emoji": "🔥"
+      "emoji": "🔥",
+      "id": "0d383e0d-d2b7-4e6b-b4ab-e8754338be42"
     },
     {
       "name": "Hashed",
@@ -275,7 +282,8 @@
       "interests": [
         "dapp"
       ],
-      "emoji": "🌊"
+      "emoji": "🌊",
+      "id": "833fb513-d1f4-4496-b8b8-81f4d62e846e"
     },
     {
       "name": "HydraDX Node",
@@ -308,7 +316,8 @@
         "NFT",
         "defi",
         "substrate"
-      ]
+      ],
+      "id": "b0f28695-c9f1-4df1-a41c-77952ad5aee8"
     },
     {
       "repository_url": "https://github.com/paritytech/ink",
@@ -317,7 +326,8 @@
       "interests": [
         "ink!",
         "docs"
-      ]
+      ],
+      "id": "584e31e8-67e9-4628-a556-fcdbd55f0aef"
     },
     {
       "repository_url": "https://github.com/paritytech/ink-docs",
@@ -326,7 +336,8 @@
       "interests": [
         "ink!",
         "docs"
-      ]
+      ],
+      "id": "7634ffdc-89ec-4627-bea2-0ffb38665627"
     },
     {
       "repository_url": "https://github.com/paritytech/ink-examples",
@@ -335,6 +346,7 @@
         "ink!",
         "docs"
       ],
+      "id": "f0a2f229-0d10-4cd0-bfdb-eeb0a55bdc50",
       "name": "Ink! examples"
     },
     {
@@ -602,7 +614,8 @@
         "dex",
         "dapp"
       ],
-      "emoji": "💱"
+      "emoji": "💱",
+      "id": "95ece1bc-5c2d-4831-843e-536fdfb333de"
     },
     {
       "repository_url": "https://github.com/w3f/PSPs",
@@ -611,7 +624,8 @@
         "polkadot",
         "docs"
       ],
-      "name": "Polkadot PSPs"
+      "name": "Polkadot PSPs",
+      "id": "1c7d36bc-e4e8-452c-8c59-d5d272bb3290"
     },
     {
       "repository_url": "https://github.com/w3f/polkadot-spec",
@@ -630,7 +644,8 @@
         "polkadot",
         "docs"
       ],
-      "name": "Polkadot RFCs"
+      "name": "Polkadot RFCs",
+      "id": "0e720c18-0c38-4ab9-b66a-ca3dbb8e35fa"
     },
     {
       "repository_url": "https://github.com/paritytech/polkadot-sdk-docs",
@@ -639,7 +654,8 @@
       "interests": [
         "polkadot",
         "docs"
-      ]
+      ],
+      "id": "26a4a9bd-6817-425a-8b98-739a114bbd87"
     },
     {
       "repository_url": "https://github.com/w3f/polkadot-docs",
@@ -648,7 +664,8 @@
       "interests": [
         "polkadot",
         "docs"
-      ]
+      ],
+      "id":"82b3acf9-77f7-46da-b53a-43ba19af41c2"
     },
     {
       "repository_url": "https://github.com/w3f/polkadot-wiki",
@@ -677,6 +694,7 @@
         "docs",
         "evm"
       ],
+      "id": "b39ed64c-b466-4e4f-afb9-4cbee06a6997",
       "name": "Snowbridge"
     },
     {
@@ -820,7 +838,8 @@
         "dapp",
         "wallet"
       ],
-      "emoji": "🌐💼"
+      "emoji": "💼",
+      "id": "17b2a440-bc57-4207-847e-2b4c589d92f0"
     },
     {
       "name": "Virto Node",
@@ -841,6 +860,7 @@
         "polkadot",
         "docs"
       ],
+      "id": "a8d137fe-3629-4d71-bfba-11d5d5b2e241",
       "name": "W3F research"
     },
     {
@@ -850,7 +870,8 @@
       "interests": [
         "polkadot",
         "docs"
-      ]
+      ],
+      "id": "63ea5b4b-7d6a-46fb-b4cb-3878770f4f1b"
     },
     {
       "repository_url": "https://github.com/paritytech/xcm-format",
@@ -859,7 +880,8 @@
         "polkadot",
         "docs"
       ],
-      "name": "XCM format"
+      "name": "XCM format",
+      "id": "899dbc50-6b58-4c13-8814-9ca17c72fcfd"
     },
     {
       "name": "Zeitgeist",
@@ -878,7 +900,8 @@
       "interests": [
         "dapp"
       ],
-      "emoji": "⌛"
+      "emoji": "⌛",
+      "id": "90e389e4-b7b7-4a8b-92b7-11c3f52a913c"
     },
     {
       "name": "Zenlink",
@@ -886,7 +909,8 @@
       "interests": [
         "dapp"
       ],
-      "emoji": "🔗"
+      "emoji": "🔗",
+      "id": "17d25965-0fd7-48a4-a7c4-4b04c936fdec"
     },
     {
       "name": "t3rn",
