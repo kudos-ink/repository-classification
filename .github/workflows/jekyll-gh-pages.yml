@@ -6,7 +6,9 @@ on:
   push:
     branches: ["main"]
     paths:
-      - "**/data/**"
+      - "**/data/interests.json"
+      - "**/data/languages.json"
+      - "**/data/repository_full.json"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
