@@ -74,6 +74,7 @@
         "dapp"
       ],
       "emoji": "🎮",
+      "id": "4f02f0ad-eb78-432f-b81c-a1b4bd01439b",
       "value": "ajuna-network/Ajuna",
       "topics": [
         "blockchain",
@@ -125,6 +126,7 @@
         "dapp"
       ],
       "emoji": "🎨",
+      "id": "35876274-3a12-46e9-b511-fcad5a60e3e1",
       "value": "ArtZero-io/frontend-react",
       "topics": [],
       "about": "FrontEnd ReactJS code of ArtZero.io platform",
@@ -232,6 +234,7 @@
         "dapp"
       ],
       "emoji": "🌈",
+      "id": "b9ab7f64-ccab-405f-9ce5-5ffaa116493d",
       "value": "bifrost-finance/bifrost.js",
       "topics": [],
       "about": null,
@@ -248,6 +251,7 @@
         "dapp"
       ],
       "emoji": "🌍",
+      "id": "abbe415f-855d-4e47-b3a4-5f548b53152d",
       "value": "bit-country/bit.country-website",
       "topics": [],
       "about": "https://bit.country official website",
@@ -347,6 +351,7 @@
         "dapp"
       ],
       "emoji": "🌀",
+      "id": "19c6d001-d1de-4c8c-8d2e-6cc3fd4bc0d5",
       "value": "centrifuge/apps",
       "topics": [],
       "about": "Monorepo for Centrifuge frontends, including Centrifuge App, onboarding api, and Fabric design system.",
@@ -532,6 +537,7 @@
         "dapp"
       ],
       "emoji": "📈",
+      "id": "04707db1-1c5a-4dab-939f-c3224c6731c1",
       "value": "equilibrium-eosdt/equilibrium-curve-amm",
       "topics": [],
       "about": null,
@@ -642,6 +648,7 @@
         "dapp"
       ],
       "emoji": "🔥",
+      "id": "0d383e0d-d2b7-4e6b-b4ab-e8754338be42",
       "value": "dappforce/grillchat",
       "topics": [],
       "about": "Chat anonymously on-chain without wallets utilizing our censorship-resistant blockchain and app with anonymous logins. Powered by Subsocial Network.",
@@ -688,6 +695,7 @@
         "dapp"
       ],
       "emoji": "🌊",
+      "id": "833fb513-d1f4-4496-b8b8-81f4d62e846e",
       "value": "galacticcouncil/HydraDX-ui",
       "topics": [],
       "about": null,
@@ -759,6 +767,7 @@
         "defi",
         "substrate"
       ],
+      "id": "b0f28695-c9f1-4df1-a41c-77952ad5aee8",
       "value": "ImbueNetwork/imbue",
       "topics": [],
       "about": null,
@@ -779,6 +788,7 @@
         "ink!",
         "docs"
       ],
+      "id": "584e31e8-67e9-4628-a556-fcdbd55f0aef",
       "value": "paritytech/ink",
       "topics": [
         "blockchain",
@@ -806,6 +816,7 @@
         "ink!",
         "docs"
       ],
+      "id": "7634ffdc-89ec-4627-bea2-0ffb38665627",
       "value": "paritytech/ink-docs",
       "topics": [],
       "about": "Documentation portal for the ink! smart contract language.",
@@ -825,6 +836,7 @@
         "ink!",
         "docs"
       ],
+      "id": "f0a2f229-0d10-4cd0-bfdb-eeb0a55bdc50",
       "name": "Ink! examples",
       "value": "paritytech/ink-examples",
       "topics": [
@@ -1519,6 +1531,7 @@
         "dapp"
       ],
       "emoji": "💱",
+      "id": "95ece1bc-5c2d-4831-843e-536fdfb333de",
       "value": "Polkadex-Substrate/Polkadex",
       "topics": [
         "decentralized-exchanges",
@@ -1548,6 +1561,7 @@
         "docs"
       ],
       "name": "Polkadot PSPs",
+      "id": "1c7d36bc-e4e8-452c-8c59-d5d272bb3290",
       "value": "w3f/PSPs",
       "topics": [],
       "about": "Polkadot Smart Contract Proposals",
@@ -1583,6 +1597,7 @@
         "docs"
       ],
       "name": "Polkadot RFCs",
+      "id": "0e720c18-0c38-4ab9-b66a-ca3dbb8e35fa",
       "value": "polkadot-fellows/RFCs",
       "topics": [],
       "about": "Proposals for change to standards administered by the Fellowship.",
@@ -1600,6 +1615,7 @@
         "polkadot",
         "docs"
       ],
+      "id": "26a4a9bd-6817-425a-8b98-739a114bbd87",
       "value": "paritytech/polkadot-sdk-docs",
       "topics": [],
       "about": "_THE_ Polkadot SDK Tutorial",
@@ -1617,6 +1633,7 @@
         "polkadot",
         "docs"
       ],
+      "id": "82b3acf9-77f7-46da-b53a-43ba19af41c2",
       "value": "w3f/polkadot-docs",
       "topics": [],
       "about": "Translation management",
@@ -1684,6 +1701,7 @@
         "docs",
         "evm"
       ],
+      "id": "b39ed64c-b466-4e4f-afb9-4cbee06a6997",
       "name": "Snowbridge",
       "value": "Snowfork/snowbridge",
       "topics": [
@@ -2051,7 +2069,8 @@
         "dapp",
         "wallet"
       ],
-      "emoji": "🌐💼",
+      "emoji": "💼",
+      "id": "17b2a440-bc57-4207-847e-2b4c589d92f0",
       "value": "UniqueNetwork/unique-new-wallet",
       "topics": [],
       "about": null,
@@ -2100,6 +2119,7 @@
         "polkadot",
         "docs"
       ],
+      "id": "a8d137fe-3629-4d71-bfba-11d5d5b2e241",
       "name": "W3F research",
       "value": "w3f/research",
       "topics": [],
@@ -2119,6 +2139,7 @@
         "polkadot",
         "docs"
       ],
+      "id": "63ea5b4b-7d6a-46fb-b4cb-3878770f4f1b",
       "value": "paritytech/xcm-docs",
       "topics": [],
       "about": "Documentation for XCM",
@@ -2133,6 +2154,7 @@
         "docs"
       ],
       "name": "XCM format",
+      "id": "899dbc50-6b58-4c13-8814-9ca17c72fcfd",
       "value": "paritytech/xcm-format",
       "topics": [],
       "about": "Polkadot Cross Consensus-system Message format.",
@@ -2177,6 +2199,7 @@
         "dapp"
       ],
       "emoji": "⌛",
+      "id": "90e389e4-b7b7-4a8b-92b7-11c3f52a913c",
       "value": "zeitgeistpm/ui",
       "topics": [],
       "about": "Zeitgeist general prediction markets application.",
@@ -2195,6 +2218,7 @@
         "dapp"
       ],
       "emoji": "🔗",
+      "id": "17d25965-0fd7-48a4-a7c4-4b04c936fdec",
       "value": "zenlinkpro/zenlink-interface",
       "topics": [
         "monorepo",
