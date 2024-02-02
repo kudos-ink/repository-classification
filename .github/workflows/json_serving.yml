@@ -62,4 +62,4 @@ jobs:
     steps:
       - name: Revalidate cache
         run: |
-          curl --location --request POST ${{ vars.REVALIDATE_CACHE_URL }} --header ${{ secrets.AUTH_HEADER }}
+          curl --location --request POST "${{ vars.REVALIDATE_CACHE_URL }}" --header "${{ secrets.AUTH_HEADER }}"
