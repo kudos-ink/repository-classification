@@ -1,6 +1,11 @@
 {
   "languages": [
     {
+      "value": "Go",
+      "label": "Go",
+      "emoji": "🏃‍♂️"
+    },
+    {
       "value": "JavaScript",
       "name": "JavaScript",
       "emoji": "🚀"
@@ -16,9 +21,19 @@
       "emoji": "🦀"
     },
     {
+      "value": "Solidity",
+      "label": "Solidity",
+      "emoji": "💸"
+    },
+    {
       "value": "TypeScript",
       "name": "TypeScript",
       "emoji": "📜"
+    },
+    {
+      "value": "Vue",
+      "label": "Vue",
+      "emoji": "🖖"
     }
   ]
 }
