@@ -55,3 +55,10 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  revalidate-cache:
+    needs: deploy
+      steps:
+        - name: Revalidate cache
+          run: |
+            curl --location --request POST ${{ vars.REVALIDATE_CACHE_URL }} --header ${{ secrets.AUTH_HEADER }}
