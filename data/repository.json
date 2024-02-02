@@ -373,7 +373,8 @@
       "interests": [
         "dapp"
       ],
-      "emoji": "⚡"
+      "emoji": "⚡",
+      "id": "bd0650a7-30a2-46a8-9e90-3c20baf101b2"
     },
     {
       "name": "InvArch FRAME Pallet Library",
@@ -425,7 +426,8 @@
         "dapp",
         "nft"
       ],
-      "emoji": "🖼️"
+      "emoji": "🖼️",
+      "id": "86d4f8a8-0283-4059-9079-a16885a04485"
     },
     {
       "repository_url": "https://github.com/LasticXYZ/docs",
@@ -434,7 +436,8 @@
       "interests": [
         "polkadot",
         "docs"
-      ]
+      ],
+      "id": "5870b96c-dd97-41c1-8a15-7989ec464d3e"
     },
     {
       "name": "Litentry Parachain",
@@ -674,7 +677,8 @@
         "polkadot",
         "docs"
       ],
-      "name": "Polkadot wiki"
+      "name": "Polkadot wiki",
+      "id": "6cfdb0fa-9115-4435-b3af-7b7db2a79a44"
     },
     {
       "name": "Robonomics",
@@ -745,7 +749,8 @@
       "interests": [
         "dapp"
       ],
-      "emoji": "⭐"
+      "emoji": "⭐",
+      "id": "c3c6fe69-892b-4614-9469-d0d7ff04fcc7"
     },
     {
       "name": "Subql",
