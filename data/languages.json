@@ -2,7 +2,7 @@
   "languages": [
     {
       "value": "Go",
-      "label": "Go",
+      "name": "Go",
       "emoji": "🏃‍♂️"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "value": "Solidity",
-      "label": "Solidity",
+      "name": "Solidity",
       "emoji": "💸"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "value": "Vue",
-      "label": "Vue",
+      "name": "Vue",
       "emoji": "🖖"
     }
   ]
