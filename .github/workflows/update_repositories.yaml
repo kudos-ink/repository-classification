@@ -38,5 +38,3 @@ jobs:
           git add .
           git commit -m "chore: add new repository"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
