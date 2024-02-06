@@ -85,7 +85,7 @@
       "id": "9a1c18ea-be2e-49f0-886d-912a2f983170"
     },
     {
-      "name": "Bifrost",
+      "name": "Bifrost js",
       "repository_url": "https://github.com/bifrost-finance/bifrost.js",
       "interests": [
         "dapp"
@@ -277,7 +277,7 @@
       "id": "267341d3-765c-4520-a9a9-784776d02da6"
     },
     {
-      "name": "HydraDX",
+      "name": "HydraDX UI",
       "repository_url": "https://github.com/galacticcouncil/HydraDX-ui",
       "interests": [
         "dapp"
@@ -367,7 +367,7 @@
       "id": "f92c9d2d-58c0-4fcf-9ca4-fb637da54ecb"
     },
     {
-      "name": "Interbtc",
+      "name": "Interbtc UI",
       "repository_url": "https://github.com/interlay/interbtc-ui",
       "interests": [
         "dapp"
@@ -899,7 +899,7 @@
       "id": "927dab5a-c64d-4225-b1b2-ff46146458f0"
     },
     {
-      "name": "Zeitgeist",
+      "name": "Zeitgeist UI",
       "repository_url": "https://github.com/zeitgeistpm/ui",
       "interests": [
         "dapp"
