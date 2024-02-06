@@ -29,6 +29,8 @@ jobs:
           pip install -r scripts/requirements.txt
 
       - name: Execute updater and commit changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           python scripts/repository_parser.py
 

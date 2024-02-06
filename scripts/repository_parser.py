@@ -1,6 +1,7 @@
 import json
 import requests
 import os
+from time import sleep
 
 token = os.getenv("GITHUB_TOKEN")
 repo_file = os.environ.get("REPOSITORY_JSON", "data/repository.json")
@@ -37,12 +38,10 @@ for item in data["repositories"]:
 
         # Fetching the icon URL
         item["icon"] = repo_data["owner"]["avatar_url"]
+        sleep(1)
     except requests.exceptions.RequestException as e:
         print(f"Error fetching repository details for {item['value']}: {e}")
-        item["topics"] = []
-        item["about"] = None
-        item["languages"] = None
-        item["icon"] = None
+        exit(1)
 
 # Save the modified data to a new JSON file
 with open(repo_full_file, "w", encoding="utf-8") as file:
