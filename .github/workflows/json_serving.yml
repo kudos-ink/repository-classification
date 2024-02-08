@@ -62,6 +62,6 @@ jobs:
     steps:
       - name: Revalidate cache
         run: |
-          curl --location --request POST "${{ vars.REVALIDATE_CACHE_URL }}/filter-languages" --header "${{ secrets.AUTH_HEADER }}"
-          curl --location --request POST "${{ vars.REVALIDATE_CACHE_URL }}/filter-interests" --header "${{ secrets.AUTH_HEADER }}"
-          curl --location --request POST "${{ vars.REVALIDATE_CACHE_URL }}/filter-repositories" --header "${{ secrets.AUTH_HEADER }}"
+          curl --fail --location --request POST "${{ vars.REVALIDATE_CACHE_URL }}/filter-languages" --header "${{ secrets.AUTH_HEADER }}"
+          curl --fail --location --request POST "${{ vars.REVALIDATE_CACHE_URL }}/filter-interests" --header "${{ secrets.AUTH_HEADER }}"
+          curl --fail --location --request POST "${{ vars.REVALIDATE_CACHE_URL }}/filter-repositories" --header "${{ secrets.AUTH_HEADER }}"
