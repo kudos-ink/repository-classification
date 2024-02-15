@@ -1,6 +1,7 @@
 {
   "repositories": [
     {
+      "project": "Polkadot",
       "name": "Polkadot SDK",
       "emoji": "🌐",
       "repository_url": "https://github.com/paritytech/polkadot-sdk",
@@ -34,6 +35,7 @@
       "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
     },
     {
+      "project": "Acala",
       "name": "Acala",
       "emoji": "💧",
       "repository_url": "https://github.com/AcalaNetwork/Acala",
@@ -65,6 +67,7 @@
       "icon": "https://avatars.githubusercontent.com/u/54881907?v=4"
     },
     {
+      "project": "Ajuna",
       "name": "Ajuna",
       "repository_url": "https://github.com/ajuna-network/Ajuna",
       "interests": [
@@ -96,6 +99,7 @@
       "icon": "https://avatars.githubusercontent.com/u/91025024?v=4"
     },
     {
+      "project": "Aleph Zero",
       "name": "Aleph Node",
       "emoji": "∞",
       "repository_url": "https://github.com/aleph-zero-foundation/aleph-node",
@@ -120,6 +124,7 @@
       "icon": "https://avatars.githubusercontent.com/u/54438045?v=4"
     },
     {
+      "project": "ArtZero",
       "name": "ArtZero",
       "repository_url": "https://github.com/ArtZero-io/frontend-react",
       "interests": [
@@ -138,6 +143,7 @@
       "icon": "https://avatars.githubusercontent.com/u/99382202?v=4"
     },
     {
+      "project": "Astar",
       "name": "Astar",
       "emoji": "⭐",
       "repository_url": "https://github.com/AstarNetwork/Astar",
@@ -175,6 +181,7 @@
       "icon": "https://avatars.githubusercontent.com/u/76546898?v=4"
     },
     {
+      "project": "Automata",
       "name": "Automata",
       "emoji": "🤖",
       "repository_url": "https://github.com/automata-network/automata",
@@ -195,6 +202,7 @@
       "icon": "https://avatars.githubusercontent.com/u/77826448?v=4"
     },
     {
+      "project": "Bifrost",
       "name": "Bifrost",
       "emoji": "🌈",
       "repository_url": "https://github.com/bifrost-finance/bifrost",
@@ -228,6 +236,7 @@
       "icon": "https://avatars.githubusercontent.com/u/52661663?v=4"
     },
     {
+      "project": "Bifrost",
       "name": "Bifrost js",
       "repository_url": "https://github.com/bifrost-finance/bifrost.js",
       "interests": [
@@ -245,6 +254,7 @@
       "icon": "https://avatars.githubusercontent.com/u/52661663?v=4"
     },
     {
+      "project": "Bit Country",
       "name": "Bit Country",
       "repository_url": "https://github.com/bit-country/bit.country-website",
       "interests": [
@@ -262,6 +272,7 @@
       "icon": "https://avatars.githubusercontent.com/u/70461516?v=4"
     },
     {
+      "project": "Bitgreen",
       "name": "Bitgreen Node",
       "emoji": "🌱",
       "repository_url": "https://github.com/bitgreen/bitgreen-node",
@@ -288,6 +299,7 @@
       "icon": "https://avatars.githubusercontent.com/u/50483263?v=4"
     },
     {
+      "project": "Bittensor",
       "name": "Bittensor",
       "emoji": "🧠",
       "repository_url": "https://github.com/opentensor/bittensor",
@@ -321,6 +333,7 @@
       "icon": "https://avatars.githubusercontent.com/u/61063461?v=4"
     },
     {
+      "project": "Centrifuge",
       "name": "Centrifuge Chain",
       "emoji": "🔄",
       "repository_url": "https://github.com/centrifuge/centrifuge-chain",
@@ -345,6 +358,7 @@
       "icon": "https://avatars.githubusercontent.com/u/37558527?v=4"
     },
     {
+      "project": "Centrifuge",
       "name": "Centrifuge dapp",
       "repository_url": "https://github.com/centrifuge/apps",
       "interests": [
@@ -363,6 +377,7 @@
       "icon": "https://avatars.githubusercontent.com/u/37558527?v=4"
     },
     {
+      "project": "Crust",
       "name": "Crust",
       "emoji": "🌐",
       "repository_url": "https://github.com/crustio/crust",
@@ -394,6 +409,7 @@
       "icon": "https://avatars.githubusercontent.com/u/39723633?v=4"
     },
     {
+      "project": "Darwinia",
       "name": "Darwinia Node",
       "emoji": "🌐",
       "repository_url": "https://github.com/darwinia-network/darwinia",
@@ -426,6 +442,7 @@
       "icon": "https://avatars.githubusercontent.com/u/50859907?v=4"
     },
     {
+      "project": "Deeper Network",
       "name": "Deeper Chain",
       "emoji": "🔄",
       "repository_url": "https://github.com/deeper-chain/deeper-chain",
@@ -447,6 +464,7 @@
       "icon": "https://avatars.githubusercontent.com/u/70784002?v=4"
     },
     {
+      "project": "Dock",
       "name": "Dock substrate",
       "emoji": "🚢",
       "repository_url": "https://github.com/docknetwork/dock-substrate",
@@ -469,6 +487,7 @@
       "icon": "https://avatars.githubusercontent.com/u/52467402?v=4"
     },
     {
+      "project": "OpenSquare Network",
       "name": "Dotreasury",
       "emoji": "💸",
       "repository_url": "https://github.com/opensquare-network/dotreasury",
@@ -489,6 +508,7 @@
       "icon": "https://avatars.githubusercontent.com/u/67587196?v=4"
     },
     {
+      "project": "Encointer",
       "name": "Encointer Node",
       "emoji": "🌐",
       "repository_url": "https://github.com/encointer/encointer-node",
@@ -511,6 +531,7 @@
       "icon": "https://avatars.githubusercontent.com/u/45148266?v=4"
     },
     {
+      "project": "Encointer",
       "name": "Encointer Parachain",
       "emoji": "🌐",
       "repository_url": "https://github.com/encointer/encointer-parachain",
@@ -531,6 +552,7 @@
       "icon": "https://avatars.githubusercontent.com/u/45148266?v=4"
     },
     {
+      "project": "Equilibrium Curve AMM",
       "name": "Equilibrium Curve AMM",
       "repository_url": "https://github.com/equilibrium-eosdt/equilibrium-curve-amm",
       "interests": [
@@ -550,6 +572,7 @@
       "icon": "https://avatars.githubusercontent.com/u/48287027?v=4"
     },
     {
+      "project": "Frequency",
       "name": "Frequency",
       "emoji": "📈",
       "repository_url": "https://github.com/LibertyDSNP/frequency",
@@ -581,6 +604,7 @@
       "icon": "https://avatars.githubusercontent.com/u/78103996?v=4"
     },
     {
+      "project": "Gafi Network",
       "name": "Gafi",
       "emoji": "💡",
       "repository_url": "https://github.com/grindytech/gafi",
@@ -611,6 +635,7 @@
       "icon": "https://avatars.githubusercontent.com/u/109591734?v=4"
     },
     {
+      "project": "Gear",
       "name": "Gear",
       "emoji": "⚙️",
       "repository_url": "https://github.com/gear-tech/gear",
@@ -642,6 +667,7 @@
       "icon": "https://avatars.githubusercontent.com/u/72395063?v=4"
     },
     {
+      "project": "Grill.chat",
       "name": "Grillchat",
       "repository_url": "https://github.com/dappforce/grillchat",
       "interests": [
@@ -663,6 +689,7 @@
       "icon": "https://avatars.githubusercontent.com/u/44074401?v=4"
     },
     {
+      "project": "Hashed Network",
       "name": "Hashed",
       "emoji": "🔐",
       "repository_url": "https://github.com/hashed-io/hashed-substrate",
@@ -689,6 +716,7 @@
       "icon": "https://avatars.githubusercontent.com/u/89164993?v=4"
     },
     {
+      "project": "HydraDX",
       "name": "HydraDX UI",
       "repository_url": "https://github.com/galacticcouncil/HydraDX-ui",
       "interests": [
@@ -708,6 +736,7 @@
       "icon": "https://avatars.githubusercontent.com/u/57679211?v=4"
     },
     {
+      "project": "HydraDX",
       "name": "HydraDX Node",
       "emoji": "🌊",
       "repository_url": "https://github.com/galacticcouncil/HydraDX-node",
@@ -737,6 +766,7 @@
       "icon": "https://avatars.githubusercontent.com/u/57679211?v=4"
     },
     {
+      "project": "Imbue Network",
       "name": "Imbue",
       "emoji": "🌐",
       "repository_url": "https://github.com/ImbueNetwork/imbue-frontend",
@@ -758,6 +788,7 @@
       "icon": "https://avatars.githubusercontent.com/u/94470816?v=4"
     },
     {
+      "project": "Imbue Network",
       "name": "Imbue Network",
       "emoji": "🌱",
       "repository_url": "https://github.com/ImbueNetwork/imbue",
@@ -781,6 +812,7 @@
       "icon": "https://avatars.githubusercontent.com/u/94470816?v=4"
     },
     {
+      "project": "Ink!",
       "repository_url": "https://github.com/paritytech/ink",
       "emoji": "🖋️",
       "name": "Ink!",
@@ -808,6 +840,7 @@
       "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
     },
     {
+      "project": "Ink!",
       "repository_url": "https://github.com/paritytech/ink-docs",
       "emoji": "📖",
       "name": "Ink! docs",
@@ -829,6 +862,7 @@
       "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
     },
     {
+      "project": "Ink!",
       "repository_url": "https://github.com/paritytech/ink-examples",
       "emoji": "🚀",
       "interests": [
@@ -860,6 +894,7 @@
       "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
     },
     {
+      "project": "Integritee",
       "name": "Integritee worker",
       "emoji": "🌐",
       "repository_url": "https://github.com/integritee-network/worker",
@@ -884,6 +919,7 @@
       "icon": "https://avatars.githubusercontent.com/u/86358325?v=4"
     },
     {
+      "project": "Interlay",
       "name": "Interbtc",
       "emoji": "🌐",
       "repository_url": "https://github.com/interlay/interbtc",
@@ -914,6 +950,7 @@
       "icon": "https://avatars.githubusercontent.com/u/57096748?v=4"
     },
     {
+      "project": "Interlay",
       "name": "Interbtc UI",
       "repository_url": "https://github.com/interlay/interbtc-ui",
       "interests": [
@@ -943,6 +980,7 @@
       "icon": "https://avatars.githubusercontent.com/u/57096748?v=4"
     },
     {
+      "project": "InvArch",
       "name": "InvArch FRAME Pallet Library",
       "emoji": "🖼️",
       "repository_url": "https://github.com/InvArch/InvArch-Frames",
@@ -968,6 +1006,7 @@
       "icon": "https://avatars.githubusercontent.com/u/89180205?v=4"
     },
     {
+      "project": "InvArch",
       "name": "InvArch Node",
       "emoji": "🌌",
       "repository_url": "https://github.com/InvArch/InvArch-Node",
@@ -988,6 +1027,7 @@
       "icon": "https://avatars.githubusercontent.com/u/89180205?v=4"
     },
     {
+      "project": "Joystream",
       "name": "Joystream",
       "emoji": "🕹️",
       "repository_url": "https://github.com/Joystream/joystream",
@@ -1020,6 +1060,7 @@
       "icon": "https://avatars.githubusercontent.com/u/45568317?v=4"
     },
     {
+      "project": "KILT",
       "name": "KILT node",
       "emoji": "🔗",
       "repository_url": "https://github.com/KILTprotocol/kilt-node",
@@ -1047,6 +1088,7 @@
       "icon": "https://avatars.githubusercontent.com/u/42746727?v=4"
     },
     {
+      "project": "Kodadot",
       "name": "Kodadot NFT Gallery",
       "repository_url": "https://github.com/kodadot/nft-gallery",
       "interests": [
@@ -1090,6 +1132,7 @@
       "icon": "https://avatars.githubusercontent.com/u/64582545?v=4"
     },
     {
+      "project": "Lastic",
       "repository_url": "https://github.com/LasticXYZ/docs",
       "emoji": "📄",
       "name": "Lastic",
@@ -1105,6 +1148,7 @@
       "icon": "https://avatars.githubusercontent.com/u/143817738?v=4"
     },
     {
+      "project": "Litentry",
       "name": "Litentry Parachain",
       "emoji": "🌐",
       "repository_url": "https://github.com/litentry/litentry-parachain",
@@ -1131,6 +1175,7 @@
       "icon": "https://avatars.githubusercontent.com/u/51339301?v=4"
     },
     {
+      "project": "Bit Country",
       "name": "MNET",
       "emoji": "🌐",
       "repository_url": "https://github.com/bit-country/Metaverse-Network",
@@ -1159,6 +1204,7 @@
       "icon": "https://avatars.githubusercontent.com/u/70461516?v=4"
     },
     {
+      "project": "Mangata",
       "name": "Mangata Node",
       "emoji": "💰",
       "repository_url": "https://github.com/mangata-finance/mangata-node",
@@ -1194,6 +1240,7 @@
       "icon": "https://avatars.githubusercontent.com/u/75027423?v=4"
     },
     {
+      "project": "Manta Network",
       "name": "Manta Node",
       "emoji": "🌊",
       "repository_url": "https://github.com/Manta-Network/Manta",
@@ -1227,6 +1274,7 @@
       "icon": "https://avatars.githubusercontent.com/u/74517090?v=4"
     },
     {
+      "project": "Moonbeam",
       "name": "Moonbeam",
       "emoji": "🌙",
       "repository_url": "https://github.com/moonbeam-foundation/moonbeam",
@@ -1261,6 +1309,7 @@
       "icon": "https://avatars.githubusercontent.com/u/84856768?v=4"
     },
     {
+      "project": "Nodle",
       "name": "Nodle Chain",
       "emoji": "🔗",
       "repository_url": "https://github.com/NodleCode/chain",
@@ -1282,6 +1331,7 @@
       "icon": "https://avatars.githubusercontent.com/u/16143558?v=4"
     },
     {
+      "project": "OAK Network",
       "name": "OAK SDK",
       "emoji": "🌳",
       "repository_url": "https://github.com/OAK-Foundation/oak.js",
@@ -1306,6 +1356,7 @@
       "icon": "https://avatars.githubusercontent.com/u/42079491?v=4"
     },
     {
+      "project": "OAK Network",
       "name": "OAK blockchain",
       "emoji": "🌳",
       "repository_url": "https://github.com/OAK-Foundation/OAK-blockchain",
@@ -1336,6 +1387,7 @@
       "icon": "https://avatars.githubusercontent.com/u/42079491?v=4"
     },
     {
+      "project": "Brush Fam",
       "name": "Openbrush Contracts",
       "emoji": "🎨",
       "repository_url": "https://github.com/Brushfam/openbrush-contracts",
@@ -1357,6 +1409,7 @@
       "icon": "https://avatars.githubusercontent.com/u/115636722?v=4"
     },
     {
+      "project": "Encointer",
       "name": "Pallets",
       "emoji": "🌐",
       "repository_url": "https://github.com/encointer/pallets",
@@ -1374,6 +1427,7 @@
       "icon": "https://avatars.githubusercontent.com/u/45148266?v=4"
     },
     {
+      "project": "Parallel Finance",
       "name": "Parallel",
       "emoji": "🔄",
       "repository_url": "https://github.com/parallel-finance/parallel",
@@ -1406,6 +1460,7 @@
       "icon": "https://avatars.githubusercontent.com/u/79623569?v=4"
     },
     {
+      "project": "Peaq Network",
       "name": "Peaq Network Node",
       "emoji": "🌐",
       "repository_url": "https://github.com/peaqnetwork/peaq-network-node",
@@ -1428,6 +1483,7 @@
       "icon": "https://avatars.githubusercontent.com/u/93540734?v=4"
     },
     {
+      "project": "Pendulum",
       "name": "Pendulum",
       "emoji": "⏳",
       "repository_url": "https://github.com/pendulum-chain/pendulum",
@@ -1452,6 +1508,7 @@
       "icon": "https://avatars.githubusercontent.com/u/85612911?v=4"
     },
     {
+      "project": "Pendulum",
       "name": "Pendulum Portal",
       "emoji": "🚪",
       "repository_url": "https://github.com/pendulum-chain/portal",
@@ -1473,6 +1530,7 @@
       "icon": "https://avatars.githubusercontent.com/u/85612911?v=4"
     },
     {
+      "project": "Encointer",
       "name": "Personhood oracle",
       "emoji": "🌐",
       "repository_url": "https://github.com/encointer/personhood-oracle",
@@ -1497,6 +1555,7 @@
       "icon": "https://avatars.githubusercontent.com/u/45148266?v=4"
     },
     {
+      "project": "Phala Network",
       "name": "Phala blockchain",
       "emoji": "🔒",
       "repository_url": "https://github.com/Phala-Network/phala-blockchain",
@@ -1526,6 +1585,7 @@
       "icon": "https://avatars.githubusercontent.com/u/59632547?v=4"
     },
     {
+      "project": "Polkadex",
       "name": "Polkadex",
       "repository_url": "https://github.com/Polkadex-Substrate/Polkadex",
       "interests": [
@@ -1556,6 +1616,7 @@
       "icon": "https://avatars.githubusercontent.com/u/71210205?v=4"
     },
     {
+      "project": "W3F",
       "repository_url": "https://github.com/w3f/PSPs",
       "emoji": "💡",
       "interests": [
@@ -1571,6 +1632,7 @@
       "icon": "https://avatars.githubusercontent.com/u/30405397?v=4"
     },
     {
+      "project": "W3F",
       "repository_url": "https://github.com/w3f/polkadot-spec",
       "emoji": "🔍",
       "name": "Polkadot Protocol",
@@ -1592,6 +1654,7 @@
       "icon": "https://avatars.githubusercontent.com/u/30405397?v=4"
     },
     {
+      "project": "Polkadot",
       "repository_url": "https://github.com/polkadot-fellows/RFCs",
       "emoji": "📜",
       "interests": [
@@ -1610,6 +1673,7 @@
       "icon": "https://avatars.githubusercontent.com/u/113617705?v=4"
     },
     {
+      "project": "Polkadot",
       "repository_url": "https://github.com/paritytech/polkadot-sdk-docs",
       "emoji": "👩‍💻",
       "name": "Polkadot SDK tutorial",
@@ -1628,6 +1692,7 @@
       "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
     },
     {
+      "project": "W3F",
       "repository_url": "https://github.com/w3f/polkadot-docs",
       "emoji": "🌐",
       "name": "Polkadot docs",
@@ -1643,6 +1708,7 @@
       "icon": "https://avatars.githubusercontent.com/u/30405397?v=4"
     },
     {
+      "project": "W3F",
       "repository_url": "https://github.com/w3f/polkadot-wiki",
       "emoji": "📚",
       "interests": [
@@ -1670,6 +1736,7 @@
       "icon": "https://avatars.githubusercontent.com/u/30405397?v=4"
     },
     {
+      "project": "Robonomics",
       "name": "Robonomics",
       "emoji": "🤖",
       "repository_url": "https://github.com/airalab/robonomics",
@@ -1697,6 +1764,7 @@
       "icon": "https://avatars.githubusercontent.com/u/13998040?v=4"
     },
     {
+      "project": "Snowbridge",
       "repository_url": "https://github.com/Snowfork/snowbridge",
       "emoji": "❄️",
       "interests": [
@@ -1728,6 +1796,7 @@
       "icon": "https://avatars.githubusercontent.com/u/63675353?v=4"
     },
     {
+      "project": "SORA",
       "name": "Sora2 Network",
       "emoji": "🌐",
       "repository_url": "https://github.com/sora-xor/sora2-network",
@@ -1760,6 +1829,7 @@
       "icon": "https://avatars.githubusercontent.com/u/50727844?v=4"
     },
     {
+      "project": "SORA",
       "name": "Sora2 Parachain",
       "emoji": "🌐",
       "repository_url": "https://github.com/sora-xor/sora2-parachain",
@@ -1789,6 +1859,7 @@
       "icon": "https://avatars.githubusercontent.com/u/50727844?v=4"
     },
     {
+      "project": "Pendulum",
       "name": "Spacewalk",
       "emoji": "🚀",
       "repository_url": "https://github.com/pendulum-chain/spacewalk",
@@ -1810,6 +1881,7 @@
       "icon": "https://avatars.githubusercontent.com/u/85612911?v=4"
     },
     {
+      "project": "Subsquid",
       "name": "Squid SDK",
       "emoji": "🦑",
       "repository_url": "https://github.com/subsquid/squid-sdk",
@@ -1831,6 +1903,7 @@
       "icon": "https://avatars.githubusercontent.com/u/85824389?v=4"
     },
     {
+      "project": "Starlay",
       "name": "Starlay",
       "repository_url": "https://github.com/starlay-finance/starlay-ui",
       "interests": [
@@ -1851,6 +1924,7 @@
       "icon": "https://avatars.githubusercontent.com/u/98660807?v=4"
     },
     {
+      "project": "SubQuery Network",
       "name": "Subql",
       "emoji": "📊",
       "repository_url": "https://github.com/subquery/subql",
@@ -1872,6 +1946,7 @@
       "icon": "https://avatars.githubusercontent.com/u/77033664?v=4"
     },
     {
+      "project": "Subsocial",
       "name": "Subsocial Node",
       "emoji": "🤝",
       "repository_url": "https://github.com/dappforce/subsocial-parachain",
@@ -1904,6 +1979,7 @@
       "icon": "https://avatars.githubusercontent.com/u/44074401?v=4"
     },
     {
+      "project": "Subspace",
       "name": "Subspace",
       "emoji": "🌌",
       "repository_url": "https://github.com/subspace/subspace",
@@ -1932,6 +2008,7 @@
       "icon": "https://avatars.githubusercontent.com/u/38735363?v=4"
     },
     {
+      "project": "OpenSquare Network",
       "name": "Subsquare",
       "emoji": "🌐",
       "repository_url": "https://github.com/opensquare-network/subsquare",
@@ -1954,6 +2031,7 @@
       "icon": "https://avatars.githubusercontent.com/u/67587196?v=4"
     },
     {
+      "project": "Talisman",
       "name": "Talisman",
       "emoji": "🔮",
       "repository_url": "https://github.com/TalismanSociety/talisman",
@@ -1984,6 +2062,7 @@
       "icon": "https://avatars.githubusercontent.com/u/86999118?v=4"
     },
     {
+      "project": "Tangle",
       "name": "Tangle",
       "emoji": "🕸️",
       "repository_url": "https://github.com/webb-tools/tangle",
@@ -2017,6 +2096,7 @@
       "icon": "https://avatars.githubusercontent.com/u/76852793?v=4"
     },
     {
+      "project": "Tanssi",
       "name": "Tanssi",
       "emoji": "💃",
       "repository_url": "https://github.com/moondance-labs/tanssi",
@@ -2041,6 +2121,7 @@
       "icon": "https://avatars.githubusercontent.com/u/126176994?v=4"
     },
     {
+      "project": "Ternoa",
       "name": "Ternoa node",
       "emoji": "🌐",
       "repository_url": "https://github.com/capsule-corp-ternoa/ternoa-node",
@@ -2067,6 +2148,7 @@
       "icon": "https://avatars.githubusercontent.com/u/75503140?v=4"
     },
     {
+      "project": "Unique",
       "name": "Unique",
       "repository_url": "https://github.com/UniqueNetwork/unique-new-wallet",
       "interests": [
@@ -2090,6 +2172,7 @@
       "icon": "https://avatars.githubusercontent.com/u/87804347?v=4"
     },
     {
+      "project": "Virto Network",
       "name": "Virto Node",
       "emoji": "🌐",
       "repository_url": "https://github.com/virto-network/virto-node",
@@ -2117,6 +2200,7 @@
       "icon": "https://avatars.githubusercontent.com/u/59609085?v=4"
     },
     {
+      "project": "W3F",
       "repository_url": "https://github.com/w3f/research",
       "emoji": "🔬",
       "interests": [
@@ -2136,6 +2220,7 @@
       "icon": "https://avatars.githubusercontent.com/u/30405397?v=4"
     },
     {
+      "project": "Polkadot",
       "repository_url": "https://github.com/paritytech/xcm-docs",
       "emoji": "📘",
       "name": "XCM docs",
@@ -2151,6 +2236,7 @@
       "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
     },
     {
+      "project": "Polkadot",
       "repository_url": "https://github.com/paritytech/xcm-format",
       "emoji": "📤",
       "interests": [
@@ -2166,6 +2252,7 @@
       "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
     },
     {
+      "project": "Zeitgeist",
       "name": "Zeitgeist",
       "emoji": "⏳",
       "repository_url": "https://github.com/zeitgeistpm/zeitgeist",
@@ -2197,6 +2284,7 @@
       "icon": "https://avatars.githubusercontent.com/u/71404578?v=4"
     },
     {
+      "project": "Zeitgeist",
       "name": "Zeitgeist UI",
       "repository_url": "https://github.com/zeitgeistpm/ui",
       "interests": [
@@ -2216,6 +2304,7 @@
       "icon": "https://avatars.githubusercontent.com/u/71404578?v=4"
     },
     {
+      "project": "Zenlink",
       "name": "Zenlink",
       "repository_url": "https://github.com/zenlinkpro/zenlink-interface",
       "interests": [
@@ -2238,6 +2327,7 @@
       "icon": "https://avatars.githubusercontent.com/u/69228823?v=4"
     },
     {
+      "project": "t3rn",
       "name": "t3rn",
       "emoji": "🚀",
       "repository_url": "https://github.com/t3rn/t3rn",
