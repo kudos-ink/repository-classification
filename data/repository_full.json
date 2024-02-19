@@ -596,8 +596,8 @@
         "typescript",
         "shell",
         "javascript",
-        "handlebars",
         "makefile",
+        "handlebars",
         "dockerfile",
         "python"
       ],
@@ -729,7 +729,6 @@
       "about": null,
       "languages": [
         "typescript",
-        "mdx",
         "html",
         "javascript"
       ],
@@ -1781,15 +1780,13 @@
       ],
       "about": "A trustless bridge between Polkadot and Ethereum",
       "languages": [
-        "rust",
         "go",
         "solidity",
         "shell",
+        "rust",
         "typescript",
-        "mustache",
         "javascript",
         "nix",
-        "handlebars",
         "python",
         "dockerfile"
       ],
@@ -2084,14 +2081,14 @@
       ],
       "about": "An MPC as a service restaking network.",
       "languages": [
-        "typescript",
         "rust",
+        "typescript",
         "solidity",
         "handlebars",
         "javascript",
         "shell",
-        "nix",
-        "dockerfile"
+        "dockerfile",
+        "nix"
       ],
       "icon": "https://avatars.githubusercontent.com/u/76852793?v=4"
     },
@@ -2274,12 +2271,12 @@
       "languages": [
         "rust",
         "shell",
+        "typescript",
         "python",
         "tex",
         "handlebars",
         "makefile",
-        "dockerfile",
-        "typescript"
+        "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/71404578?v=4"
     },
@@ -2299,6 +2296,7 @@
         "typescript",
         "css",
         "javascript",
+        "shell",
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/71404578?v=4"
