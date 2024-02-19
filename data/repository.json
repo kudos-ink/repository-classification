@@ -1,6 +1,7 @@
 {
   "repositories": [
     {
+      "project": "Polkadot",
       "name": "Polkadot SDK",
       "emoji": "🌐",
       "repository_url": "https://github.com/paritytech/polkadot-sdk",
@@ -11,6 +12,7 @@
       "id": "f149aef9-2669-4f93-97cc-848da31be521"
     },
     {
+      "project": "Acala",
       "name": "Acala",
       "emoji": "💧",
       "repository_url": "https://github.com/AcalaNetwork/Acala",
@@ -21,6 +23,7 @@
       "id": "bdb953d9-c4a3-4340-b62f-d79c35dfb36a"
     },
     {
+      "project": "Ajuna",
       "name": "Ajuna",
       "repository_url": "https://github.com/ajuna-network/Ajuna",
       "interests": [
@@ -33,6 +36,7 @@
       "id": "4f02f0ad-eb78-432f-b81c-a1b4bd01439b"
     },
     {
+      "project": "Aleph Zero",
       "name": "Aleph Node",
       "emoji": "∞",
       "repository_url": "https://github.com/aleph-zero-foundation/aleph-node",
@@ -42,6 +46,7 @@
       "id": "fc87cecc-505c-40cb-bf10-9235830b4a33"
     },
     {
+      "project": "ArtZero",
       "name": "ArtZero",
       "repository_url": "https://github.com/ArtZero-io/frontend-react",
       "interests": [
@@ -51,6 +56,7 @@
       "id": "35876274-3a12-46e9-b511-fcad5a60e3e1"
     },
     {
+      "project": "Astar",
       "name": "Astar",
       "emoji": "⭐",
       "repository_url": "https://github.com/AstarNetwork/Astar",
@@ -63,6 +69,7 @@
       "id": "f7e6066b-2424-4a46-b720-b82b62553b09"
     },
     {
+      "project": "Automata",
       "name": "Automata",
       "emoji": "🤖",
       "repository_url": "https://github.com/automata-network/automata",
@@ -73,6 +80,7 @@
       "id": "094fe93b-27b7-4547-b604-98a700c905e5"
     },
     {
+      "project": "Bifrost",
       "name": "Bifrost",
       "emoji": "🌈",
       "repository_url": "https://github.com/bifrost-finance/bifrost",
@@ -85,6 +93,7 @@
       "id": "9a1c18ea-be2e-49f0-886d-912a2f983170"
     },
     {
+      "project": "Bifrost",
       "name": "Bifrost js",
       "repository_url": "https://github.com/bifrost-finance/bifrost.js",
       "interests": [
@@ -94,6 +103,7 @@
       "id": "b9ab7f64-ccab-405f-9ce5-5ffaa116493d"
     },
     {
+      "project": "Bit Country",
       "name": "Bit Country",
       "repository_url": "https://github.com/bit-country/bit.country-website",
       "interests": [
@@ -103,6 +113,7 @@
       "id": "abbe415f-855d-4e47-b3a4-5f548b53152d"
     },
     {
+      "project": "Bitgreen",
       "name": "Bitgreen Node",
       "emoji": "🌱",
       "repository_url": "https://github.com/bitgreen/bitgreen-node",
@@ -113,6 +124,7 @@
       "id": "a85f6556-99c6-47d9-ad21-6950fa9dc57c"
     },
     {
+      "project": "Bittensor",
       "name": "Bittensor",
       "emoji": "🧠",
       "repository_url": "https://github.com/opentensor/bittensor",
@@ -123,6 +135,7 @@
       "id": "ae3161b1-6ec7-4a7e-9f4b-026be1ed0282"
     },
     {
+      "project": "Centrifuge",
       "name": "Centrifuge Chain",
       "emoji": "🔄",
       "repository_url": "https://github.com/centrifuge/centrifuge-chain",
@@ -135,6 +148,7 @@
       "id": "3d8f376a-f6c3-4644-912d-4aec6adb827b"
     },
     {
+      "project": "Centrifuge",
       "name": "Centrifuge dapp",
       "repository_url": "https://github.com/centrifuge/apps",
       "interests": [
@@ -144,6 +158,7 @@
       "id": "19c6d001-d1de-4c8c-8d2e-6cc3fd4bc0d5"
     },
     {
+      "project": "Crust",
       "name": "Crust",
       "emoji": "🌐",
       "repository_url": "https://github.com/crustio/crust",
@@ -151,6 +166,7 @@
       "id": "b7d9b901-1529-4d44-b2bc-fe9ad1481f61"
     },
     {
+      "project": "Darwinia",
       "name": "Darwinia Node",
       "emoji": "🌐",
       "repository_url": "https://github.com/darwinia-network/darwinia",
@@ -163,6 +179,7 @@
       "id": "26412c33-0827-4c50-ab34-cb5e4aa31feb"
     },
     {
+      "project": "Deeper Network",
       "name": "Deeper Chain",
       "emoji": "🔄",
       "repository_url": "https://github.com/deeper-chain/deeper-chain",
@@ -174,6 +191,7 @@
       "id": "af4b75c9-6a4f-452d-979c-3b954683a17d"
     },
     {
+      "project": "Dock",
       "name": "Dock substrate",
       "emoji": "🚢",
       "repository_url": "https://github.com/docknetwork/dock-substrate",
@@ -185,6 +203,7 @@
       "id": "943ecd57-04b6-4a41-b313-a7f50380870f"
     },
     {
+      "project": "OpenSquare Network",
       "name": "Dotreasury",
       "emoji": "💸",
       "repository_url": "https://github.com/opensquare-network/dotreasury",
@@ -195,6 +214,7 @@
       "id": "1b8ae28f-a0f5-44d6-8046-d348f791c804"
     },
     {
+      "project": "Encointer",
       "name": "Encointer Node",
       "emoji": "🌐",
       "repository_url": "https://github.com/encointer/encointer-node",
@@ -205,6 +225,7 @@
       "id": "ca0085d5-2c38-4fda-84c2-6294e1415414"
     },
     {
+      "project": "Encointer",
       "name": "Encointer Parachain",
       "emoji": "🌐",
       "repository_url": "https://github.com/encointer/encointer-parachain",
@@ -214,6 +235,7 @@
       "id": "a0706249-3918-44d4-838e-68b742cedb89"
     },
     {
+      "project": "Equilibrium Curve AMM",
       "name": "Equilibrium Curve AMM",
       "repository_url": "https://github.com/equilibrium-eosdt/equilibrium-curve-amm",
       "interests": [
@@ -223,6 +245,7 @@
       "id": "04707db1-1c5a-4dab-939f-c3224c6731c1"
     },
     {
+      "project": "Frequency",
       "name": "Frequency",
       "emoji": "📈",
       "repository_url": "https://github.com/LibertyDSNP/frequency",
@@ -234,6 +257,7 @@
       "id": "2f813d2a-6546-448e-b749-6cb10c8b4684"
     },
     {
+      "project": "Gafi Network",
       "name": "Gafi",
       "emoji": "💡",
       "repository_url": "https://github.com/grindytech/gafi",
@@ -245,6 +269,7 @@
       "id": "ecc13454-c074-4b81-9d98-c3cb15d48d8a"
     },
     {
+      "project": "Gear",
       "name": "Gear",
       "emoji": "⚙️",
       "repository_url": "https://github.com/gear-tech/gear",
@@ -257,6 +282,7 @@
       "id": "84528f03-b3ff-412d-8af6-97468433e5a7"
     },
     {
+      "project": "Grill.chat",
       "name": "Grillchat",
       "repository_url": "https://github.com/dappforce/grillchat",
       "interests": [
@@ -266,6 +292,7 @@
       "id": "0d383e0d-d2b7-4e6b-b4ab-e8754338be42"
     },
     {
+      "project": "Hashed Network",
       "name": "Hashed",
       "emoji": "🔐",
       "repository_url": "https://github.com/hashed-io/hashed-substrate",
@@ -277,6 +304,7 @@
       "id": "267341d3-765c-4520-a9a9-784776d02da6"
     },
     {
+      "project": "HydraDX",
       "name": "HydraDX UI",
       "repository_url": "https://github.com/galacticcouncil/HydraDX-ui",
       "interests": [
@@ -286,6 +314,7 @@
       "id": "833fb513-d1f4-4496-b8b8-81f4d62e846e"
     },
     {
+      "project": "HydraDX",
       "name": "HydraDX Node",
       "emoji": "🌊",
       "repository_url": "https://github.com/galacticcouncil/HydraDX-node",
@@ -298,6 +327,7 @@
       "id": "247abce9-3946-4e12-803b-255e2d03158a"
     },
     {
+      "project": "Imbue Network",
       "name": "Imbue",
       "emoji": "🌐",
       "repository_url": "https://github.com/ImbueNetwork/imbue-frontend",
@@ -308,6 +338,7 @@
       "id": "9a329a5b-f0df-43bc-aefd-d2491313aab9"
     },
     {
+      "project": "Imbue Network",
       "name": "Imbue Network",
       "emoji": "🌱",
       "repository_url": "https://github.com/ImbueNetwork/imbue",
@@ -320,6 +351,7 @@
       "id": "b0f28695-c9f1-4df1-a41c-77952ad5aee8"
     },
     {
+      "project": "Ink!",
       "repository_url": "https://github.com/paritytech/ink",
       "emoji": "🖋️",
       "name": "Ink!",
@@ -329,6 +361,7 @@
       "id": "584e31e8-67e9-4628-a556-fcdbd55f0aef"
     },
     {
+      "project": "Ink!",
       "repository_url": "https://github.com/paritytech/ink-docs",
       "emoji": "📖",
       "name": "Ink! docs",
@@ -339,6 +372,7 @@
       "id": "7634ffdc-89ec-4627-bea2-0ffb38665627"
     },
     {
+      "project": "Ink!",
       "repository_url": "https://github.com/paritytech/ink-examples",
       "emoji": "🚀",
       "interests": [
@@ -349,6 +383,7 @@
       "name": "Ink! examples"
     },
     {
+      "project": "Integritee",
       "name": "Integritee worker",
       "emoji": "🌐",
       "repository_url": "https://github.com/integritee-network/worker",
@@ -358,6 +393,7 @@
       "id": "dd2da285-139a-4d39-bbef-89188acae91e"
     },
     {
+      "project": "Interlay",
       "name": "Interbtc",
       "emoji": "🌐",
       "repository_url": "https://github.com/interlay/interbtc",
@@ -367,6 +403,7 @@
       "id": "f92c9d2d-58c0-4fcf-9ca4-fb637da54ecb"
     },
     {
+      "project": "Interlay",
       "name": "Interbtc UI",
       "repository_url": "https://github.com/interlay/interbtc-ui",
       "interests": [
@@ -376,6 +413,7 @@
       "id": "bd0650a7-30a2-46a8-9e90-3c20baf101b2"
     },
     {
+      "project": "InvArch",
       "name": "InvArch FRAME Pallet Library",
       "emoji": "🖼️",
       "repository_url": "https://github.com/InvArch/InvArch-Frames",
@@ -388,6 +426,7 @@
       "id": "256086e7-3943-4662-a560-a14d023ca565"
     },
     {
+      "project": "InvArch",
       "name": "InvArch Node",
       "emoji": "🌌",
       "repository_url": "https://github.com/InvArch/InvArch-Node",
@@ -399,6 +438,7 @@
       "id": "c1d08eca-419a-41d0-9e13-4ff77c3daa84"
     },
     {
+      "project": "Joystream",
       "name": "Joystream",
       "emoji": "🕹️",
       "repository_url": "https://github.com/Joystream/joystream",
@@ -408,6 +448,7 @@
       "id": "8c34d6f5-eb40-4d05-a333-075ad9d9df46"
     },
     {
+      "project": "KILT",
       "name": "KILT node",
       "emoji": "🔗",
       "repository_url": "https://github.com/KILTprotocol/kilt-node",
@@ -419,6 +460,7 @@
       "id": "71e6763d-5bd0-4eed-8bc9-368b4c0148f3"
     },
     {
+      "project": "Kodadot",
       "name": "Kodadot NFT Gallery",
       "repository_url": "https://github.com/kodadot/nft-gallery",
       "interests": [
@@ -429,6 +471,7 @@
       "id": "86d4f8a8-0283-4059-9079-a16885a04485"
     },
     {
+      "project": "Lastic",
       "repository_url": "https://github.com/LasticXYZ/docs",
       "emoji": "📄",
       "name": "Lastic",
@@ -439,6 +482,7 @@
       "id": "5870b96c-dd97-41c1-8a15-7989ec464d3e"
     },
     {
+      "project": "Litentry",
       "name": "Litentry Parachain",
       "emoji": "🌐",
       "repository_url": "https://github.com/litentry/litentry-parachain",
@@ -448,6 +492,7 @@
       "id": "f4684d74-d632-4301-b76f-2da40798d71b"
     },
     {
+      "project": "Bit Country",
       "name": "MNET",
       "emoji": "🌐",
       "repository_url": "https://github.com/bit-country/Metaverse-Network",
@@ -459,6 +504,7 @@
       "id": "e6d8a01c-5f41-4b3a-99ac-2e8ae274f476"
     },
     {
+      "project": "Mangata",
       "name": "Mangata Node",
       "emoji": "💰",
       "repository_url": "https://github.com/mangata-finance/mangata-node",
@@ -471,6 +517,7 @@
       "id": "104823c7-9380-4672-94ee-0accd5772d02"
     },
     {
+      "project": "Manta Network",
       "name": "Manta Node",
       "emoji": "🌊",
       "repository_url": "https://github.com/Manta-Network/Manta",
@@ -482,6 +529,7 @@
       "id": "794a40b3-7eb6-41b0-b46f-ab84d8fcc5ff"
     },
     {
+      "project": "Moonbeam",
       "name": "Moonbeam",
       "emoji": "🌙",
       "repository_url": "https://github.com/moonbeam-foundation/moonbeam",
@@ -493,6 +541,7 @@
       "id": "8ddff70d-b906-4660-ab48-8c3563fe1e49"
     },
     {
+      "project": "Nodle",
       "name": "Nodle Chain",
       "emoji": "🔗",
       "repository_url": "https://github.com/NodleCode/chain",
@@ -504,6 +553,7 @@
       "id": "992c9a36-65dd-4b5b-8d1c-8d16b1a85b51"
     },
     {
+      "project": "OAK Network",
       "name": "OAK SDK",
       "emoji": "🌳",
       "repository_url": "https://github.com/OAK-Foundation/oak.js",
@@ -514,6 +564,7 @@
       "id": "7dd9de32-1f6e-4bd0-bae5-79d77cb131ca"
     },
     {
+      "project": "OAK Network",
       "name": "OAK blockchain",
       "emoji": "🌳",
       "repository_url": "https://github.com/OAK-Foundation/OAK-blockchain",
@@ -525,6 +576,7 @@
       "id": "3913379f-49cb-48bc-ae7c-d73bf6c13f77"
     },
     {
+      "project": "Brush Fam",
       "name": "Openbrush Contracts",
       "emoji": "🎨",
       "repository_url": "https://github.com/Brushfam/openbrush-contracts",
@@ -536,6 +588,7 @@
       "id": "70bf41c5-f7f9-48be-b6f1-1cbd10f79b1e"
     },
     {
+      "project": "Encointer",
       "name": "Pallets",
       "emoji": "🌐",
       "repository_url": "https://github.com/encointer/pallets",
@@ -546,6 +599,7 @@
       "id": "da578f24-d13e-4294-b8b7-b752adfaac22"
     },
     {
+      "project": "Parallel Finance",
       "name": "Parallel",
       "emoji": "🔄",
       "repository_url": "https://github.com/parallel-finance/parallel",
@@ -558,6 +612,7 @@
       "id": "a2f2fdbf-9903-4676-9d4b-14beb4d79ca4"
     },
     {
+      "project": "Peaq Network",
       "name": "Peaq Network Node",
       "emoji": "🌐",
       "repository_url": "https://github.com/peaqnetwork/peaq-network-node",
@@ -569,6 +624,7 @@
       "id": "8ecb0e53-74a5-44a2-ac79-251bf1c8923c"
     },
     {
+      "project": "Pendulum",
       "name": "Pendulum",
       "emoji": "⏳",
       "repository_url": "https://github.com/pendulum-chain/pendulum",
@@ -580,6 +636,7 @@
       "id": "d3ca21a3-cabc-4dde-a63c-be1a5ab5687b"
     },
     {
+      "project": "Pendulum",
       "name": "Pendulum Portal",
       "emoji": "🚪",
       "repository_url": "https://github.com/pendulum-chain/portal",
@@ -590,6 +647,7 @@
       "id": "2f3ee721-14fe-4f54-9a4b-fd93e9439c58"
     },
     {
+      "project": "Encointer",
       "name": "Personhood oracle",
       "emoji": "🌐",
       "repository_url": "https://github.com/encointer/personhood-oracle",
@@ -599,6 +657,7 @@
       "id": "cf75d097-40d2-4f89-a5d1-f57b5fc721f2"
     },
     {
+      "project": "Phala Network",
       "name": "Phala blockchain",
       "emoji": "🔒",
       "repository_url": "https://github.com/Phala-Network/phala-blockchain",
@@ -610,6 +669,7 @@
       "id": "c2121346-154a-46d5-8aab-b3ca09d0ba96"
     },
     {
+      "project": "Polkadex",
       "name": "Polkadex",
       "repository_url": "https://github.com/Polkadex-Substrate/Polkadex",
       "interests": [
@@ -620,6 +680,7 @@
       "id": "95ece1bc-5c2d-4831-843e-536fdfb333de"
     },
     {
+      "project": "W3F",
       "repository_url": "https://github.com/w3f/PSPs",
       "emoji": "💡",
       "interests": [
@@ -630,6 +691,7 @@
       "id": "1c7d36bc-e4e8-452c-8c59-d5d272bb3290"
     },
     {
+      "project": "W3F",
       "repository_url": "https://github.com/w3f/polkadot-spec",
       "emoji": "🔍",
       "name": "Polkadot Protocol",
@@ -640,6 +702,7 @@
       "id": "6ce19ace-8865-4097-a5d9-8f2a16b58c06"
     },
     {
+      "project": "Polkadot",
       "repository_url": "https://github.com/polkadot-fellows/RFCs",
       "emoji": "📜",
       "interests": [
@@ -650,6 +713,7 @@
       "id": "0e720c18-0c38-4ab9-b66a-ca3dbb8e35fa"
     },
     {
+      "project": "Polkadot",
       "repository_url": "https://github.com/paritytech/polkadot-sdk-docs",
       "emoji": "👩‍💻",
       "name": "Polkadot SDK tutorial",
@@ -660,6 +724,7 @@
       "id": "26a4a9bd-6817-425a-8b98-739a114bbd87"
     },
     {
+      "project": "W3F",
       "repository_url": "https://github.com/w3f/polkadot-docs",
       "emoji": "🌐",
       "name": "Polkadot docs",
@@ -667,9 +732,10 @@
         "polkadot",
         "docs"
       ],
-      "id":"82b3acf9-77f7-46da-b53a-43ba19af41c2"
+      "id": "82b3acf9-77f7-46da-b53a-43ba19af41c2"
     },
     {
+      "project": "W3F",
       "repository_url": "https://github.com/w3f/polkadot-wiki",
       "emoji": "📚",
       "interests": [
@@ -680,6 +746,7 @@
       "id": "6cfdb0fa-9115-4435-b3af-7b7db2a79a44"
     },
     {
+      "project": "Robonomics",
       "name": "Robonomics",
       "emoji": "🤖",
       "repository_url": "https://github.com/airalab/robonomics",
@@ -690,6 +757,7 @@
       "id": "d215802e-377c-467a-90db-9144cc5368c7"
     },
     {
+      "project": "Snowbridge",
       "repository_url": "https://github.com/Snowfork/snowbridge",
       "emoji": "❄️",
       "interests": [
@@ -701,6 +769,7 @@
       "name": "Snowbridge"
     },
     {
+      "project": "SORA",
       "name": "Sora2 Network",
       "emoji": "🌐",
       "repository_url": "https://github.com/sora-xor/sora2-network",
@@ -711,6 +780,7 @@
       "id": "7f447eeb-c416-4dcc-b7fc-4f41394ed09d"
     },
     {
+      "project": "SORA",
       "name": "Sora2 Parachain",
       "emoji": "🌐",
       "repository_url": "https://github.com/sora-xor/sora2-parachain",
@@ -722,6 +792,7 @@
       "id": "7d0a5a1e-15a0-469b-b11e-10cd00226b00"
     },
     {
+      "project": "Pendulum",
       "name": "Spacewalk",
       "emoji": "🚀",
       "repository_url": "https://github.com/pendulum-chain/spacewalk",
@@ -733,6 +804,7 @@
       "id": "63ee19c8-2439-422a-b4e0-4d27cd0daaad"
     },
     {
+      "project": "Subsquid",
       "name": "Squid SDK",
       "emoji": "🦑",
       "repository_url": "https://github.com/subsquid/squid-sdk",
@@ -743,6 +815,7 @@
       "id": "2640eb41-4d1c-4d91-9217-10b6da10c5cf"
     },
     {
+      "project": "Starlay",
       "name": "Starlay",
       "repository_url": "https://github.com/starlay-finance/starlay-ui",
       "interests": [
@@ -752,6 +825,7 @@
       "id": "c3c6fe69-892b-4614-9469-d0d7ff04fcc7"
     },
     {
+      "project": "SubQuery Network",
       "name": "Subql",
       "emoji": "📊",
       "repository_url": "https://github.com/subquery/subql",
@@ -761,6 +835,7 @@
       "id": "252a454a-56e0-4744-965a-fbe00692b0e5"
     },
     {
+      "project": "Subsocial",
       "name": "Subsocial Node",
       "emoji": "🤝",
       "repository_url": "https://github.com/dappforce/subsocial-parachain",
@@ -771,6 +846,7 @@
       "id": "4be6f937-5d13-4b07-a159-521aa96599fd"
     },
     {
+      "project": "Subspace",
       "name": "Subspace",
       "emoji": "🌌",
       "repository_url": "https://github.com/subspace/subspace",
@@ -782,6 +858,7 @@
       "id": "0d16a11f-c7e2-4aa9-ae75-d46fe715e26a"
     },
     {
+      "project": "OpenSquare Network",
       "name": "Subsquare",
       "emoji": "🌐",
       "repository_url": "https://github.com/opensquare-network/subsquare",
@@ -792,6 +869,7 @@
       "id": "ce541040-c2a1-40e1-ab90-193e5f3d0ae0"
     },
     {
+      "project": "Talisman",
       "name": "Talisman",
       "emoji": "🔮",
       "repository_url": "https://github.com/TalismanSociety/talisman",
@@ -803,6 +881,7 @@
       "id": "9e63c326-3e9d-4d41-a7d1-5b36a986f746"
     },
     {
+      "project": "Tangle",
       "name": "Tangle",
       "emoji": "🕸️",
       "repository_url": "https://github.com/webb-tools/tangle",
@@ -814,6 +893,7 @@
       "id": "8e76ee24-cbbb-4e89-94fb-4f6cdadb8988"
     },
     {
+      "project": "Tanssi",
       "name": "Tanssi",
       "emoji": "💃",
       "repository_url": "https://github.com/moondance-labs/tanssi",
@@ -825,6 +905,7 @@
       "id": "7d89bfac-aae2-4306-a922-5d9c0ed4707f"
     },
     {
+      "project": "Ternoa",
       "name": "Ternoa node",
       "emoji": "🌐",
       "repository_url": "https://github.com/capsule-corp-ternoa/ternoa-node",
@@ -836,6 +917,7 @@
       "id": "98d18e95-74df-4535-a1a4-be648b72a41e"
     },
     {
+      "project": "Unique",
       "name": "Unique",
       "repository_url": "https://github.com/UniqueNetwork/unique-new-wallet",
       "interests": [
@@ -846,6 +928,7 @@
       "id": "17b2a440-bc57-4207-847e-2b4c589d92f0"
     },
     {
+      "project": "Virto Network",
       "name": "Virto Node",
       "emoji": "🌐",
       "repository_url": "https://github.com/virto-network/virto-node",
@@ -858,6 +941,7 @@
       "id": "179afa85-2631-419a-b2d0-c0db9bfc0750"
     },
     {
+      "project": "W3F",
       "repository_url": "https://github.com/w3f/research",
       "emoji": "🔬",
       "interests": [
@@ -868,6 +952,7 @@
       "name": "W3F"
     },
     {
+      "project": "Polkadot",
       "repository_url": "https://github.com/paritytech/xcm-docs",
       "emoji": "📘",
       "name": "XCM docs",
@@ -878,6 +963,7 @@
       "id": "63ea5b4b-7d6a-46fb-b4cb-3878770f4f1b"
     },
     {
+      "project": "Polkadot",
       "repository_url": "https://github.com/paritytech/xcm-format",
       "emoji": "📤",
       "interests": [
@@ -888,6 +974,7 @@
       "id": "899dbc50-6b58-4c13-8814-9ca17c72fcfd"
     },
     {
+      "project": "Zeitgeist",
       "name": "Zeitgeist",
       "emoji": "⏳",
       "repository_url": "https://github.com/zeitgeistpm/zeitgeist",
@@ -899,6 +986,7 @@
       "id": "927dab5a-c64d-4225-b1b2-ff46146458f0"
     },
     {
+      "project": "Zeitgeist",
       "name": "Zeitgeist UI",
       "repository_url": "https://github.com/zeitgeistpm/ui",
       "interests": [
@@ -908,6 +996,7 @@
       "id": "90e389e4-b7b7-4a8b-92b7-11c3f52a913c"
     },
     {
+      "project": "Zenlink",
       "name": "Zenlink",
       "repository_url": "https://github.com/zenlinkpro/zenlink-interface",
       "interests": [
@@ -917,6 +1006,7 @@
       "id": "17d25965-0fd7-48a4-a7c4-4b04c936fdec"
     },
     {
+      "project": "t3rn",
       "name": "t3rn",
       "emoji": "🚀",
       "repository_url": "https://github.com/t3rn/t3rn",
