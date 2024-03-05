@@ -12,6 +12,17 @@
       "id": "f149aef9-2669-4f93-97cc-848da31be521"
     },
     {
+      "project": "Kudos",
+      "name": "Kudos Portal",
+      "emoji": "♨️",
+      "repository_url": "https://github.com/kudos-ink/portal",
+      "interests": [
+        "dapp",
+        "data"
+      ],
+      "id": "73d200cf-d9d0-4fac-8bc0-41f9976d442b"
+    },
+    {
       "project": "Acala",
       "name": "Acala",
       "emoji": "💧",
