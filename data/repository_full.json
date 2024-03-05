@@ -35,6 +35,31 @@
       "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
     },
     {
+      "project": "Kudos",
+      "name": "Kudos Portal",
+      "emoji": "♨️",
+      "repository_url": "https://github.com/kudos-ink/portal",
+      "interests": [
+        "dapp",
+        "data"
+      ],
+      "id": "73d200cf-d9d0-4fac-8bc0-41f9976d442b",
+      "value": "kudos-ink/portal",
+      "topics": [
+        "contributions-welcome",
+        "kusama",
+        "polkadot",
+        "substrate"
+      ],
+      "about": "A portal for the Substrate, Polkadot and Kusama ecosystem contributors.",
+      "languages": [
+        "typescript",
+        "javascript",
+        "css"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/148229984?v=4"
+    },
+    {
       "project": "Acala",
       "name": "Acala",
       "emoji": "💧",
@@ -546,8 +571,7 @@
         "rust",
         "shell",
         "dockerfile",
-        "python",
-        "ruby"
+        "python"
       ],
       "icon": "https://avatars.githubusercontent.com/u/45148266?v=4"
     },
@@ -756,6 +780,7 @@
       "languages": [
         "rust",
         "javascript",
+        "typescript",
         "shell",
         "handlebars",
         "makefile",
@@ -885,9 +910,9 @@
       "languages": [
         "rust",
         "typescript",
+        "css",
         "javascript",
         "html",
-        "css",
         "shell"
       ],
       "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
@@ -1124,6 +1149,7 @@
         "typescript",
         "scss",
         "javascript",
+        "html",
         "just",
         "dockerfile",
         "shell"
@@ -1167,6 +1193,7 @@
         "python",
         "dockerfile",
         "solidity",
+        "go",
         "ruby",
         "handlebars",
         "javascript"
@@ -1577,8 +1604,8 @@
         "php",
         "html",
         "dockerfile",
-        "css",
         "c",
+        "css",
         "assembly"
       ],
       "icon": "https://avatars.githubusercontent.com/u/59632547?v=4"
@@ -1782,8 +1809,8 @@
       "languages": [
         "go",
         "solidity",
-        "shell",
         "rust",
+        "shell",
         "typescript",
         "javascript",
         "nix",
@@ -1850,8 +1877,8 @@
         "rust",
         "shell",
         "handlebars",
-        "dockerfile",
-        "makefile"
+        "makefile",
+        "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/50727844?v=4"
     },
