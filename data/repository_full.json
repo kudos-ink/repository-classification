@@ -142,6 +142,7 @@
         "nix",
         "jupyter notebook",
         "handlebars",
+        "webassembly",
         "dockerfile",
         "makefile",
         "javascript"
@@ -254,9 +255,9 @@
         "rust",
         "handlebars",
         "makefile",
-        "javascript",
         "shell",
-        "dockerfile"
+        "dockerfile",
+        "javascript"
       ],
       "icon": "https://avatars.githubusercontent.com/u/52661663?v=4"
     },
@@ -673,9 +674,10 @@
       "value": "gear-tech/gear",
       "topics": [
         "blockchain",
+        "gear",
         "node",
         "rust",
-        "smart-contracts"
+        "web3"
       ],
       "about": "Web3 Ultimate Execution Engine",
       "languages": [
@@ -818,7 +820,7 @@
       "repository_url": "https://github.com/ImbueNetwork/imbue",
       "interests": [
         "gaming",
-        "NFT",
+        "nft",
         "defi",
         "substrate"
       ],
@@ -859,7 +861,8 @@
       "about": "Parity's ink! to write smart contracts.",
       "languages": [
         "rust",
-        "shell"
+        "shell",
+        "webassembly"
       ],
       "icon": "https://avatars.githubusercontent.com/u/14176906?v=4"
     },
@@ -1023,7 +1026,7 @@
         "intellectual-property",
         "nfts"
       ],
-      "about": "InvArch FRAME Pallet Library - NFT, DAO, & IP Ownership Infrastructure for Substrate",
+      "about": "InvArch FRAME Pallet Library - Multi-party ownership, non-custodial & omnichain asset management, and DAO infrastructure.",
       "languages": [
         "rust"
       ],
@@ -1143,7 +1146,7 @@
         "starknet",
         "zksync"
       ],
-      "about": "Polkadot NFT marketplace",
+      "about": "Generative Art Marketplace ",
       "languages": [
         "vue",
         "typescript",
@@ -1207,7 +1210,7 @@
       "repository_url": "https://github.com/bit-country/Metaverse-Network",
       "interests": [
         "gaming",
-        "NFT",
+        "nft",
         "substrate"
       ],
       "id": "e6d8a01c-5f41-4b3a-99ac-2e8ae274f476",
@@ -1222,10 +1225,10 @@
       "languages": [
         "rust",
         "solidity",
+        "shell",
         "handlebars",
         "makefile",
-        "javascript",
-        "shell"
+        "javascript"
       ],
       "icon": "https://avatars.githubusercontent.com/u/70461516?v=4"
     },
@@ -1352,7 +1355,8 @@
         "rust",
         "shell",
         "handlebars",
-        "dockerfile"
+        "dockerfile",
+        "html"
       ],
       "icon": "https://avatars.githubusercontent.com/u/16143558?v=4"
     },
@@ -1809,12 +1813,14 @@
       "languages": [
         "go",
         "solidity",
+        "typescript",
         "rust",
         "shell",
-        "typescript",
         "javascript",
         "nix",
         "python",
+        "html",
+        "css",
         "dockerfile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/63675353?v=4"
@@ -1877,8 +1883,8 @@
         "rust",
         "shell",
         "handlebars",
-        "makefile",
-        "dockerfile"
+        "dockerfile",
+        "makefile"
       ],
       "icon": "https://avatars.githubusercontent.com/u/50727844?v=4"
     },
@@ -2061,7 +2067,7 @@
       "repository_url": "https://github.com/TalismanSociety/talisman",
       "interests": [
         "wallet",
-        "NFT",
+        "nft",
         "dapp"
       ],
       "id": "9e63c326-3e9d-4d41-a7d1-5b36a986f746",
@@ -2111,11 +2117,12 @@
         "rust",
         "typescript",
         "solidity",
-        "handlebars",
         "javascript",
+        "handlebars",
         "shell",
         "dockerfile",
-        "nix"
+        "nix",
+        "python"
       ],
       "icon": "https://avatars.githubusercontent.com/u/76852793?v=4"
     },
@@ -2126,7 +2133,7 @@
       "repository_url": "https://github.com/moondance-labs/tanssi",
       "interests": [
         "gaming",
-        "NFT",
+        "nft",
         "data"
       ],
       "id": "7d89bfac-aae2-4306-a922-5d9c0ed4707f",
@@ -2386,6 +2393,33 @@
         "mustache"
       ],
       "icon": "https://avatars.githubusercontent.com/u/65117420?v=4"
+    },
+    {
+      "project": "Pluto Wallet",
+      "name": "Pluto Wallet",
+      "emoji": "📱",
+      "repository_url": "https://github.com/rostislavLitovkin/plutowallet",
+      "interests": [
+        "gaming",
+        "nft",
+        "wallet",
+        "xcm"
+      ],
+      "id": "e4301d3d-bf72-421e-a322-26e3682af670",
+      "value": "rostislavLitovkin/plutowallet",
+      "topics": [
+        "ajuna",
+        "blockchain",
+        "maui",
+        "polkadot",
+        "substrate",
+        "wallet"
+      ],
+      "about": "Multi-platform mobile wallet for substrate-based chains. Focuses on the best UX. First C# mobile wallet in Polkadot ecosystem.",
+      "languages": [
+        "c#"
+      ],
+      "icon": "https://avatars.githubusercontent.com/u/77352013?v=4"
     }
   ]
 }
