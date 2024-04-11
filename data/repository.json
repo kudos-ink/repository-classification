@@ -355,7 +355,7 @@
       "repository_url": "https://github.com/ImbueNetwork/imbue",
       "interests": [
         "gaming",
-        "NFT",
+        "nft",
         "defi",
         "substrate"
       ],
@@ -509,7 +509,7 @@
       "repository_url": "https://github.com/bit-country/Metaverse-Network",
       "interests": [
         "gaming",
-        "NFT",
+        "nft",
         "substrate"
       ],
       "id": "e6d8a01c-5f41-4b3a-99ac-2e8ae274f476"
@@ -886,7 +886,7 @@
       "repository_url": "https://github.com/TalismanSociety/talisman",
       "interests": [
         "wallet",
-        "NFT",
+        "nft",
         "dapp"
       ],
       "id": "9e63c326-3e9d-4d41-a7d1-5b36a986f746"
@@ -910,7 +910,7 @@
       "repository_url": "https://github.com/moondance-labs/tanssi",
       "interests": [
         "gaming",
-        "NFT",
+        "nft",
         "data"
       ],
       "id": "7d89bfac-aae2-4306-a922-5d9c0ed4707f"
@@ -1027,6 +1027,19 @@
         "bridge"
       ],
       "id": "af89c412-b69f-4437-a6a0-cdf80070a4a9"
+    },
+    {
+      "project": "Pluto Wallet",
+      "name": "Pluto Wallet",
+      "emoji": "📱",
+      "repository_url": "https://github.com/rostislavLitovkin/plutowallet",
+      "interests": [ 
+        "gaming",
+        "nft",
+        "wallet",
+        "xcm"
+      ],
+      "id": "e4301d3d-bf72-421e-a322-26e3682af670"
     }
   ]
 }
