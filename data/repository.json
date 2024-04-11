@@ -1040,6 +1040,18 @@
         "xcm"
       ],
       "id": "e4301d3d-bf72-421e-a322-26e3682af670"
+    },
+    {
+      "project": "inkathon",
+      "name": "inkathon",
+      "emoji": "🦑",
+      "repository_url": "https://github.com/scio-labs/inkathon",
+      "interests": [ 
+        "dapp",
+        "ink!",
+        "utilities",
+      ],
+      "id": "2e18def4-364a-4af5-9d87-7041421745a3"
     }
   ]
 }
