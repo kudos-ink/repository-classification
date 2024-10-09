@@ -1,3 +1,5 @@
+> 🚨 This repository is archived, refer to [Project Classification](https://github.com/kudos-ink/project-classification) instead
+
 # Repositories Classification
 
 ## Description
