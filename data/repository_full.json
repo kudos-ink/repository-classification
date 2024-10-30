@@ -600,14 +600,14 @@
       "project": "Frequency",
       "name": "Frequency",
       "emoji": "📈",
-      "repository_url": "https://github.com/LibertyDSNP/frequency",
+      "repository_url": "https://github.com/frequency-chain/frequency",
       "interests": [
         "data",
         "substrate",
         "oracles"
       ],
       "id": "2f813d2a-6546-448e-b749-6cb10c8b4684",
-      "value": "LibertyDSNP/frequency",
+      "value": "frequency-chain/frequency",
       "topics": [
         "blockchain",
         "parachain",
